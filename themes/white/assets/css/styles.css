@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body {
+      font-family: "Montserrat", serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      height: 100vh;
+      background-color: yellow;
+      background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+/*      background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");*/
+}
+
+
+h1 {
+      font-size: 2.4rem;
+      font-optical-sizing: auto;
+      font-weight: 900;
+      font-style: normal;
+      margin: 2rem 0 0 0;
+      padding: 0;
+}
+
+p {
+      font-size: 1.2rem;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-style: normal;
+      margin: 0.2rem 0 0 0;
+      padding: 0;      
+}
+
+
+#infoContainer {
+      display: none;
+}
+
+#yearDiv {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: rgb(36, 36, 36);
+}
+
+#leagueDiv {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: rgb(36, 36, 36);
+      margin: 0.5rem;
+      padding: 0.5rem;
+}
+#scoreDiv {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: rgb(36, 36, 36);
+}
+
+
+#chartdiv {
+      background-color: transparent;
+}
+
+
+#emojiContainer {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.emoji {
+  display: inline-block;
+  font-size: .8rem;
+  animation: bounce 1s infinite, rotate 2s infinite linear;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #infoContainer {
+          display: block;
+    }
+  
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...}
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    #chartdiv {
+      height: 500px;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+    #chartdiv {
+          height: 900px;
+    }
+
+    h1 {
+          font-size: 4rem;
+          margin: 2rem 0 0 2rem;
+          padding: 0;
+    }
+
+    p {
+          font-size: 2.2rem;
+          margin: 0.2rem 0 0 2rem;
+          padding: 0;
+    }
+}

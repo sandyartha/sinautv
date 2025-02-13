@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{.Title}}</title>
+
+    {{ $css := resources.Get "css/styles.css" }}
+    {{ $style := $css | resources.Minify | resources.Fingerprint }}
+
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+</head>
+<body>
+ 	
+	{{ block "main" . }}{{ end }}
+
+    {{ $h2h := resources.Get "js/h2h.js" }}
+    {{ $h2h := $h2h | resources.Minify | resources.Fingerprint }}
+
+    <script src="{{ $h2h.RelPermalink }}"></script>
+
+</body>
+</html>
