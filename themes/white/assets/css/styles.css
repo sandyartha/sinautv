@@ -8,18 +8,18 @@ body {
       padding: 0;
       text-align: center;
       height: 100vh;
-      background-color: yellow;
+      background-color: #ededed;
       background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png");
 /*      background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");*/
 }
 
 
 h1 {
-      font-size: 2.4rem;
+      font-size: 2rem;
       font-optical-sizing: auto;
       font-weight: 900;
       font-style: normal;
-      margin: 2rem 0 0 0;
+      margin: 1rem 0 0 0;
       padding: 0;
 }
 
@@ -47,8 +47,8 @@ p {
       font-size: 1.2rem;
       font-weight: 600;
       color: rgb(36, 36, 36);
-      margin: 0.5rem;
-      padding: 0.5rem;
+      margin: 0.2rem;
+      padding: 0.2rem;
 }
 #scoreDiv {
       font-size: 1.2rem;
