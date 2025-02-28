@@ -1,0 +1,20 @@
+<div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Image Name</th>
+        <th>Image</th>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Page.Resources.ByType "image" }}
+        <tr>
+          <td>{{ .Name }}</td>
+          <td><img src="{{ .RelPermalink }}" alt="{{ .Name }}" width="100" height="100"></td>
+          <td><a href="{{ .RelPermalink }}">{{ .RelPermalink | safeHTML }}</a></td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

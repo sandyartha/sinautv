@@ -1,5 +1,4 @@
-baseURL = 'https://dango-ball.vercel.app/'
-languageCode = 'en-us'
-title = 'Dango Ball'
-
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
 theme = "white"
