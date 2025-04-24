@@ -103,7 +103,16 @@ fetch("/h2h.json")
       valueAxis.min = 0;
       valueAxis.rangeChangeEasing = am4core.ease.linear;
       valueAxis.rangeChangeDuration = stepDuration;
-      valueAxis.extraMax = 0.2;
+      
+      chart.events.on("sizechanged", function (ev) {
+        if (ev.target.pixelWidth <= 480) {
+          // Mobile
+          valueAxis.extraMax = 0.3; // beri ekstra lebih banyak
+        } else {
+          // Desktop
+          valueAxis.extraMax = 0.1; // default
+        }
+      });
 
       // Membuat seri kolom untuk "poin"
       var poinSeries = chart.series.push(new am4charts.ColumnSeries());
