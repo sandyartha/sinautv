@@ -70,7 +70,7 @@ fetch("/h2h.json")
       // var stepDuration = 30000 / dateKeys.length;
 
       // Untuk durasi animasi 1 menit
-      var stepDuration = 60000 / dateKeys.length;
+      // var stepDuration = 60000 / dateKeys.length;
 
       // Untuk durasi animasi 2 menit
       // var stepDuration = 120000 / dateKeys.length;
@@ -78,7 +78,7 @@ fetch("/h2h.json")
       // Untuk durasi animasi 5 menit
       // var stepDuration = 300000 / dateKeys.length;
 
-      // var stepDuration = 30000 / dateKeys.length;
+      var stepDuration = 30000 / dateKeys.length;
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
@@ -107,7 +107,7 @@ fetch("/h2h.json")
       chart.events.on("sizechanged", function (ev) {
         if (ev.target.pixelWidth <= 480) {
           // Mobile
-          valueAxis.extraMax = 0.2; // beri ekstra lebih banyak
+          valueAxis.extraMax = 0.23; // beri ekstra lebih banyak
         } else {
           // Desktop
           valueAxis.extraMax = 0.1; // default
