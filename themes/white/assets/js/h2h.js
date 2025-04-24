@@ -73,12 +73,12 @@ fetch("/h2h.json")
       // var stepDuration = 60000 / dateKeys.length;
 
       // Untuk durasi animasi 2 menit
-      // var stepDuration = 120000 / dateKeys.length;
+      var stepDuration = 120000 / dateKeys.length;
 
       // Untuk durasi animasi 5 menit
       // var stepDuration = 300000 / dateKeys.length;
 
-      var stepDuration = 30000 / dateKeys.length;
+      // var stepDuration = 30000 / dateKeys.length;
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
