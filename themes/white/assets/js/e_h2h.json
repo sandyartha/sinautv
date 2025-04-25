@@ -1,0 +1,56 @@
+{
+    "1927-04-03": [
+      {
+        "club_name": "Milan FC",
+        "short_name": "MIL",
+        "poin": 1,
+        "score": 2
+      },
+      {
+        "club_name": "FC Internazionale",
+        "short_name": "INT",
+        "poin": 0,
+        "score": 1
+      },
+      {
+        "club_name": "Draw",
+        "short_name": "DRAW",
+        "poin": 0,
+        "date": "1927-04-03",
+        "time": "19:00",
+        "result": "1:2",
+        "league": "DN Girone Finale",
+        "clubs": [
+          "INT",
+          "MIL"
+        ]
+      }
+    ],
+    "1927-06-05": [
+      {
+        "club_name": "Milan FC",
+        "short_name": "MIL",
+        "poin": 1,
+        "score": 1
+      },
+      {
+        "club_name": "FC Internazionale",
+        "short_name": "INT",
+        "poin": 0,
+        "score": 1
+      },
+      {
+        "club_name": "Draw",
+        "short_name": "DRAW",
+        "poin": 1,
+        "date": "1927-06-05",
+        "time": "19:00",
+        "result": "1:1",
+        "league": "DN Girone Finale",
+        "clubs": [
+          "INT",
+          "MIL"
+        ]
+      }
+    ]
+}

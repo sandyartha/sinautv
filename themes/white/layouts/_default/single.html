@@ -7,14 +7,45 @@
 
 
 <div class="chart">
-	<h1>Head to Head...</h1>
-	<p>{{ .Title }}</p>
+	<h1 class="animated-title">Head to Head <sup>⚔</sup></h1>
+	<style>
+		.animated-title {
+			animation: fadeIn 2s ease-in-out;
+		}
+		.animated-h2h {
+			animation: fadeIn2 2s ease-in-out;
+		}
+
+		@keyframes fadeIn {
+			from {
+				opacity: 0;
+				transform: translateY(-20px);
+			}
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+		@keyframes fadeIn2 {
+			from {
+				opacity: 0;
+				transform: translateY(20px);
+			}
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+	</style>
+	<p class="animated-h2h">{{ .Title }}</p>
 	
-	<div id="emojiContainer">
+	<!-- <div id="emojiContainer">
 		<span class="emoji">⚽</span>
 		<span class="emoji">⚽</span>
 		<span class="emoji">⚽</span>
-	</div>
+	</div> -->
 
 	{{ partial "chart.html" . }}
 	

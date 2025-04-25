@@ -24,7 +24,6 @@ fetch("/h2h.json")
       }
     }
 
-
     am4core.ready(function () {
       // Themes begin
       am4core.useTheme(am4themes_animated);
@@ -88,8 +87,6 @@ fetch("/h2h.json")
       categoryAxis.renderer.inversed = true;
       categoryAxis.renderer.grid.template.disabled = true;
 
-
-
       // Adjust padding for categoryY labels
       categoryAxis.renderer.labels.template.padding(10, 10, 10, 10); // top, right, bottom, left
 
@@ -104,7 +101,7 @@ fetch("/h2h.json")
       valueAxis.min = 0;
       valueAxis.rangeChangeEasing = am4core.ease.linear;
       valueAxis.rangeChangeDuration = stepDuration;
-      
+
       chart.events.on("sizechanged", function (ev) {
         if (ev.target.pixelWidth <= 480) {
           // Mobile setting apabila bar chart keluar dari sumbu y, atau dari layar
@@ -152,18 +149,39 @@ fetch("/h2h.json")
       // };
 
       var labelMapping = {
-        MIL: { color: "#FF0000", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/250px-Logo_of_AC_Milan.svg.png" }, // AC Milan (Merah Cerah)
+        MIL: {
+          color: "#FF0000",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/250px-Logo_of_AC_Milan.svg.png",
+        }, // AC Milan (Merah Cerah)
         ROM: { color: "#A50021", logo: "https://example.com/logo/roma.png" }, // AS Roma (Maroon dengan sedikit lebih cerah)
-        ATA: { color: "#003087", logo: "https://example.com/logo/atalanta.png" }, // Atalanta (Biru Tua)
+        ATA: {
+          color: "#003087",
+          logo: "https://example.com/logo/atalanta.png",
+        }, // Atalanta (Biru Tua)
         BOL: { color: "#1A2F4A", logo: "https://example.com/logo/bologna.png" }, // Bologna (Biru Tua dengan sedikit merah)
-        CAG: { color: "#002855", logo: "https://example.com/logo/cagliari.png" }, // Cagliari (Biru Tua)
+        CAG: {
+          color: "#002855",
+          logo: "https://example.com/logo/cagliari.png",
+        }, // Cagliari (Biru Tua)
         COM: { color: "#004080", logo: "https://example.com/logo/como.png" }, // Como (Biru Sedang)
         EMP: { color: "#005566", logo: "https://example.com/logo/empoli.png" }, // Empoli (Biru Azzurro)
-        FIO: { color: "#4B0082", logo: "https://example.com/logo/fiorentina.png" }, // Fiorentina (Ungu)
+        FIO: {
+          color: "#4B0082",
+          logo: "https://example.com/logo/fiorentina.png",
+        }, // Fiorentina (Ungu)
         GEN: { color: "#B30033", logo: "https://example.com/logo/genoa.png" }, // Genoa (Merah dengan sedikit biru)
-        VER: { color: "#0047AB", logo: "https://example.com/logo/hellasverona.png" }, // Hellas Verona (Biru)
-        INT: { color: "#0066CC", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png" }, // Inter Milan (Biru Inter)
-        JUV: { color: "#000000", logo: "https://example.com/logo/juventus.png" }, // Juventus (Hitam)
+        VER: {
+          color: "#0047AB",
+          logo: "https://example.com/logo/hellasverona.png",
+        }, // Hellas Verona (Biru)
+        INT: {
+          color: "#0066CC",
+          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png",
+        }, // Inter Milan (Biru Inter)
+        JUV: {
+          color: "#000000",
+          logo: "https://example.com/logo/juventus.png",
+        }, // Juventus (Hitam)
         LAZ: { color: "#87CEEB", logo: "https://example.com/logo/lazio.png" }, // Lazio (Biru Langit)
         LEC: { color: "#FFD700", logo: "https://example.com/logo/lecce.png" }, // Lecce (Kuning Cerah)
         MON: { color: "#C40000", logo: "https://example.com/logo/monza.png" }, // Monza (Merah)
@@ -196,7 +214,9 @@ fetch("/h2h.json")
 
         if (labelName === "DRAW") {
           // Dapatkan data klub dari chart.data
-          var currentData = chart.data.find((item) => item.short_name === "DRAW");
+          var currentData = chart.data.find(
+            (item) => item.short_name === "DRAW"
+          );
           if (!currentData) return href;
 
           // Ambil nama klub pertama dan kedua (misalnya, dari kolom "clubs")
@@ -211,7 +231,8 @@ fetch("/h2h.json")
           var svgLogo = generateDrawLogo(club1Color, club2Color);
 
           // Konversi SVG ke URL data
-          var svgDataUrl = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
+          var svgDataUrl =
+            "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
 
           return svgDataUrl; // Tetapkan sebagai sumber gambar
         }
@@ -220,8 +241,7 @@ fetch("/h2h.json")
         return labelMapping[labelName]?.logo || href;
       });
 
-
-      // Disable initial animation 
+      // Disable initial animation
       poinSeries.defaultState.transitionDuration = 0;
       poinSeries.hiddenState.transitionDuration = 0;
 
@@ -323,43 +343,73 @@ fetch("/h2h.json")
         currentIndex++;
 
         if (currentIndex >= dateKeys.length) {
+          clearInterval(interval); // Pastikan interval berhenti
+          console.log("Animation completed");
           return;
         }
 
         var newData = allData[dateKeys[currentIndex]];
-        var itemsWithNonZero = 1;
+        console.log("Updating to", dateKeys[currentIndex], newData); // Debug data baru
+
+        // Pastikan urutan tim konsisten
         for (var i = 0; i < chart.data.length; i++) {
-          chart.data[i].poin = newData[i].poin;
-          if (chart.data[i].poin > 0) {
-            itemsWithNonZero++;
+          if (
+            newData[i] &&
+            chart.data[i].short_name === newData[i].short_name
+          ) {
+            chart.data[i].poin = newData[i].poin;
+          } else {
+            console.warn(
+              "Mismatch in team order at index",
+              i,
+              chart.data[i],
+              newData[i]
+            );
           }
         }
 
-        if (currentIndex > 36) {
-          poinSeries.interpolationDuration = stepDuration * 4;
-          valueAxis.rangeChangeDuration = stepDuration * 4;
-        } else {
-          poinSeries.interpolationDuration = stepDuration;
-          valueAxis.rangeChangeDuration = stepDuration;
-        }
+        // Atur durasi animasi secara konsisten
+        poinSeries.interpolationDuration = stepDuration;
+        valueAxis.rangeChangeDuration = stepDuration;
 
         chart.invalidateRawData();
         year = dateKeys[currentIndex];
         label.text = year;
 
-        // Update year, league, and score in separate divs
-        document.getElementById("yearDiv").innerText = year; // Pastikan elemen yearDiv diperbarui
-
+        document.getElementById("yearDiv").innerText = year;
         var leagues = newData.map((item) => item.league || "").join(" ");
         leagueLabel.text = leagues;
         document.getElementById("leagueDiv").innerText = leagues;
 
-        var scores = newData
-          .filter((item) => item.score)
-          .map((item) => "Score: " + item.score)
-          .join(" ");
-        scoreLabel.text = scores;
-        document.getElementById("scoreDiv").innerText = scores;
+        var drawData = newData.find((item) => item.short_name === "DRAW");
+        if (drawData && drawData.clubs && drawData.result) {
+          var club1 = drawData.clubs[0];
+          var club2 = drawData.clubs[1];
+          var result = drawData.result;
+
+          // Ambil warna dari labelMapping
+          var club1Color = labelMapping[club1]?.color || "#000";
+          var club2Color = labelMapping[club2]?.color || "#000";
+
+          // Format skor dengan warna
+          var scores = `
+            <span style="color: ${club1Color};">${club1}</span> 
+            ${result} 
+            <span style="color: ${club2Color};">${club2}</span>
+          `;
+
+          // Tampilkan skor di elemen HTML
+          scoreLabel.html = scores; // Jika library mendukung HTML
+          document.getElementById("scoreDiv").innerHTML = scores; // Gunakan innerHTML untuk mendukung warna
+        } else {
+          // Jika tidak ada data DRAW, fallback ke format default
+          var scores = newData
+            .filter((item) => item.score !== undefined)
+            .map((item) => `${item.club_name}: ${item.score}`)
+            .join(", ");
+          scoreLabel.text = scores;
+          document.getElementById("scoreDiv").innerText = scores;
+        }
 
         adjustZoomLevel(); // Adjust zoom level after updating data
 
@@ -393,7 +443,7 @@ fetch("/h2h.json")
 
       // Tambahkan teks statis "dango ball" di pojok kanan atas area bar chart
       var staticText = chart.plotContainer.createChild(am4core.Label);
-      staticText.text = "dango ball";
+      staticText.text = "yt:dangoball";
       staticText.fontSize = 15;
       staticText.align = "right";
       staticText.valign = "top";
