@@ -24,6 +24,7 @@ fetch("/h2h.json")
       }
     }
 
+
     am4core.ready(function () {
       // Themes begin
       am4core.useTheme(am4themes_animated);
@@ -73,12 +74,12 @@ fetch("/h2h.json")
       // var stepDuration = 60000 / dateKeys.length;
 
       // Untuk durasi animasi 2 menit
-      // var stepDuration = 120000 / dateKeys.length;
+      var stepDuration = 120000 / dateKeys.length;
 
       // Untuk durasi animasi 5 menit
       // var stepDuration = 300000 / dateKeys.length;
 
-      var stepDuration = 30000 / dateKeys.length;
+      // var stepDuration = 30000 / dateKeys.length;
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
@@ -106,7 +107,7 @@ fetch("/h2h.json")
       
       chart.events.on("sizechanged", function (ev) {
         if (ev.target.pixelWidth <= 480) {
-          // Mobile
+          // Mobile setting apabila bar chart keluar dari sumbu y, atau dari layar
           valueAxis.extraMax = 0.23; // beri ekstra lebih banyak
         } else {
           // Desktop
@@ -144,16 +145,81 @@ fetch("/h2h.json")
       poinImage.height = 60; // Adjust logo height
 
       // Define a mapping of label names to custom colors
-      var labelColorMapping = {
-        LIV: "#c8102E",
-        CHE: "#034694",
+      // var labelColorMapping = {
+      //   INT: "#000",
+      //   MIL: "#FFF",
+      //   DRAW: "#333",
+      // };
+
+      var labelMapping = {
+        MIL: { color: "#FF0000", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/250px-Logo_of_AC_Milan.svg.png" }, // AC Milan (Merah Cerah)
+        ROM: { color: "#A50021", logo: "https://example.com/logo/roma.png" }, // AS Roma (Maroon dengan sedikit lebih cerah)
+        ATA: { color: "#003087", logo: "https://example.com/logo/atalanta.png" }, // Atalanta (Biru Tua)
+        BOL: { color: "#1A2F4A", logo: "https://example.com/logo/bologna.png" }, // Bologna (Biru Tua dengan sedikit merah)
+        CAG: { color: "#002855", logo: "https://example.com/logo/cagliari.png" }, // Cagliari (Biru Tua)
+        COM: { color: "#004080", logo: "https://example.com/logo/como.png" }, // Como (Biru Sedang)
+        EMP: { color: "#005566", logo: "https://example.com/logo/empoli.png" }, // Empoli (Biru Azzurro)
+        FIO: { color: "#4B0082", logo: "https://example.com/logo/fiorentina.png" }, // Fiorentina (Ungu)
+        GEN: { color: "#B30033", logo: "https://example.com/logo/genoa.png" }, // Genoa (Merah dengan sedikit biru)
+        VER: { color: "#0047AB", logo: "https://example.com/logo/hellasverona.png" }, // Hellas Verona (Biru)
+        INT: { color: "#0066CC", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png" }, // Inter Milan (Biru Inter)
+        JUV: { color: "#000000", logo: "https://example.com/logo/juventus.png" }, // Juventus (Hitam)
+        LAZ: { color: "#87CEEB", logo: "https://example.com/logo/lazio.png" }, // Lazio (Biru Langit)
+        LEC: { color: "#FFD700", logo: "https://example.com/logo/lecce.png" }, // Lecce (Kuning Cerah)
+        MON: { color: "#C40000", logo: "https://example.com/logo/monza.png" }, // Monza (Merah)
+        NAP: { color: "#00B2E3", logo: "https://example.com/logo/napoli.png" }, // Napoli (Biru Langit Cerah)
+        PAR: { color: "#FFFF00", logo: "https://example.com/logo/parma.png" }, // Parma (Kuning)
+        TOR: { color: "#8B0000", logo: "https://example.com/logo/torino.png" }, // Torino (Merah Granat)
+        UDI: { color: "#000000", logo: "https://example.com/logo/udinese.png" }, // Udinese (Hitam)
+        VEN: { color: "#008C8C", logo: "https://example.com/logo/venezia.png" }, // Venezia (Hijau-Biru)
       };
+
+      function generateDrawLogo(color1, color2) {
+        return `
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 495 495" style="enable-background:new 0 0 495 495;" xml:space="preserve">
+          <g>
+            <path style="fill:${color1};" d="M0,247.5C0,384.19,110.81,495,247.5,495V0C110.81,0,0,110.81,0,247.5z"/>
+            <path style="fill:${color2}" d="M247.5,0v495C384.19,495,495,384.19,495,247.5S384.19,0,247.5,0z"/>
+          </g>
+          </svg>`;
+      }
 
       // Warna berdasarkan nama label
       poinSeries.columns.template.adapter.add("fill", function (fill, target) {
         var labelName = target.dataItem.categoryY;
-        return labelColorMapping[labelName] || fill;
+        return labelMapping[labelName]?.color || "#333";
       });
+
+      poinImage.adapter.add("href", function (href, target) {
+        var labelName = target.dataItem.categoryY;
+
+        if (labelName === "DRAW") {
+          // Dapatkan data klub dari chart.data
+          var currentData = chart.data.find((item) => item.short_name === "DRAW");
+          if (!currentData) return href;
+
+          // Ambil nama klub pertama dan kedua (misalnya, dari kolom "clubs")
+          var club1 = currentData.clubs?.[0]; // Nama klub pertama
+          var club2 = currentData.clubs?.[1]; // Nama klub kedua
+
+          // Ambil warna klub dari labelMapping
+          var club1Color = labelMapping[club1]?.color || "#000000"; // Default hitam
+          var club2Color = labelMapping[club2]?.color || "#FFFFFF"; // Default putih
+
+          // Generate SVG logo untuk DRAW
+          var svgLogo = generateDrawLogo(club1Color, club2Color);
+
+          // Konversi SVG ke URL data
+          var svgDataUrl = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
+
+          return svgDataUrl; // Tetapkan sebagai sumber gambar
+        }
+
+        // Gunakan logo dari labelMapping jika bukan DRAW
+        return labelMapping[labelName]?.logo || href;
+      });
+
 
       // Disable initial animation 
       poinSeries.defaultState.transitionDuration = 0;

@@ -1,4 +1,4 @@
-am4core.addLicense("ch-custom-attribution");
+// am4core.addLicense("ch-custom-attribution");
 
 // Load the Rubik font
 var link = document.createElement("link");
@@ -56,7 +56,6 @@ fetch("/h2h.json")
       label.dx = -0;
       label.fontSize = 25; // Adjust font size for year
       label.opacity = 0.5; // Set opacity for the year indicator label
-      label.className = "chart-label"; // Tambahkan kelas CSS
 
       var playButton = chart.plotContainer.createChild(am4core.PlayButton); // Membuat tombol play
       playButton.x = am4core.percent(97);
@@ -76,9 +75,10 @@ fetch("/h2h.json")
       // var stepDuration = 120000 / dateKeys.length;
 
       // Untuk durasi animasi 5 menit
-      var stepDuration = 300000 / dateKeys.length;
+      // var stepDuration = 300000 / dateKeys.length;
 
-      // var stepDuration = 30000 / dateKeys.length;
+      var stepDuration = 1000; // sekitar 789ms per frame
+
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
@@ -86,8 +86,6 @@ fetch("/h2h.json")
       categoryAxis.renderer.minGridDistance = 1;
       categoryAxis.renderer.inversed = true;
       categoryAxis.renderer.grid.template.disabled = true;
-
-
 
       // Adjust padding for categoryY labels
       categoryAxis.renderer.labels.template.padding(10, 10, 10, 10); // top, right, bottom, left
@@ -103,16 +101,7 @@ fetch("/h2h.json")
       valueAxis.min = 0;
       valueAxis.rangeChangeEasing = am4core.ease.linear;
       valueAxis.rangeChangeDuration = stepDuration;
-      
-      chart.events.on("sizechanged", function (ev) {
-        if (ev.target.pixelWidth <= 480) {
-          // Mobile
-          valueAxis.extraMax = 0.23; // beri ekstra lebih banyak
-        } else {
-          // Desktop
-          valueAxis.extraMax = 0.1; // default
-        }
-      });
+      valueAxis.extraMax = 0.1;
 
       // Membuat seri kolom untuk "poin"
       var poinSeries = chart.series.push(new am4charts.ColumnSeries());
@@ -155,7 +144,7 @@ fetch("/h2h.json")
         return labelColorMapping[labelName] || fill;
       });
 
-      // Disable initial animation 
+      // Disable initial animation
       poinSeries.defaultState.transitionDuration = 0;
       poinSeries.hiddenState.transitionDuration = 0;
 
@@ -171,34 +160,12 @@ fetch("/h2h.json")
           poinSeries.columns.template.height = 50; // Adjust column height for mobile screens
           poinLabelBullet.label.fontSize = 20; // Adjust font size for mobile screens
           poinImage.height = 55; // Adjust logo height for mobile screens
-          adjustZoomLevel(); // Adjust zoom level for mobile screens
-
-          // Hide labels on mobile
-          label.hide();
-          leagueLabel.hide();
-          scoreLabel.hide();
         } else {
           poinSeries.columns.template.maxWidth = 10; // Default column width for larger screens
+          poinLabelBullet.label.fontSize = 25; // Default font size for larger screens
           poinImage.height = 60; // Default logo height for larger screens
-          categoryAxis.zoom({ start: 0, end: 1 }); // Ensure all bars are visible on larger screens
-
-          // Show labels on larger screens
-          label.show();
-          leagueLabel.show();
-          scoreLabel.show();
         }
       });
-
-      // Function to adjust zoom level based on items with non-zero values
-      function adjustZoomLevel() {
-        var itemsWithNonZero = chart.data.filter(
-          (item) => item.poin > 0
-        ).length;
-        categoryAxis.zoom({
-          start: 0,
-          end: itemsWithNonZero / categoryAxis.dataItems.length,
-        });
-      }
 
       // Adapter untuk memastikan angka bulat dari 3.49293 ke 3
       poinLabelBullet.label.adapter.add("text", function (text, target) {
@@ -210,9 +177,6 @@ fetch("/h2h.json")
       var year = dateKeys[currentIndex]; // Initialize with the first date key
       label.text = year;
 
-      // Update year, league, and score in separate divs
-      document.getElementById("yearDiv").innerText = year;
-
       var leagueLabel = chart.plotContainer.createChild(am4core.Label); // Membuat label untuk league
       leagueLabel.x = am4core.percent(100);
       leagueLabel.y = am4core.percent(91);
@@ -222,7 +186,6 @@ fetch("/h2h.json")
       leagueLabel.fontSize = 20; // Adjust font size for league
       leagueLabel.dy = 10; // Adjust the position below the year indicator
       leagueLabel.opacity = 0.5; // Set opacity for the league label
-      leagueLabel.className = "chart-label"; // Tambahkan kelas CSS
 
       var scoreLabel = chart.plotContainer.createChild(am4core.Label); // Membuat label untuk score
       scoreLabel.x = am4core.percent(100); // Set the x position of the label
@@ -233,7 +196,6 @@ fetch("/h2h.json")
       scoreLabel.fontSize = 20; // Adjust font size for score
       scoreLabel.dy = 20; // Adjust the position below the league label
       scoreLabel.opacity = 0.5; // Set opacity for the score label
-      scoreLabel.className = "chart-label"; // Tambahkan kelas CSS
 
       var interval; // Variabel untuk interval animasi
 
@@ -270,8 +232,8 @@ fetch("/h2h.json")
         }
 
         if (currentIndex > 36) {
-          poinSeries.interpolationDuration = stepDuration * 1;
-          valueAxis.rangeChangeDuration = stepDuration * 1;
+          poinSeries.interpolationDuration = stepDuration * 2;
+          valueAxis.rangeChangeDuration = stepDuration * 2;
         } else {
           poinSeries.interpolationDuration = stepDuration;
           valueAxis.rangeChangeDuration = stepDuration;
@@ -281,21 +243,20 @@ fetch("/h2h.json")
         year = dateKeys[currentIndex];
         label.text = year;
 
-        // Update year, league, and score in separate divs
-        document.getElementById("yearDiv").innerText = year; // Pastikan elemen yearDiv diperbarui
-
+        // Update league and score labels
         var leagues = newData.map((item) => item.league || "").join(" ");
         leagueLabel.text = leagues;
-        document.getElementById("leagueDiv").innerText = leagues;
 
         var scores = newData
           .filter((item) => item.score)
           .map((item) => "Score: " + item.score)
           .join(" ");
         scoreLabel.text = scores;
-        document.getElementById("scoreDiv").innerText = scores;
 
-        adjustZoomLevel(); // Adjust zoom level after updating data
+        categoryAxis.zoom({
+          start: 0,
+          end: itemsWithNonZero / categoryAxis.dataItems.length,
+        });
 
         // Log untuk debugging
         console.log("Year:", year);
@@ -319,22 +280,6 @@ fetch("/h2h.json")
           play(); // Start the animation automatically
         }, 2000);
       });
-
-      // Update zoom level when data changes
-      categoryAxis.events.on("datavalidated", function () {
-        adjustZoomLevel();
-      });
-
-      // Tambahkan teks statis "dango ball" di pojok kanan atas area bar chart
-      var staticText = chart.plotContainer.createChild(am4core.Label);
-      staticText.text = "dango ball";
-      staticText.fontSize = 15;
-      staticText.align = "right";
-      staticText.valign = "top";
-      staticText.opacity = 0.2; // Set opacity for the score label
-      staticText.dx = -10;
-      staticText.dy = 10;
-      staticText.fill = am4core.color("#000000"); // Warna teks hitam
 
       // am4core.options.commercialWatermark.fontSize = 20; // Adjust watermark font size
       // am4core.options.commercialWatermark.height = 2; // Adjust watermark image height

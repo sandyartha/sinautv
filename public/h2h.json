@@ -1,2123 +1,6131 @@
-{   
-    "2024-10-30": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 1,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 1,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 1,
-            "score": "0 - 0",
-            "league": "-",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-10-31": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 0,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 1,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 0,
-            "score": "3 - 4",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-01": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 1,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 1,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 0,
-            "score": "4 - 1",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-02": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 1,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 2,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 0,
-            "score": "1 - 3",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-03": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 1,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 2,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 1,
-            "score": "5 - 5",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-04": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 2,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 2,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 1,
-            "score": "5 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-05": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 3,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 2,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 1,
-            "score": "3 - 2",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-06": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 3,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 3,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 1,
-            "score": "1 - 2",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-07": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 3,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 3,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 2,
-            "score": "0 - 0",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-08": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 3,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 4,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 2,
-            "score": "2 - 5",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-09": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 4,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 4,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 2,
-            "score": "3 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-10": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 5,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 4,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 2,
-            "score": "5 - 3",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-11": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 5,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 4,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "1 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-12": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 6,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 4,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "4 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-13": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 6,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 5,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "2 - 4",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-14": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 6,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 6,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "0 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-15": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 6,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "1 - 4",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-16": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 7,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "4 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-17": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 8,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "5 - 3",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-18": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 9,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 3,
-            "score": "3 - 0",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-19": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 9,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 4,
-            "score": "5 - 5",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-20": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 9,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 7,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "5 - 5",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-21": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 9,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 8,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "2 - 5",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-22": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 10,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 8,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "4 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-23": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 10,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 9,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "2 - 5",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-24": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 11,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 9,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "3 - 1",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-25": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 11,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 10,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "4 - 5",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-26": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 11,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 11,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "4 - 5",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-27": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 12,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 11,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "3 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-28": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 13,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 11,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 5,
-            "score": "4 - 2",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-29": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 13,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 11,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "5 - 5",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-11-30": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 13,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 12,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "1 - 3",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-01": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 13,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 13,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "0 - 4",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-02": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 14,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 13,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "5 - 3",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-03": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 15,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 13,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "5 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-04": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 15,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 14,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 6,
-            "score": "1 - 5",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-05": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 15,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 14,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "3 - 3",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-06": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 15,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 15,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "1 - 3",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-07": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 15,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 16,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "0 - 2",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-08": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 16,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 16,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "5 - 0",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-09": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 17,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 16,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "3 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-10": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 18,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 16,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "2 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-11": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 19,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 16,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "3 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-12": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 19,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 17,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "0 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-13": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 20,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 17,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "2 - 1",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-14": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 21,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 17,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "5 - 0",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-15": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 22,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 17,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "5 - 1",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-16": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 23,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 17,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "1 - 0",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-17": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 23,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 7,
-            "score": "0 - 5",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-18": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 23,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 8,
-            "score": "4 - 4",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-19": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 23,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "3 - 3",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-20": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 24,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "5 - 4",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-21": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 25,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "4 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-22": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 26,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "2 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-23": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 27,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "2 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-24": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 9,
-            "score": "1 - 0",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-25": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 10,
-            "score": "5 - 5",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-26": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 11,
-            "score": "4 - 4",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-27": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 18,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 12,
-            "score": "1 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-28": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 12,
-            "score": "1 - 4",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-29": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 28,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 13,
-            "score": "3 - 3",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-30": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 29,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 13,
-            "score": "5 - 4",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2024-12-31": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 29,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "1 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-01": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 30,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "3 - 2",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-02": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 31,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "3 - 1",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-03": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 32,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 19,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "2 - 1",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-04": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 32,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 20,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "2 - 5",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-05": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 33,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 20,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "5 - 4",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-06": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 33,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 21,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "2 - 4",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-07": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 34,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 21,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 14,
-            "score": "4 - 0",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-08": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 34,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 21,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "1 - 1",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-09": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 35,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 21,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "4 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-10": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 36,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 21,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "4 - 2",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-11": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 36,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 22,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "4 - 5",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-12": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 37,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 22,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "1 - 0",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-13": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 37,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 23,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "4 - 5",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-14": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 38,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 23,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "2 - 1",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-15": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 39,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 23,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 15,
-            "score": "4 - 1",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-16": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 39,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 23,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 16,
-            "score": "4 - 4",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-17": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 39,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 23,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 17,
-            "score": "1 - 1",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-18": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 39,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 17,
-            "score": "0 - 2",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-19": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 40,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 17,
-            "score": "5 - 2",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-20": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 41,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 17,
-            "score": "3 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-21": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 41,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "5 - 5",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-22": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 42,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "5 - 2",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-23": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 43,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "3 - 2",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-24": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 44,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "4 - 3",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-25": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 45,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "2 - 1",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-26": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 46,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 18,
-            "score": "4 - 3",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-27": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 46,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 19,
-            "score": "4 - 4",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-28": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 46,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 24,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 20,
-            "score": "1 - 1",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-29": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 46,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 25,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 20,
-            "score": "1 - 3",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-30": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 46,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 25,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 21,
-            "score": "1 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-01-31": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 47,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 25,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 21,
-            "score": "2 - 0",
-            "league": "Europa League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-01": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 47,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 26,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 21,
-            "score": "2 - 3",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-02": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 47,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 27,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 21,
-            "score": "0 - 4",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-03": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 47,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 28,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 21,
-            "score": "0 - 4",
-            "league": "Premier League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-04": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 47,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 28,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 22,
-            "score": "2 - 2",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-05": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 48,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 28,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 22,
-            "score": "2 - 1",
-            "league": "Champions League",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-06": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 48,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 29,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 22,
-            "score": "1 - 2",
-            "league": "FA Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ],
-    "2025-02-07": [
-        {
-            "club_name": "Liverpool",
-            "short_name": "LIV",
-            "poin": 49,
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png"
-        },
-        {
-            "club_name": "Chelsea",
-            "short_name": "CHE",
-            "poin": 29,
-            "logo": "https://res.cloudinary.com/jurus32/image/upload/c_fit,w_240/v1739602464/liga-inggris/Chelsea-FC-logo.webp"
-        },
-        {
-            "short_name": "Draw",
-            "poin": 22,
-            "score": "5 - 0",
-            "league": "Carabao Cup",
-            "logo": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png"
-        }
-    ]
+{
+  "1927-06-05": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 0
+    },
+    {
+      "club_name": "FC Internazionale",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-06-05",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1927-04-03": [
+    {
+      "club_name": "FC Internazionale",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 0
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-04-03",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1928-07-08": [
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 0
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1928-07-08",
+      "time": "19:00",
+      "result": "2:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1928-04-29": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1928-04-29",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1930-04-13": [
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-04-13",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1929-11-10": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1929-11-10",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1931-03-19": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1931-03-19",
+      "time": "19:00",
+      "result": "1:4",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1930-10-26": [
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 4
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1930-10-26",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1932-03-06": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 4
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-03-06",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1931-10-18": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1931-10-18",
+      "time": "19:00",
+      "result": "2:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1933-04-09": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1933-04-09",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1932-11-06": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "5",
+      "poin": 7
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "4",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-11-06",
+      "time": "19:00",
+      "result": "5:4",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1934-03-11": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 8
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1934-03-11",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1933-11-01": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 9
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1933-11-01",
+      "time": "19:00",
+      "result": "3:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1935-04-14": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 10
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1935-04-14",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1934-12-02": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 10
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1934-12-02",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1936-02-02": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 10
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1936-02-02",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1935-09-29": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 10
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1935-09-29",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1937-02-07": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 10
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1937-02-07",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1936-10-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 2
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 10
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1936-10-04",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1938-02-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 3
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 10
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-02-20",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1937-10-17": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 11
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1937-10-17",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1939-02-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 4
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 11
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-02-12",
+      "time": "19:00",
+      "result": "3:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1938-10-02": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 12
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-10-02",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1940-05-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 4
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 13
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-05-12",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1939-12-17": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 13
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-12-17",
+      "time": "19:00",
+      "result": "0:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1941-02-09": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 13
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1941-02-09",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1940-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 5
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 14
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1940-10-20",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1942-06-07": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 14
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1942-06-07",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1942-01-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 6
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 14
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1942-01-25",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1943-04-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 6
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 15
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1943-04-18",
+      "time": "19:00",
+      "result": "0:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1943-01-03": [
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 16
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1943-01-03",
+      "time": "19:00",
+      "result": "3:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1946-07-21": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 16
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 7
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-07-21",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1946-05-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 8
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-05-30",
+      "time": "19:00",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "DN Girone Finale"
+    }
+  ],
+  "1946-02-10": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 17
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 8
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-02-10",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "DN"
+    }
+  ],
+  "1945-11-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 8
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 18
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1945-11-04",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "DN"
+    }
+  ],
+  "1947-03-16": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 18
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 9
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-03-16",
+      "time": "09:30",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1946-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 10
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 18
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-10-20",
+      "time": "09:00",
+      "result": "3:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1948-04-11": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 18
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 11
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-04-11",
+      "time": "10:00",
+      "result": "0:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1947-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 12
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 18
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-11-02",
+      "time": "08:30",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1949-02-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 18
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "4",
+      "poin": 12
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1949-02-06",
+      "time": "19:00",
+      "result": "4:4",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1948-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 12
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 19
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1948-10-16",
+      "time": "19:00",
+      "result": "0:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1950-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 13
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 19
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1950-03-19",
+      "time": "19:00",
+      "result": "3:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1949-11-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "6",
+      "poin": 20
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "5",
+      "poin": 13
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1949-11-06",
+      "time": "19:00",
+      "result": "6:5",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1951-03-25": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 20
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 14
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1951-03-25",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1950-11-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 14
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 21
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1950-11-12",
+      "time": "19:00",
+      "result": "2:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1952-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 15
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 21
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1952-04-06",
+      "time": "10:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1951-11-04": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 21
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 15
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1951-11-04",
+      "time": "08:30",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1953-03-08": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 21
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 15
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-03-08",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1952-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 15
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 22
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1952-11-02",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1954-03-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 16
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 22
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1954-03-21",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1953-11-01": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 23
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-11-01",
+      "time": "19:00",
+      "result": "3:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1955-04-03": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 23
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1955-04-03",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1954-11-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 23
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1954-11-07",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1956-03-11": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 24
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1956-03-11",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1955-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 25
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1955-10-16",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1957-03-10": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 25
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1957-03-10",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1956-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 25
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1956-10-21",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1958-07-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 25
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 16
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1958-07-06",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1958-06-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 17
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 25
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1958-06-14",
+      "time": "19:00",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1958-02-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 17
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 25
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1958-02-23",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1957-10-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 26
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 17
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1957-10-06",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1959-03-22": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 27
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 17
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1959-03-22",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1958-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 17
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 27
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1958-11-02",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1960-03-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "5",
+      "poin": 18
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 27
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1960-03-27",
+      "time": "19:00",
+      "result": "5:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1959-11-08": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 27
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 18
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1959-11-08",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1961-03-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 19
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 27
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1961-03-26",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1960-11-20": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 28
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 19
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1960-11-20",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1962-02-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 19
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 29
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1962-02-04",
+      "time": "19:00",
+      "result": "0:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1961-10-01": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 29
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 20
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1961-10-01",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1963-02-24": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 29
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 20
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1963-02-24",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1962-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 20
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 29
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1962-10-21",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1964-03-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 20
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 29
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-03-22",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1964-01-19": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 29
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 21
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-01-19",
+      "time": "19:00",
+      "result": "0:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1965-03-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 21
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "5",
+      "poin": 30
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1965-03-28",
+      "time": "19:00",
+      "result": "2:5",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1964-11-15": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 30
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 22
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-11-15",
+      "time": "19:00",
+      "result": "0:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1966-04-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 22
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 31
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1966-04-03",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1965-11-21": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 31
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 22
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1965-11-21",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1967-04-02": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 32
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 22
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1967-04-02",
+      "time": "19:00",
+      "result": "4:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1966-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 22
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 33
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1966-11-20",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1968-06-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "4",
+      "poin": 23
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 33
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1968-06-26",
+      "time": "19:00",
+      "result": "4:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1968-06-16": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 33
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 23
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1968-06-16",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1968-02-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 23
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 33
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1968-02-18",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1967-10-22": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 33
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 23
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1967-10-22",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1969-03-02": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 33
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 23
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1969-03-02",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1968-11-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 24
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 33
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1968-11-03",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1970-03-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 24
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 34
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1970-03-08",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1969-11-09": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 34
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 24
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1969-11-09",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1971-03-07": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 35
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 24
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1971-03-07",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1970-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 25
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1970-11-08",
+      "time": "19:00",
+      "result": "3:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1972-06-28": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 26
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1972-06-28",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1972-06-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 27
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1972-06-08",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1972-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 27
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 35
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-03-19",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1971-11-28": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 35
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 28
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1971-11-28",
+      "time": "19:00",
+      "result": "2:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1973-03-18": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 29
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1973-03-18",
+      "time": "19:00",
+      "result": "0:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1972-11-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 30
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 35
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-11-19",
+      "time": "19:00",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1974-05-01": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 36
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 30
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-05-01",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1974-03-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 30
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "5",
+      "poin": 37
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-03-24",
+      "time": "19:00",
+      "result": "1:5",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1974-01-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 30
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 38
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-01-13",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1973-12-02": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 30
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1973-12-02",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1975-06-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 30
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1975-06-15",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1975-05-25": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 31
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1975-05-25",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1975-03-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 32
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1975-03-09",
+      "time": "19:00",
+      "result": "3:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1974-11-10": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 32
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1974-11-10",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1976-03-28": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 33
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1976-03-28",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1975-12-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 34
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1975-12-07",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1977-07-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 35
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1977-07-03",
+      "time": "14:30",
+      "result": "2:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1977-03-27": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1977-03-27",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1976-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 35
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1976-11-28",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1978-03-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 35
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1978-03-12",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1977-11-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 36
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1977-11-06",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1979-03-18": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 39
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 36
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1979-03-18",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1978-11-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1978-11-12",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1980-03-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 40
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1980-03-02",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1979-10-28": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 41
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1979-10-28",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1980-09-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 42
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1980-09-07",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1982-03-07": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 43
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 37
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1982-03-07",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1981-10-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 44
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1981-10-25",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1981-09-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 44
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 37
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1981-09-06",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1984-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 44
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "1984-03-18",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1983-11-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 45
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 37
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "1983-11-06",
+      "time": "19:00",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1985-06-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 37
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "1985-06-26",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1985-06-23": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 38
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "1985-06-23",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1985-03-17": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 45
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 38
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "1985-03-17",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1984-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 39
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "1984-10-28",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1986-04-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 46
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 39
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "1986-04-06",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1985-12-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 39
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 46
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "1985-12-01",
+      "time": "19:00",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1987-03-01": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 46
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 40
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "1987-03-01",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1986-10-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 40
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 46
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1986-10-12",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1988-04-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 41
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 46
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1988-04-24",
+      "time": "09:00",
+      "result": "2:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1987-12-20": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 46
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 42
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1987-12-20",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1989-04-30": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 46
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 42
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1989-04-30",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1988-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 42
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 47
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1988-12-11",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1990-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 42
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1990-03-18",
+      "time": "19:00",
+      "result": "1:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1989-11-19": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 48
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 43
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1989-11-19",
+      "time": "19:00",
+      "result": "0:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1991-03-24": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 48
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 44
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1991-03-24",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1990-11-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 44
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1990-11-18",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1992-04-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1992-04-18",
+      "time": "19:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1991-12-01": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "1991-12-01",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1993-04-10": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 45
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "1993-04-10",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1993-02-10": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 49
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 46
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "1993-02-10",
+      "time": "14:30",
+      "result": "0:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1993-01-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 46
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "1993-01-27",
+      "time": "19:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1992-11-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 46
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1992-11-22",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1994-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 47
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1994-03-20",
+      "time": "14:30",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1993-11-07": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1993-11-07",
+      "time": "08:30",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1995-04-15": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 50
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1995-04-15",
+      "time": "19:00",
+      "result": "3:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1994-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 50
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1994-11-20",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1994-10-26": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 51
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1994-10-26",
+      "time": "19:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1994-10-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 52
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1994-10-12",
+      "time": "19:00",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1996-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 48
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 53
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1996-03-10",
+      "time": "19:00",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1995-10-29": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 53
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "1995-10-29",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1997-04-13": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 54
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "1997-04-13",
+      "time": "19:00",
+      "result": "3:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1996-11-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 48
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 54
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1996-11-24",
+      "time": "19:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1998-03-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 48
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 55
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1998-03-22",
+      "time": "14:30",
+      "result": "0:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1998-01-21": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 56
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 48
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1998-01-21",
+      "time": "14:30",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1998-01-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "5",
+      "poin": 49
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 56
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1998-01-08",
+      "time": "14:45",
+      "result": "5:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1997-11-22": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 56
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 52,
+      "date": "1997-11-22",
+      "time": "14:30",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1999-03-13": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 56
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 53,
+      "date": "1999-03-13",
+      "time": "14:30",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "1998-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 49
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 56
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 54,
+      "date": "1998-11-08",
+      "time": "14:30",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2000-03-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 57
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 54,
+      "date": "2000-03-05",
+      "time": "14:45",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2000-01-27": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 57
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 49
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "2000-01-27",
+      "time": "14:45",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2000-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 49
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 58
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "2000-01-12",
+      "time": "14:45",
+      "result": "2:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "1999-10-23": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 58
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 50
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "1999-10-23",
+      "time": "14:30",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2001-05-11": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 58
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "6",
+      "poin": 51
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "2001-05-11",
+      "time": "14:30",
+      "result": "0:6",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2001-01-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 51
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 58
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2001-01-07",
+      "time": "14:30",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2002-03-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 51
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2002-03-03",
+      "time": "14:30",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2001-10-21": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "4",
+      "poin": 52
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2001-10-21",
+      "time": "14:30",
+      "result": "2:4",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2003-05-13": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 52
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 57,
+      "date": "2003-05-13",
+      "time": "14:45",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2003-05-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 52
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2003-05-07",
+      "time": "14:45",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2003-04-12": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 53
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2003-04-12",
+      "time": "14:30",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2002-11-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 54
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2002-11-23",
+      "time": "14:30",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2004-02-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 55
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2004-02-21",
+      "time": "14:30",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2003-10-05": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 56
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2003-10-05",
+      "time": "14:30",
+      "result": "1:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2005-04-12": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 57
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2005-04-12",
+      "time": "14:45",
+      "result": "0:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2005-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 58
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2005-04-06",
+      "time": "14:45",
+      "result": "2:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2005-02-27": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2005-02-27",
+      "time": "14:30",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2004-10-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2004-10-24",
+      "time": "14:30",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2006-04-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 60
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 59
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2006-04-14",
+      "time": "12:00",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2005-12-11": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 60
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 60
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2005-12-11",
+      "time": "14:30",
+      "result": "3:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2007-03-11": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 61
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 60
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2007-03-11",
+      "time": "10:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2006-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 60
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 62
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2006-10-28",
+      "time": "14:30",
+      "result": "3:4",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2008-05-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 61
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 62
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2008-05-04",
+      "time": "09:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2007-12-23": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 63
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 61
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2007-12-23",
+      "time": "09:00",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2009-02-15": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 64
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 61
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2009-02-15",
+      "time": "14:30",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2008-09-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 62
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 64
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2008-09-28",
+      "time": "14:30",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2010-01-24": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 65
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 62
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2010-01-24",
+      "time": "14:45",
+      "result": "2:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2009-08-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 62
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 66
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2009-08-29",
+      "time": "14:45",
+      "result": "0:4",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2011-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 63
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 66
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2011-04-02",
+      "time": "14:45",
+      "result": "3:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2010-11-14": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 66
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 64
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2010-11-14",
+      "time": "14:45",
+      "result": "0:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2012-05-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 67
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 64
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2012-05-06",
+      "time": "14:45",
+      "result": "4:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2012-01-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 64
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2012-01-15",
+      "time": "14:45",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2011-08-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 65
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2011-08-06",
+      "time": "08:00",
+      "result": "2:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Supercoppa Italiana"
+    }
+  ],
+  "2013-02-24": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 68
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 65
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2013-02-24",
+      "time": "14:45",
+      "result": "1:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2012-10-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 65
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 69
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2012-10-07",
+      "time": "14:45",
+      "result": "0:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2014-05-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 66
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 69
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2014-05-04",
+      "time": "14:45",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2013-12-22": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 70
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 66
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2013-12-22",
+      "time": "14:45",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2015-04-19": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 66
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 61,
+      "date": "2015-04-19",
+      "time": "14:45",
+      "result": "0:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2014-11-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 66
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 70
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2014-11-23",
+      "time": "14:45",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2016-01-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 67
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2016-01-31",
+      "time": "14:45",
+      "result": "3:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2015-09-13": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 71
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 67
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2015-09-13",
+      "time": "14:45",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2017-04-15": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 71
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 67
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 63,
+      "date": "2017-04-15",
+      "time": "06:30",
+      "result": "2:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2016-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 67
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 71
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 64,
+      "date": "2016-11-20",
+      "time": "14:45",
+      "result": "2:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2018-04-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 67
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 71
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2018-04-04",
+      "time": "12:30",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2017-12-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 68
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 71
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2017-12-27",
+      "time": "14:45",
+      "result": "1:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2017-10-15": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 72
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2017-10-15",
+      "time": "14:45",
+      "result": "3:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2019-03-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 68
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 73
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2019-03-17",
+      "time": "14:30",
+      "result": "2:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2018-10-21": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 74
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2018-10-21",
+      "time": "14:30",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2020-02-09": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "4",
+      "poin": 75
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2020-02-09",
+      "time": "14:45",
+      "result": "4:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2019-09-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 68
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 76
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2019-09-21",
+      "time": "14:45",
+      "result": "0:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2021-02-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 68
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 77
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2021-02-21",
+      "time": "09:00",
+      "result": "0:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2021-01-26": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 78
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 68
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2021-01-26",
+      "time": "14:45",
+      "result": "2:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2020-10-17": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 78
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 69
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2020-10-17",
+      "time": "12:00",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2022-04-19": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 79
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 69
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2022-04-19",
+      "time": "15:00",
+      "result": "3:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2022-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 69
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "0",
+      "poin": 79
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 66,
+      "date": "2022-03-01",
+      "time": "15:00",
+      "result": "0:0",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2022-02-05": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 79
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 70
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 66,
+      "date": "2022-02-05",
+      "time": "12:00",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2021-11-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 70
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 79
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2021-11-07",
+      "time": "14:45",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2023-05-16": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 80
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-05-16",
+      "time": "15:00",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2023-05-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 81
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-05-10",
+      "time": "15:00",
+      "result": "0:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "UEFA Champions League"
+    }
+  ],
+  "2023-02-05": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 82
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-02-05",
+      "time": "14:45",
+      "result": "1:0",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2023-01-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "0",
+      "poin": 70
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "3",
+      "poin": 83
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-01-18",
+      "time": "14:00",
+      "result": "0:3",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Supercoppa Italiana"
+    }
+  ],
+  "2022-09-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 71
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 83
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2022-09-03",
+      "time": "12:00",
+      "result": "3:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2024-04-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 71
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 84
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2024-04-22",
+      "time": "14:45",
+      "result": "1:2",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2023-09-16": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "5",
+      "poin": 85
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 71
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-09-16",
+      "time": "12:00",
+      "result": "5:1",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2025-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 71
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 85
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 68,
+      "date": "2025-04-02",
+      "time": "15:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Italy Cup"
+    }
+  ],
+  "2025-02-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "1",
+      "poin": 71
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 85
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 69,
+      "date": "2025-02-02",
+      "time": "12:00",
+      "result": "1:1",
+      "clubs": [
+        "MIL",
+        "INT"
+      ],
+      "liga": "Serie A"
+    }
+  ],
+  "2025-01-06": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "2",
+      "poin": 85
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "3",
+      "poin": 72
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 69,
+      "date": "2025-01-06",
+      "time": "14:00",
+      "result": "2:3",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Supercoppa Italiana"
+    }
+  ],
+  "2024-09-22": [
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "score": "1",
+      "poin": 85
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "score": "2",
+      "poin": 73
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 69,
+      "date": "2024-09-22",
+      "time": "14:45",
+      "result": "1:2",
+      "clubs": [
+        "INT",
+        "MIL"
+      ],
+      "liga": "Serie A"
+    }
+  ]
 }

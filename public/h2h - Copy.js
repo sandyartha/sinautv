@@ -77,7 +77,8 @@ fetch("/h2h.json")
       // Untuk durasi animasi 5 menit
       // var stepDuration = 300000 / dateKeys.length;
 
-      var stepDuration = 30000 / dateKeys.length;
+      var stepDuration = 1000; // sekitar 789ms per frame
+
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
@@ -231,8 +232,8 @@ fetch("/h2h.json")
         }
 
         if (currentIndex > 36) {
-          poinSeries.interpolationDuration = stepDuration * 4;
-          valueAxis.rangeChangeDuration = stepDuration * 4;
+          poinSeries.interpolationDuration = stepDuration * 2;
+          valueAxis.rangeChangeDuration = stepDuration * 2;
         } else {
           poinSeries.interpolationDuration = stepDuration;
           valueAxis.rangeChangeDuration = stepDuration;
