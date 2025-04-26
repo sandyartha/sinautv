@@ -55,6 +55,18 @@ tbody tr:last-child td {
 {{ define "main" }}
 
 
+<ul>
+  {{ $page_link := .Permalink }}
+  {{ $tags := .Params.tags }}
+  {{ range .Site.Pages }}
+      {{ $page := . }}
+      {{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
+      {{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+          <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
+      {{ end }}
+  {{ end }}
+</ul>
+
 {{ range .Site.Sections }}
 <div class="table-container">
   <table>
@@ -69,14 +81,14 @@ tbody tr:last-child td {
       </tr>
     </thead>
     <tbody>
-      {{ range .Pages }}
+      {{ range site.RegularPages }}
         <tr>
           <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
           <td>{{ .Date.Format "2006-01-02" }}</td>
           <td>
-            {{ range .Params.tags }}
-              <span class="tag">{{ . }}</span>
-            {{ end }}
+              {{ range .Params.tags }}
+                <span class="tag">{{ . }}</span>
+              {{ end }}
           </td>
         </tr>
       {{ end }}
