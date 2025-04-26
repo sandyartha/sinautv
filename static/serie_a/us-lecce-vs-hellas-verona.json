@@ -1,0 +1,1298 @@
+{
+  "1929-11-24": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1929-11-24",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1930-04-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1930-04-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1930-11-16": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-11-16",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1931-04-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1931-04-26",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1931-09-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1931-09-27",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1932-02-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1932-02-07",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1948-10-17": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1948-10-17",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1949-02-20": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1949-02-20",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1979-11-04": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1979-11-04",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1980-03-23": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1980-03-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1980-12-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1980-12-07",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1981-05-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1981-05-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1981-10-25": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1981-10-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1982-03-21": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1982-03-21",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1982-08-18": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1982-08-18",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1985-09-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1985-09-08",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1986-01-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1986-01-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1988-10-09": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1988-10-09",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1989-02-19": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1989-02-19",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1989-10-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1989-10-01",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1990-02-11": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1990-02-11",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1991-08-28": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1991-08-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1991-09-03": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1991-09-03",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1992-11-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1992-11-08",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1993-04-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1993-04-10",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1995-01-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1995-01-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1995-05-28": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1995-05-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1998-11-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1998-11-07",
+      "time": "08:30",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1999-04-03": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1999-04-03",
+      "time": "10:00",
+      "result": "5:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "1999-09-12": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1999-09-12",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2000-01-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2000-01-29",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2001-01-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 4
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2001-01-07",
+      "time": "09:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2001-05-12": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2001-05-12",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2001-09-30": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2001-09-30",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2002-02-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2002-02-10",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2002-12-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2002-12-01",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2003-05-03": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2003-05-03",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2006-09-16": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2006-09-16",
+      "time": "10:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2007-02-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2007-02-10",
+      "time": "10:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2018-10-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2018-10-05",
+      "time": "15:00",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2019-02-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2019-02-26",
+      "time": "15:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2019-09-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2019-09-01",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2020-01-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2020-01-26",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2023-01-21": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2023-01-21",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2023-05-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2023-05-07",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2023-11-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2023-11-27",
+      "time": "12:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2024-03-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2024-03-10",
+      "time": "06:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ],
+  "2024-10-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2024-10-29",
+      "time": "12:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "VER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "1949-11-06": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1949-11-06",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1950-03-19": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1950-03-19",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1950-10-22": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1950-10-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1951-03-04": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1951-03-04",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1952-03-19": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1952-03-19",
+      "time": "09:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1952-06-22": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1952-06-22",
+      "time": "10:30",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1952-11-16": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1952-11-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1953-03-22": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1953-03-22",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1975-08-31": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1975-08-31",
+      "time": "15:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1975-11-30": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1975-11-30",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1976-03-21": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1976-03-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1981-02-01": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1981-02-01",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1981-05-24": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1981-05-24",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1981-10-04": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1981-10-04",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1982-02-14": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1982-02-14",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1982-11-07": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1982-11-07",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1983-04-02": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1983-04-02",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1988-10-23": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1988-10-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1989-03-05": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1989-03-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1993-11-07": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1993-11-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie C1 - A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "1994-03-27": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1994-03-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie C1 - A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "2002-11-10": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2002-11-10",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "2003-03-23": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2003-03-23",
+      "time": "09:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "2024-09-14": [
+    {
+      "club_name": "Como 1907",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2024-09-14",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ],
+  "2025-02-01": [
+    {
+      "club_name": "Como 1907",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2025-02-01",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "COM"
+      ]
+    }
+  ]
+}

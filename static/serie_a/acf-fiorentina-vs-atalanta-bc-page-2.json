@@ -1,0 +1,3917 @@
+{
+  "1929-11-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1929-11-17",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1930-04-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1930-04-20",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1930-11-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-11-16",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1931-04-26": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1931-04-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1938-01-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1938-01-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1938-04-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1938-04-24",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1939-01-01": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1939-01-01",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1939-05-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1939-05-07",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1940-12-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1940-12-08",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1941-03-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1941-03-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1941-12-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1941-12-21",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1942-05-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1942-05-03",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1942-11-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1942-11-22",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1943-05-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1943-05-07",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1946-12-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1946-12-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1947-05-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1947-05-04",
+      "time": "10:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1948-01-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1948-01-18",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1948-06-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1948-06-13",
+      "time": "11:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1948-12-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1948-12-05",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1949-04-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1949-04-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1949-12-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1949-12-04",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-04-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1950-04-16",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-10-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1950-10-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-03-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1951-03-11",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-12-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1951-12-09",
+      "time": "08:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1952-04-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1952-04-27",
+      "time": "10:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1952-12-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1952-12-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1953-04-12": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1953-04-12",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1954-01-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1954-01-17",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1954-05-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1954-05-30",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1954-11-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1954-11-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1955-04-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1955-04-17",
+      "time": "19:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1955-10-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1955-10-23",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1956-03-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1956-03-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1957-01-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1957-01-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1957-05-19": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1957-05-19",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1958-01-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1958-01-06",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1958-05-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1958-05-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1959-10-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 16,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1959-10-25",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1960-03-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1960-03-20",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-01-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1961-01-22",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-05-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1961-05-30",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-10-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1961-10-15",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-12-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1961-12-17",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1962-04-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1962-04-15",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1962-10-14": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1962-10-14",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1963-02-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1963-02-17",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1963-09-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1963-09-22",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1964-02-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 22,
+      "score": 7
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1964-02-02",
+      "time": "19:00",
+      "result": "1:7",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1964-10-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1964-10-18",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1965-02-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1965-02-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1965-09-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1965-09-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1966-01-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1966-01-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-01-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1967-01-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-05-14": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1967-05-14",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-12-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1967-12-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1968-04-14": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1968-04-14",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1968-10-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1968-10-06",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1969-02-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1969-02-09",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1971-10-31": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1971-10-31",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-02-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1972-02-20",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1973-01-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1973-01-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1973-05-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1973-05-13",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1977-12-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1977-12-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1978-04-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1978-04-02",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1978-12-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1978-12-17",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1979-04-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1979-04-22",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1980-08-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1980-08-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1984-10-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 5
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1984-10-07",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1985-02-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1985-02-17",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1985-10-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1985-10-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1986-03-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1986-03-02",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1987-01-12": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1987-01-12",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1987-05-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1987-05-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1988-11-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1988-11-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-03-19": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1989-03-19",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-12-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1989-12-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1990-04-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 34,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1990-04-29",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1990-09-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 35,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1990-09-30",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1991-02-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1991-02-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1991-11-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1991-11-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1992-04-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1992-04-05",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1993-01-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1993-01-03",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1993-05-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1993-05-16",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1995-12-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 37,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1995-12-17",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-04-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1996-04-21",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-05-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1996-05-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-05-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1996-05-18",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-09-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1996-09-15",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1997-02-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1997-02-02",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1997-12-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 41,
+      "score": 5
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1997-12-21",
+      "time": "08:30",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1998-04-19": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1998-04-19",
+      "time": "10:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1998-12-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1998-12-02",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "1999-01-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1999-01-28",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-01-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2001-01-21",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-05-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2001-05-27",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-09-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2001-09-16",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2002-01-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2002-01-27",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2003-09-23": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2003-09-23",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2004-01-25": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2004-01-25",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2005-01-06": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2005-01-06",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2005-05-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2005-05-15",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2006-11-11": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2006-11-11",
+      "time": "12:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2007-04-01": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2007-04-01",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2007-09-16": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2007-09-16",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2008-02-09": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2008-02-09",
+      "time": "12:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2008-11-09": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 45,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2008-11-09",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2009-04-05": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 46,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2009-04-05",
+      "time": "07:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2009-12-06": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2009-12-06",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2010-04-18": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2010-04-18",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2011-12-17": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2011-12-17",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2012-04-29": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2012-04-29",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2012-11-18": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 48,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2012-11-18",
+      "time": "09:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2013-04-13": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2013-04-13",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2013-09-22": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 50,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2013-09-22",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2014-02-08": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2014-02-08",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2014-09-21": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2014-09-21",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2015-01-21": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 53,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2015-01-21",
+      "time": "12:00",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2015-02-08": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 54,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2015-02-08",
+      "time": "06:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2015-10-04": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 55,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2015-10-04",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2016-02-21": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2016-02-21",
+      "time": "09:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2016-10-16": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2016-10-16",
+      "time": "06:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2017-03-05": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2017-03-05",
+      "time": "06:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2017-09-24": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2017-09-24",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2018-02-18": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2018-02-18",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2018-09-30": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2018-09-30",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2019-02-27": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2019-02-27",
+      "time": "15:00",
+      "result": "3:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2019-03-03": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2019-03-03",
+      "time": "12:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2019-04-25": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2019-04-25",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2019-09-22": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2019-09-22",
+      "time": "12:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2020-01-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 58,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2020-01-15",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2020-02-08": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 58,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2020-02-08",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2020-12-13": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 58,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2020-12-13",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2021-04-11": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 58,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2021-04-11",
+      "time": "14:45",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2021-09-11": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 59,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2021-09-11",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2022-02-10": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 60,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-02-10",
+      "time": "12:00",
+      "result": "2:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2022-02-20": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-02-20",
+      "time": "06:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2022-10-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-10-02",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2023-04-17": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2023-04-17",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2023-09-17": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 62,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2023-09-17",
+      "time": "12:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-04-03": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 63,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2024-04-03",
+      "time": "15:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-04-24": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 63,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2024-04-24",
+      "time": "15:00",
+      "result": "4:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-06-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 64,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2024-06-02",
+      "time": "12:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-09-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 64,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2024-09-15",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ],
+  "2025-03-30": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 65,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2025-03-30",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "FIO"
+      ]
+    }
+  ]
+}

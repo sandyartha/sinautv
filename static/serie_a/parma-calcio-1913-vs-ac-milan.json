@@ -1,0 +1,1946 @@
+{
+  "1925-12-06": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1925-12-06",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1926-05-16": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1926-05-16",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1962-09-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1962-09-09",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1974-09-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1974-09-15",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1984-08-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1984-08-22",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1986-09-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1986-09-03",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1987-02-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1987-02-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1987-04-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1987-04-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1987-09-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 5
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 3,
+      "score": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1987-09-02",
+      "time": "19:00",
+      "result": "5:6",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1989-08-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 7
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 3,
+      "score": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1989-08-23",
+      "time": "14:30",
+      "result": "6:7",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1991-01-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1991-01-20",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1991-05-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1991-05-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1991-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1991-10-20",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1992-03-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1992-03-08",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1992-08-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1992-08-30",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Supercoppa Italiana",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1992-10-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1992-10-25",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1993-03-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1993-03-21",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1993-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1993-11-28",
+      "time": "08:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1994-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1994-01-12",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "UEFA Super Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1994-02-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1994-02-02",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "UEFA Super Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1994-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1994-04-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1994-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1994-11-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1995-04-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1995-04-09",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1995-11-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1995-11-19",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1996-03-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1996-03-24",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1996-12-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1996-12-22",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1997-05-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1997-05-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1998-01-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1998-01-18",
+      "time": "14:30",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1998-02-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1998-02-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1998-03-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1998-03-12",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1998-05-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1998-05-10",
+      "time": "10:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1998-11-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 9,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1998-11-29",
+      "time": "08:30",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1999-04-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1999-04-11",
+      "time": "10:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1999-08-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1999-08-21",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Supercoppa Italiana",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "1999-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1999-11-28",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2000-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2000-04-02",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2000-11-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2000-11-01",
+      "time": "14:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2001-03-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2001-03-04",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2001-11-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2001-11-25",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2002-03-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2002-03-30",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2002-11-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2002-11-17",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2003-04-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2003-04-05",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2003-11-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2003-11-09",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2004-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "AC Parma",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2004-03-20",
+      "time": "14:30",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2004-12-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2004-12-04",
+      "time": "12:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2005-04-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2005-04-23",
+      "time": "14:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2006-01-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2006-01-08",
+      "time": "14:30",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2006-05-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2006-05-07",
+      "time": "09:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2006-09-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2006-09-17",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2007-01-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2007-01-28",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2007-09-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2007-09-22",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2008-02-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2008-02-16",
+      "time": "12:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2009-10-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2009-10-31",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2010-03-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2010-03-24",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2010-10-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2010-10-02",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2011-02-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 4
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2011-02-12",
+      "time": "12:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2011-10-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 4
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2011-10-26",
+      "time": "14:45",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2012-03-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2012-03-17",
+      "time": "12:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2012-09-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2012-09-29",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2013-02-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2013-02-15",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2013-10-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2013-10-27",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2014-03-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2014-03-16",
+      "time": "09:00",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2014-09-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": 5
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2014-09-14",
+      "time": "14:45",
+      "result": "4:5",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2015-02-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 3
+    },
+    {
+      "club_name": "Parma FC",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2015-02-01",
+      "time": "14:45",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2018-12-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2018-12-02",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2019-04-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2019-04-20",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2019-12-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2019-12-01",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2020-07-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2020-07-15",
+      "time": "13:30",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2020-12-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 2
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2020-12-13",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2021-04-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": 3
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2021-04-10",
+      "time": "12:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2024-08-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2024-08-24",
+      "time": "12:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ],
+  "2025-01-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 3
+    },
+    {
+      "club_name": "Parma Calcio 1913",
+      "short_name": "PAR",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2025-01-26",
+      "time": "06:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "PAR"
+      ]
+    }
+  ]
+}

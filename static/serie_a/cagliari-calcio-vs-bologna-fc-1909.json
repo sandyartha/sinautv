@@ -1,0 +1,2108 @@
+{
+  "1965-01-10": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1965-01-10",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-05-30": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1965-05-30",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-09-06": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1965-09-06",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1966-01-23": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1966-01-23",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1966-10-02": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1966-10-02",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1967-02-12": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1967-02-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1967-10-01": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1967-10-01",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1968-01-28": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1968-01-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1968-12-08": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1968-12-08",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1969-04-13": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1969-04-13",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1969-12-07": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1969-12-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1970-03-29": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1970-03-29",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1970-05-13": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1970-05-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1970-06-02": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1970-06-02",
+      "time": "12:30",
+      "result": "0:4",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1970-12-20": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1970-12-20",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1971-04-11": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1971-04-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1971-11-28": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1971-11-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1972-03-19": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1972-03-19",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-01-21": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1973-01-21",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-05-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1973-05-20",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-11-18": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1973-11-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1974-03-10": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1974-03-10",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1974-11-04": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1974-11-04",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1975-03-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1975-03-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1975-11-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1975-11-16",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1976-03-14": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1976-03-14",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1979-11-04": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1979-11-04",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1980-03-09": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1980-03-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1980-12-14": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1980-12-14",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1981-04-12": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1981-04-12",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1981-09-13": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1981-09-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1982-01-24": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1982-01-24",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1985-01-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-01-06",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1985-05-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-05-26",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1985-12-15": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-12-15",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1986-05-18": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1986-05-18",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1986-12-07": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1986-12-07",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1987-05-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1987-05-03",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1991-01-13": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1991-01-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1991-05-19": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1991-05-19",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1996-12-15": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1996-12-15",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1997-05-11": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1997-05-11",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1998-12-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1998-12-20",
+      "time": "08:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "1999-05-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1999-05-02",
+      "time": "10:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2000-01-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2000-01-06",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2000-04-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2000-04-30",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2004-09-12": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2004-09-12",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2005-01-22": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2005-01-22",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2008-11-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2008-11-02",
+      "time": "09:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2009-03-22": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2009-03-22",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2010-01-10": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2010-01-10",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2010-05-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2010-05-16",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2010-10-31": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2010-10-31",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2010-11-25": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2010-11-25",
+      "time": "14:45",
+      "result": "0:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2011-03-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "2011-03-06",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2011-11-27": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2011-11-27",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2012-04-12": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2012-04-12",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2012-10-21": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2012-10-21",
+      "time": "06:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2013-03-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2013-03-03",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2013-10-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2013-10-30",
+      "time": "14:45",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2014-03-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2014-03-23",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2016-09-11": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2016-09-11",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2017-01-29": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "2017-01-29",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2017-12-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "2017-12-03",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2018-04-22": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2018-04-22",
+      "time": "06:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2018-10-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2018-10-06",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2019-03-10": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2019-03-10",
+      "time": "06:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2019-10-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2019-10-30",
+      "time": "15:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2020-07-01": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2020-07-01",
+      "time": "13:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2020-10-31": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2020-10-31",
+      "time": "14:45",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2021-03-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2021-03-03",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2021-11-01": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2021-11-01",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2022-01-11": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2022-01-11",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2022-10-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2022-10-20",
+      "time": "15:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2023-09-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2023-09-02",
+      "time": "12:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2024-01-14": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2024-01-14",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2024-10-29": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2024-10-29",
+      "time": "12:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ],
+  "2025-03-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2025-03-02",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "CAG"
+      ]
+    }
+  ]
+}

@@ -443,7 +443,7 @@ fetch("/h2h.json")
 
       // Tambahkan teks statis "dango ball" di pojok kanan atas area bar chart
       var staticText = chart.plotContainer.createChild(am4core.Label);
-      staticText.text = "yt:dangoball";
+      staticText.text = "yt:dango ball";
       staticText.fontSize = 15;
       staticText.align = "right";
       staticText.valign = "top";

@@ -1,0 +1,947 @@
+{
+  "1986-09-28": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1986-09-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1987-02-08": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1987-02-08",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1987-09-20": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1987-09-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1988-01-31": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 3,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1988-01-31",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1997-12-21": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 4,
+      "score": 5
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1997-12-21",
+      "time": "08:30",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1998-04-19": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1998-04-19",
+      "time": "10:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1998-11-22": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1998-11-22",
+      "time": "08:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "1999-04-03": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1999-04-03",
+      "time": "10:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2002-09-21": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "2002-09-21",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2003-02-08": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "2003-02-08",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2003-08-31": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 8,
+      "score": 5
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "2003-08-31",
+      "time": "09:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2004-01-25": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2004-01-25",
+      "time": "14:30",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2005-09-11": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 9,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2005-09-11",
+      "time": "09:00",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2006-01-22": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2006-01-22",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2007-10-31": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2007-10-31",
+      "time": "14:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2007-12-06": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2007-12-06",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2008-01-15": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 12,
+      "score": 5
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2008-01-15",
+      "time": "14:45",
+      "result": "5:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2008-03-19": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2008-03-19",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2014-11-01": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2014-11-01",
+      "time": "12:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2015-04-04": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2015-04-04",
+      "time": "15:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2015-11-08": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2015-11-08",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2016-04-02": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2016-04-02",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2016-10-02": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2016-10-02",
+      "time": "06:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2017-02-25": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2017-02-25",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2018-10-27": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2018-10-27",
+      "time": "12:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2019-03-30": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2019-03-30",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2021-08-28": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2021-08-28",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2022-02-26": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2022-02-26",
+      "time": "12:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2022-10-21": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2022-10-21",
+      "time": "14:45",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2023-05-22": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2023-05-22",
+      "time": "14:45",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2023-09-03": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2023-09-03",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2024-01-27": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "2024-01-27",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2024-09-14": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2024-09-14",
+      "time": "12:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2025-02-02": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 24,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2025-02-02",
+      "time": "06:30",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ],
+  "2025-02-26": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 24,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2025-02-26",
+      "time": "15:00",
+      "result": "3:5",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "JUV"
+      ]
+    }
+  ]
+}

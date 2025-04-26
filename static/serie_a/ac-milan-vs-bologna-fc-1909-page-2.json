@@ -1,0 +1,5051 @@
+{
+  "1921-04-10": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1921-04-10",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1921-05-29": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1921-05-29",
+      "time": "19:00",
+      "result": "1:5",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1921-11-20": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1921-11-20",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1922-03-05": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1922-03-05",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1922-11-05": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 8
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1922-11-05",
+      "time": "19:00",
+      "result": "0:8",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1923-03-11": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1923-03-11",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1923-10-21": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1923-10-21",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1924-02-03": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1924-02-03",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1924-11-30": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1924-11-30",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1925-03-29": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1925-03-29",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1926-11-21": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1926-11-21",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-03-06": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1927-03-06",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-04-10": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1927-04-10",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-06-12": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-06-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-03-18": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1928-03-18",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-06-28": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1928-06-28",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1929-11-03": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1929-11-03",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-03-30": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1930-03-30",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-11-02": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1930-11-02",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-03-22": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1931-03-22",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-10-25": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1931-10-25",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1932-03-13": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1932-03-13",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-01-08": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1933-01-08",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-05-28": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1933-05-28",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-09-24": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1933-09-24",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1934-01-28": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1934-01-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-01-06": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1935-01-06",
+      "time": "19:00",
+      "result": "6:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-05-05": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1935-05-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-11-10": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1935-11-10",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-01-18": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1936-01-18",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-03-08": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1936-03-08",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-01-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1937-01-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-05-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1937-05-16",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-01-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1938-01-06",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-03-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1938-03-23",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-04-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-04-17",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-11-06",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-03-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-03-12",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-10-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-10-29",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1940-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-03-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1940-12-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-12-22",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1941-04-06",
+      "time": "19:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-11-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1941-11-09",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1942-03-01",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-12-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1942-12-20",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1943-04-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1943-04-04",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1945-12-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1945-12-30",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-03-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1946-03-31",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-12-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1946-12-29",
+      "time": "08:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-06-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1947-06-01",
+      "time": "10:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-10-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1947-10-19",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-03-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1948-03-21",
+      "time": "09:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-12-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-12-19",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-05-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1949-05-08",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1949-12-11",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-04-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1950-04-30",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-11-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1950-11-26",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1951-04-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1951-04-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1951-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1951-10-28",
+      "time": "09:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1952-03-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1952-03-30",
+      "time": "09:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-01-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1953-01-11",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-05-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-05-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-12-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-12-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1954-05-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1954-05-09",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1954-10-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1954-10-31",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1955-03-20",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-01-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1956-01-22",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-05-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1956-05-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-09-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1956-09-23",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1957-02-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1957-02-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1957-11-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1957-11-24",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-04-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1958-04-20",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-09-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1958-09-06",
+      "time": "19:00",
+      "result": "2:4",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-01-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1959-01-25",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-05-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1959-05-10",
+      "time": "10:00",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-06-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1959-06-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-01-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1960-01-17",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-05-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1960-05-22",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-10-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1960-10-09",
+      "time": "19:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1961-02-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1961-02-19",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1961-09-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1961-09-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1962-01-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1962-01-22",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1962-11-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1962-11-01",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1963-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1963-03-10",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1963-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1963-10-20",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1964-03-01",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-12-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1964-12-20",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-05-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1965-05-09",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-12-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1965-12-12",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1966-04-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1966-04-17",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1967-01-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1967-01-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1967-05-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1967-05-21",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1967-12-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1967-12-31",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-04-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1968-04-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-06-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1968-06-19",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-06-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1968-06-30",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-11-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1968-11-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1969-03-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1969-03-23",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1969-10-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1969-10-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1970-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1970-03-01",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1971-01-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1971-01-10",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1971-05-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1971-05-02",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1971-12-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1971-12-12",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1972-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1972-04-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1973-01-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1973-01-07",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1973-05-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1973-05-13",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1973-12-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 44,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1973-12-12",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-01-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1974-01-20",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-03-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1974-03-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-05-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1974-05-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-12-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1974-12-23",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-04-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1975-04-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-05-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1975-05-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-06-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1975-06-19",
+      "time": "19:00",
+      "result": "1:4",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-10-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1975-10-19",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1976-02-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1976-02-22",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1976-11-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1976-11-21",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1977-03-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-06-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 46,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1977-06-15",
+      "time": "14:30",
+      "result": "5:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-06-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 46,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1977-06-26",
+      "time": "15:15",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1977-11-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1978-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 47,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1978-03-19",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-01-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1979-01-14",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-05-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1979-05-06",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-12-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1979-12-09",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1980-04-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1980-04-13",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-10-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1981-10-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1982-02-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1982-02-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1982-10-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 52,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1982-10-24",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1983-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 53,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1983-03-20",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-02-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 53,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1989-02-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-06-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 54,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1989-06-25",
+      "time": "19:00",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-12-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 55,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1989-12-03",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-04-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 55,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1990-04-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-01-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 55,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1991-01-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-05-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 6
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1991-05-12",
+      "time": "19:00",
+      "result": "6:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1995-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1995-11-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1995-12-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 7
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 8
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1995-12-13",
+      "time": "19:00",
+      "result": "7:8",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1996-09-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 57,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1996-09-22",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1997-02-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 58,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1997-02-16",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1997-12-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 58,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1997-12-21",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-04-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 58,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1998-04-19",
+      "time": "10:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-09-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 59,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1998-09-12",
+      "time": "14:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1999-01-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1999-01-24",
+      "time": "08:30",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "1999-09-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 61,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1999-09-25",
+      "time": "14:30",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-02-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2000-02-12",
+      "time": "14:30",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-10-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 48,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2000-10-15",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-02-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 48,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2001-02-17",
+      "time": "14:30",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 48,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2001-10-28",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2002-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2002-03-10",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 63,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2003-01-12",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-05-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 64,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2003-05-17",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-09-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2003-09-13",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2004-02-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 66,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2004-02-01",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2004-09-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2004-09-19",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-01-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 50,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2005-01-30",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-08-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2008-08-31",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-01-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2009-01-25",
+      "time": "09:00",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-09-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2009-09-20",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-02-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2010-02-07",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-12-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 70,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2010-12-12",
+      "time": "06:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-05-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2011-05-01",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2011-12-11",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-04-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2012-04-22",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-09-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 72,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2012-09-01",
+      "time": "14:45",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-01-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2013-01-20",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-09-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2013-09-25",
+      "time": "14:45",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2014-02-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 74,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2014-02-14",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-01-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 74,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2016-01-06",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-05-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 75,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2016-05-07",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-02-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 76,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2017-02-08",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-05-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 77,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2017-05-21",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-12-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 78,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2017-12-10",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-04-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 79,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2018-04-29",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-12-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 79,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2018-12-18",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-05-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 80,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2019-05-06",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-12-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 81,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2019-12-08",
+      "time": "14:45",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-07-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 82,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2020-07-18",
+      "time": "15:45",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-09-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 83,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2020-09-21",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-01-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 84,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2021-01-30",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-10-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 85,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2021-10-23",
+      "time": "14:45",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-04-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 85,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2022-04-04",
+      "time": "14:45",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-08-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 86,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2022-08-27",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-04-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 86,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "2023-04-15",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-08-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 87,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "2023-08-21",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-01-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 87,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 52,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "2024-01-27",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-02-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 87,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 53,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "2025-02-27",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "MIL"
+      ]
+    }
+  ]
+}

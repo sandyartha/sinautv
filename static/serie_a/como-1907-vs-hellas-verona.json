@@ -1,0 +1,1541 @@
+{
+  "1931-12-27": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1931-12-27",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1932-05-22": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1932-05-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1933-02-12": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1933-02-12",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1933-06-04": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1933-06-04",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1933-09-24": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 1,
+      "score": 6
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1933-09-24",
+      "time": "19:00",
+      "result": "6:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1933-12-31": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1933-12-31",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1934-10-07": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1934-10-07",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1935-02-24": [
+    {
+      "club_name": "AC Comense",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1935-02-24",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1948-11-21": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1948-11-21",
+      "time": "08:30",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1949-04-17": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1949-04-17",
+      "time": "09:30",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1953-10-11": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1953-10-11",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1954-02-28": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1954-02-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1954-11-07": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1954-11-07",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1955-04-03": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1955-04-03",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1956-01-08": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1956-01-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1956-05-20": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1956-05-20",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1957-01-27": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 10,
+      "score": 4
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1957-01-27",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1957-06-16": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1957-06-16",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1959-01-25": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1959-01-25",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1959-05-31": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1959-05-31",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1959-10-25": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1959-10-25",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1960-03-13": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1960-03-13",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1961-01-08": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1961-01-08",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1961-05-14": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1961-05-14",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1961-12-31": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1961-12-31",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1962-05-13": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1962-05-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1963-01-13": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1963-01-13",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1963-06-02": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1963-06-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1969-08-31": [
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1969-08-31",
+      "time": "11:30",
+      "result": "3:4",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1975-02-09": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1975-02-09",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1975-06-22": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1975-06-22",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1976-01-18": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1976-01-18",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1976-05-02": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1976-05-02",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1979-09-05": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1979-09-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1979-09-30": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1979-09-30",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1980-02-17": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1980-02-17",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1982-08-29": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1982-08-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1984-12-23": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1984-12-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1985-05-05": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-05-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1985-09-22": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-09-22",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1986-01-19": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1986-01-19",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1986-05-07": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1986-05-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1986-05-19": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1986-05-19",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1986-12-14": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1986-12-14",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1987-04-26": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1987-04-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1988-01-10": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1988-01-10",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1988-05-08": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1988-05-08",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1988-11-27": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1988-11-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1989-04-09": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1989-04-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1994-09-25": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1994-09-25",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "1995-02-26": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1995-02-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2004-01-18": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2004-01-18",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2004-06-12": [
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2004-06-12",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2004-08-18": [
+    {
+      "club_name": "Calcio Como",
+      "short_name": "COM",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2004-08-18",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2010-08-30": [
+    {
+      "club_name": "Calcio Como",
+      "short_name": "COM",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2010-08-30",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Lega Pro 1a - A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2011-01-09": [
+    {
+      "club_name": "Calcio Como",
+      "short_name": "COM",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "2011-01-09",
+      "time": "08:30",
+      "result": "1:1",
+      "league": "Lega Pro 1a - A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ],
+  "2024-09-29": [
+    {
+      "club_name": "Como 1907",
+      "short_name": "COM",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "2024-09-29",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "VER"
+      ]
+    }
+  ]
+}

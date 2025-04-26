@@ -1,0 +1,3566 @@
+{
+  "1929-01-06": [
+    {
+      "club_name": "FBC Torino",
+      "short_name": "TOR",
+      "poin": 1,
+      "score": 7
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1929-01-06",
+      "time": "19:00",
+      "result": "7:0",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1929-05-26": [
+    {
+      "club_name": "FBC Torino",
+      "short_name": "TOR",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1929-05-26",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1938-01-02": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1938-01-02",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1938-04-17": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1938-04-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1940-10-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1940-10-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1941-02-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1941-02-16",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1942-01-11": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1942-01-11",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1942-05-24": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 6,
+      "score": 9
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1942-05-24",
+      "time": "19:00",
+      "result": "9:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1942-09-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1942-09-27",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1942-12-20": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1942-12-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1943-04-04": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 8,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1943-04-04",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1945-12-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1945-12-16",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1946-03-17": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1946-03-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1946-12-29": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1946-12-29",
+      "time": "08:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1947-06-01": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 11,
+      "score": 5
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1947-06-01",
+      "time": "10:00",
+      "result": "5:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1947-12-21": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1947-12-21",
+      "time": "08:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1948-05-09": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 12,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1948-05-09",
+      "time": "10:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1948-09-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1948-09-26",
+      "time": "10:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1949-01-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1949-01-16",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1950-01-08": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1950-01-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1950-05-28": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1950-05-28",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1950-10-22": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1950-10-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1951-03-04": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1951-03-04",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1952-01-20": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1952-01-20",
+      "time": "08:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1952-06-15": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1952-06-15",
+      "time": "10:30",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1952-11-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1952-11-16",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1953-03-22": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1953-03-22",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1953-12-06": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1953-12-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1954-04-25": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1954-04-25",
+      "time": "09:30",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1954-09-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1954-09-26",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1955-02-13": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1955-02-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1955-10-02": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1955-10-02",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1956-02-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1956-02-26",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1956-12-30": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1956-12-30",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1957-05-05": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1957-05-05",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1957-11-24": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1957-11-24",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1958-04-20": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 20,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1958-04-20",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1959-04-29": [
+    {
+      "club_name": "AC Talmone Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1959-04-29",
+      "time": "10:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1960-10-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1960-10-16",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1961-02-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1961-02-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1961-10-22": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1961-10-22",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1962-02-25": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1962-02-25",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1962-11-08": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1962-11-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1963-03-17": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1963-03-17",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1963-06-02": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1963-06-02",
+      "time": "10:30",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1964-01-05": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1964-01-05",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1964-05-24": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1964-05-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1964-09-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1964-09-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1965-02-07": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1965-02-07",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1966-01-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1966-01-16",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1966-05-22": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1966-05-22",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1966-12-04": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 25,
+      "score": 6
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1966-12-04",
+      "time": "08:30",
+      "result": "6:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1967-04-09": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1967-04-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1967-11-05": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1967-11-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1968-03-03": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 26,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1968-03-03",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1968-12-08": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1968-12-08",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1969-04-13": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1969-04-13",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1971-12-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1971-12-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1972-04-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1972-04-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1972-11-12": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1972-11-12",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1973-03-11": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1973-03-11",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1978-01-15": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1978-01-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1978-04-30": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 30,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1978-04-30",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1978-10-08": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1978-10-08",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1979-02-04": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1979-02-04",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1984-12-23": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1984-12-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1985-05-05": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1985-05-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1985-12-15": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1985-12-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1986-04-20": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1986-04-20",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1986-10-26": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1986-10-26",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1987-03-15": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1987-03-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1987-08-26": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1987-08-26",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1988-10-23": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1988-10-23",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1989-03-05": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1989-03-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1991-01-20": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1991-01-20",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1991-05-26": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1991-05-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1992-01-12": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1992-01-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1992-05-17": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1992-05-17",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1992-10-18": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1992-10-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-03-14": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1993-03-14",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-09-05": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 37,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1993-09-05",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-11-30": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 38,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1993-11-30",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-12-15": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1993-12-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1994-01-16": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1994-01-16",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1995-11-26": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1995-11-26",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1996-03-31": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1996-03-31",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1998-11-28": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1998-11-28",
+      "time": "08:30",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1999-04-25": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1999-04-25",
+      "time": "10:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1999-10-14": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1999-10-14",
+      "time": "14:45",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "1999-10-27": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1999-10-27",
+      "time": "12:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2001-12-09": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2001-12-09",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2002-04-14": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2002-04-14",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2003-01-06": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2003-01-06",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2003-04-26": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2003-04-26",
+      "time": "12:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2003-10-18": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2003-10-18",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2004-03-18": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2004-03-18",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2005-09-17": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2005-09-17",
+      "time": "10:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2006-01-30": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2006-01-30",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2006-11-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2006-11-26",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2007-04-15": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2007-04-15",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2007-10-21": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2007-10-21",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2008-03-09": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 42,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2008-03-09",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2008-10-29": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 43,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2008-10-29",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2009-03-15": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2009-03-15",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2010-10-10": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2010-10-10",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2011-03-02": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2011-03-02",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2012-09-30": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 44,
+      "score": 5
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2012-09-30",
+      "time": "09:00",
+      "result": "1:5",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2013-02-17": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 45,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2013-02-17",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2013-09-01": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2013-09-01",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2014-01-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 46,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2014-01-26",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2014-11-02": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 46,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2014-11-02",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2015-04-04": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2015-04-04",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2015-11-22": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 48,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2015-11-22",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2016-04-10": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2016-04-10",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2016-09-11": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2016-09-11",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2017-01-29": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2017-01-29",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2017-12-02": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2017-12-02",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2018-04-22": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2018-04-22",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2018-09-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2018-09-26",
+      "time": "15:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2019-02-23": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 50,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2019-02-23",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2019-09-01": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2019-09-01",
+      "time": "14:45",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2020-01-25": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 7
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2020-01-25",
+      "time": "14:45",
+      "result": "0:7",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2020-09-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2020-09-26",
+      "time": "09:00",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2021-02-06": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2021-02-06",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2021-08-21": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2021-08-21",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2022-04-27": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 32,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-04-27",
+      "time": "14:15",
+      "result": "4:4",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2022-09-01": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-09-01",
+      "time": "14:45",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2023-04-29": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 51,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2023-04-29",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2023-12-04": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 52,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2023-12-04",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2024-05-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2024-05-26",
+      "time": "12:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2024-08-25": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 53,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2024-08-25",
+      "time": "12:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ],
+  "2025-02-01": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 53,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2025-02-01",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "TOR"
+      ]
+    }
+  ]
+}

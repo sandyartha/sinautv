@@ -1,0 +1,2297 @@
+{
+  "1931-11-01": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "CS Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1931-11-01",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1932-03-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 6
+    },
+    {
+      "club_name": "CS Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1932-03-27",
+      "time": "19:00",
+      "result": "6:4",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1932-12-11": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "CS Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1932-12-11",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1933-05-21": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 6
+    },
+    {
+      "club_name": "CS Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1933-05-21",
+      "time": "19:00",
+      "result": "6:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1958-10-26": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1958-10-26",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1959-03-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 4
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1959-03-15",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1964-11-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1964-11-15",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-03-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1965-03-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-04-07": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1965-04-07",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-10-10": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1965-10-10",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1965-11-04": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1965-11-04",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1966-02-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1966-02-27",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1966-12-31": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1966-12-31",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1967-05-07": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1967-05-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1967-10-08": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1967-10-08",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1968-02-04": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1968-02-04",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1969-01-26": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1969-01-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1969-05-18": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1969-05-18",
+      "time": "10:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1971-10-17": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1971-10-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1972-02-06": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1972-02-06",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1972-09-24": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1972-09-24",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-01-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-01-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-06-17": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-06-17",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-06-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-06-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1973-09-16": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-09-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1976-11-07": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1976-11-07",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1977-03-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1977-03-27",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1977-06-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1977-06-29",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B Play-off",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1983-09-11": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1983-09-11",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1984-01-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1984-01-29",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1984-08-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1984-08-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1990-09-23": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1990-09-23",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1991-02-10": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1991-02-10",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1991-10-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1991-10-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1992-03-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1992-03-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1992-09-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1992-09-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1993-02-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1993-02-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1993-08-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 5
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1993-08-29",
+      "time": "19:00",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1994-01-09": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1994-01-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1994-08-31": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1994-08-31",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1994-09-21": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1994-09-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1995-11-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1995-11-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1995-12-10": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1995-12-10",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1995-12-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 4
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1995-12-14",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1996-04-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1996-04-14",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1996-09-08": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1996-09-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "1997-01-26": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1997-01-26",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2003-09-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2003-09-27",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2004-02-29": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2004-02-29",
+      "time": "09:00",
+      "result": "5:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2004-10-23": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2004-10-23",
+      "time": "12:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2005-02-27": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2005-02-27",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2006-10-25": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2006-10-25",
+      "time": "14:30",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2007-03-04": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2007-03-04",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2007-10-31": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2007-10-31",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2008-03-19": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2008-03-19",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2008-09-24": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2008-09-24",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2009-02-08": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2009-02-08",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2009-11-01": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2009-11-01",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2010-03-24": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2010-03-24",
+      "time": "14:45",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2011-11-06": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2011-11-06",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2012-04-01": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2012-04-01",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2012-09-02": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2012-09-02",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2013-01-20": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2013-01-20",
+      "time": "09:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2013-08-25": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2013-08-25",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2014-01-19": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2014-01-19",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2014-09-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2014-09-14",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2015-02-01": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2015-02-01",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2016-09-18": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2016-09-18",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2017-02-05": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2017-02-05",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2017-12-30": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2017-12-30",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2018-05-20": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2018-05-20",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2018-09-02": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2018-09-02",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2019-01-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2019-01-14",
+      "time": "11:30",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2019-02-04": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2019-02-04",
+      "time": "15:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2019-11-03": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2019-11-03",
+      "time": "06:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2020-07-05": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2020-07-05",
+      "time": "13:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2020-10-04": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 35,
+      "score": 5
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2020-10-04",
+      "time": "06:30",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2021-01-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2021-01-14",
+      "time": "15:15",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2021-02-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2021-02-14",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2021-11-06": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2021-11-06",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2022-02-06": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2022-02-06",
+      "time": "06:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2023-09-24": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2023-09-24",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2024-04-07": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2024-04-07",
+      "time": "12:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2024-12-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2024-12-14",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ],
+  "2025-02-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2025-02-15",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "CAG"
+      ]
+    }
+  ]
+}

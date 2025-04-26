@@ -1,3 +1,0 @@
----
-title: Liverpool vs Chelsea
----

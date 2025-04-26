@@ -1,0 +1,3566 @@
+{
+  "1921-04-17": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1921-04-17",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1921-06-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1921-06-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1922-10-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1922-10-22",
+      "time": "08:45",
+      "result": "2:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1923-02-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1923-02-18",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1924-06-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1924-06-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1924-06-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1924-06-22",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1925-05-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1925-05-24",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1925-05-31": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1925-05-31",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1925-06-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1925-06-07",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1925-07-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1925-07-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1925-08-09": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1925-08-09",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Finale Prima D.",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1927-04-03": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1927-04-03",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1927-06-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1927-06-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1928-04-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1928-04-29",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1928-07-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1928-07-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1929-01-13": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1929-01-13",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1929-06-02": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1929-06-02",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1929-12-22": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1929-12-22",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1930-05-25": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1930-05-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1930-11-16": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1930-11-16",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1931-04-26": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1931-04-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1931-11-08": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1931-11-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1932-04-03": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1932-04-03",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1932-10-16": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1932-10-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1933-03-19": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1933-03-19",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1933-11-01": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1933-11-01",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1934-03-11": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1934-03-11",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1935-09-22": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1935-09-22",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1936-01-26": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1936-01-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1936-11-01": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1936-11-01",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1937-02-28": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1937-02-28",
+      "time": "19:00",
+      "result": "4:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1937-12-12": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1937-12-12",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1938-04-03": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-04-03",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1938-09-18": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-09-18",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1939-01-29": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-01-29",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1939-10-22": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-10-22",
+      "time": "19:00",
+      "result": "5:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1940-02-25": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-02-25",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1940-10-27": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-10-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1941-02-16": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1941-02-16",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1941-10-26": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1941-10-26",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1942-02-15": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1942-02-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1942-11-22": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1942-11-22",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1943-05-07": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1943-05-07",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1943-05-16": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1943-05-16",
+      "time": "19:00",
+      "result": "2:5",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1946-01-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1946-01-13",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1946-04-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1946-04-14",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1946-10-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-10-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1947-03-09": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-03-09",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1948-02-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-02-08",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1948-07-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 7
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-07-04",
+      "time": "19:00",
+      "result": "7:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1948-10-10": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1948-10-10",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1949-01-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1949-01-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1949-10-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1949-10-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1950-03-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1950-03-12",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1950-12-10": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1950-12-10",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1951-04-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1951-04-29",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1953-10-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1953-10-04",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1954-02-21": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1954-02-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1954-11-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1954-11-07",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1955-04-03": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1955-04-03",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1955-09-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1955-09-18",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1956-02-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1956-02-12",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1956-12-23": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1956-12-23",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1957-04-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1957-04-28",
+      "time": "19:00",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1957-09-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1957-09-29",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1958-02-16": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1958-02-16",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1958-09-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1958-09-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1959-02-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1959-02-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1959-06-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1959-06-14",
+      "time": "11:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1959-09-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1959-09-27",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1960-02-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1960-02-14",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1963-01-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1963-01-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1963-05-26": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1963-05-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1963-09-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1963-09-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1964-01-26": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1964-01-26",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1964-09-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1964-09-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1965-02-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1965-02-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1973-08-23": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1973-08-23",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1973-12-23": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1973-12-23",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1974-04-14": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1974-04-14",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1975-08-27": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1975-08-27",
+      "time": "14:45",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1976-12-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1976-12-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1977-04-03": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1977-04-03",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1978-01-08": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1978-01-08",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1978-04-23": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1978-04-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1982-01-03": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1982-01-03",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1982-05-02": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1982-05-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1984-12-02": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1984-12-02",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1985-04-28": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1985-04-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1986-01-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1986-01-05",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1986-06-01": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1986-06-01",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1986-09-28": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1986-09-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1987-02-22": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1987-02-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1987-10-18": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1987-10-18",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1988-03-20": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1988-03-20",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1989-09-24": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1989-09-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1990-02-04": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1990-02-04",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1990-10-28": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1990-10-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1991-03-10": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1991-03-10",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1995-12-03": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1995-12-03",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "1996-05-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1996-05-05",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2006-11-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2006-11-24",
+      "time": "14:45",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2007-04-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2007-04-13",
+      "time": "15:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2008-11-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2008-11-30",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2009-04-26": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2009-04-26",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2009-10-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 30,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2009-10-04",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2010-02-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 30,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2010-02-28",
+      "time": "09:00",
+      "result": "3:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2010-11-10": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2010-11-10",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2011-03-20": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2011-03-20",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2011-12-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2011-12-18",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2012-04-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 44,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2012-04-29",
+      "time": "06:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2013-01-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 44,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "2013-01-06",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2013-05-19": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 44,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2013-05-19",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2013-12-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "2013-12-22",
+      "time": "06:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2014-05-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2014-05-04",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2015-12-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2015-12-12",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2016-04-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2016-04-24",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2016-10-02": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2016-10-02",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2017-02-26": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2017-02-26",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2017-09-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 48,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2017-09-30",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2018-02-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2018-02-24",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2018-09-16": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2018-09-16",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2019-02-10": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2019-02-10",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2019-09-25": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2019-09-25",
+      "time": "15:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2020-02-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2020-02-15",
+      "time": "12:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2021-01-09": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 37,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2021-01-09",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2021-05-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2021-05-12",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2021-09-21": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2021-09-21",
+      "time": "12:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2022-05-21": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 50,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2022-05-21",
+      "time": "11:15",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2024-01-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 50,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2024-01-05",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2024-05-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 50,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2024-05-24",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ],
+  "2024-10-19": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 50,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2024-10-19",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "GEN"
+      ]
+    }
+  ]
+}

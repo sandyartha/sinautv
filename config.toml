@@ -1,5 +1,0 @@
-baseURL = 'https://dango-ball.vercel.app/'
-languageCode = 'en-us'
-title = 'Dango Ball'
-
-theme = "white"

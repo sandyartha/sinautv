@@ -1,0 +1,1028 @@
+{
+  "1986-11-02": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1986-11-02",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1987-03-22": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1987-03-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1987-11-08": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1987-11-08",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1988-01-06": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1988-01-06",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1988-01-20": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1988-01-20",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1988-03-20": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1988-03-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1988-08-24": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1988-08-24",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1997-08-31": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1997-08-31",
+      "time": "10:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1998-02-01": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 6,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1998-02-01",
+      "time": "08:30",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1998-09-20": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1998-09-20",
+      "time": "10:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "1999-01-31": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1999-01-31",
+      "time": "08:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2002-10-19": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2002-10-19",
+      "time": "12:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2003-03-02": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2003-03-02",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2003-12-20": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2003-12-20",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2004-04-25": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2004-04-25",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2005-10-16": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2005-10-16",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2006-02-19": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2006-02-19",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2006-10-01": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2006-10-01",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2007-02-17": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "2007-02-17",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2007-11-04": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "2007-11-04",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2008-03-22": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "2008-03-22",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2014-09-13": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "2014-09-13",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2015-01-20": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "2015-01-20",
+      "time": "15:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2015-01-31": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2015-01-31",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2015-10-17": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2015-10-17",
+      "time": "12:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2016-02-27": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2016-02-27",
+      "time": "12:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2016-10-30": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2016-10-30",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2017-04-01": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2017-04-01",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2018-10-06": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2018-10-06",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2019-03-11": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2019-03-11",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2021-10-03": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2021-10-03",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2022-01-23": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2022-01-23",
+      "time": "12:00",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2022-09-12": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2022-09-12",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2023-02-04": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2023-02-04",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2023-09-17": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 25,
+      "score": 7
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2023-09-17",
+      "time": "14:45",
+      "result": "7:0",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2024-05-26": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2024-05-26",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2024-08-25": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2024-08-25",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ],
+  "2025-03-09": [
+    {
+      "club_name": "AS Roma",
+      "short_name": "ROM",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2025-03-09",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "EMP",
+        "ROM"
+      ]
+    }
+  ]
+}

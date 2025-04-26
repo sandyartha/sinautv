@@ -1,0 +1,1217 @@
+{
+  "1978-08-30": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1978-08-30",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1980-10-19": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1980-10-19",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-03-15": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1981-03-15",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1983-01-09": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1983-01-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1983-05-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1983-05-29",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie B",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-09-15": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1985-09-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1986-01-12": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1986-01-12",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1988-12-04": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1988-12-04",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-04-16": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1989-04-16",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-11-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1989-11-26",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-03-25": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1990-03-25",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-11-14": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1990-11-14",
+      "time": "08:30",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-11-21": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1990-11-21",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-12-02": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1990-12-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-04-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1991-04-07",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-08-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1993-08-29",
+      "time": "10:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-01-09": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1994-01-09",
+      "time": "08:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1997-10-19": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1997-10-19",
+      "time": "09:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-03-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1998-03-01",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "1999-08-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1999-08-29",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-01-23": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2000-01-23",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-12-10": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2000-12-10",
+      "time": "09:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-04-22": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2001-04-22",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2002-01-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2002-01-05",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2002-05-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2002-05-05",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-09-28": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2003-09-28",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2004-02-15": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2004-02-15",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-01-06": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2005-01-06",
+      "time": "09:00",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-05-15": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2005-05-15",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-11-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2005-11-26",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2006-04-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2006-04-01",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-11-09": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2008-11-09",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-04-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2009-04-05",
+      "time": "15:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-08-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2010-08-29",
+      "time": "14:45",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-01-16": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2011-01-16",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-10-23": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2011-10-23",
+      "time": "06:30",
+      "result": "3:4",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-03-11": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2012-03-11",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-10-20": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2019-10-20",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-06-22": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2020-06-22",
+      "time": "13:30",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-01-14": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2023-01-14",
+      "time": "12:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-04-23": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2023-04-23",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-11-11": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2023-11-11",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-04-06": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2024-04-06",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-09-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2024-09-27",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-03-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2025-03-08",
+      "time": "12:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "LEC",
+        "MIL"
+      ]
+    }
+  ]
+}

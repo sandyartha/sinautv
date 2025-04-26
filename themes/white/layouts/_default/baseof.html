@@ -31,10 +31,10 @@
  	
 	{{ block "main" . }}{{ end }}
 
-    {{ $h2h := resources.Get "js/h2h.js" }}
+    <!-- {{ $h2h := resources.Get "js/h2h.js" }}
     {{ $h2h := $h2h | resources.Minify | resources.Fingerprint }}
 
-    <script src="{{ $h2h.RelPermalink }}"></script>
+    <script src="{{ $h2h.RelPermalink }}"></script> -->
 
 </body>
 </html>

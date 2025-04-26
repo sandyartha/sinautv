@@ -1,0 +1,974 @@
+{
+  "1981-11-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1981-11-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie C1 - A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1982-03-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1982-03-28",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie C1 - A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1983-11-20": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1983-11-20",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1984-04-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1984-04-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1986-10-05": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1986-10-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1987-02-22": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1987-02-22",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1997-11-23": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1997-11-23",
+      "time": "08:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1998-03-22": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1998-03-22",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1998-09-09": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1998-09-09",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1998-09-23": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1998-09-23",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "1999-12-10": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1999-12-10",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2000-05-14": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2000-05-14",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2002-12-22": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2002-12-22",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2003-05-10": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2003-05-10",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2006-09-20": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2006-09-20",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2007-04-18": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2007-04-18",
+      "time": "11:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2007-10-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2007-10-28",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2008-03-16": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2008-03-16",
+      "time": "09:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2010-11-13": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2010-11-13",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2011-04-16": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2011-04-16",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2014-11-30": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2014-11-30",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2015-04-26": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2015-04-26",
+      "time": "06:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2015-09-24": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2015-09-24",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2016-02-07": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2016-02-07",
+      "time": "12:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2016-12-20": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2016-12-20",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2017-05-21": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2017-05-21",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2018-11-25": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2018-11-25",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2019-04-15": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2019-04-15",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2021-10-17": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 4
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2021-10-17",
+      "time": "09:00",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2022-05-21": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2022-05-21",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2022-10-30": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2022-10-30",
+      "time": "06:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2023-03-17": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2023-03-17",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2023-10-30": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2023-10-30",
+      "time": "12:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2024-04-28": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2024-04-28",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2024-12-22": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2024-12-22",
+      "time": "12:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ],
+  "2025-02-23": [
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 5
+    },
+    {
+      "club_name": "FC Empoli",
+      "short_name": "EMP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2025-02-23",
+      "time": "12:00",
+      "result": "0:5",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "EMP"
+      ]
+    }
+  ]
+}

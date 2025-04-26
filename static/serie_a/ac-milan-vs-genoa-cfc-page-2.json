@@ -1,0 +1,3647 @@
+{
+  "1921-05-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1921-05-22",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1921-06-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1921-06-12",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Divisione Nazionale finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1922-10-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 2,
+      "score": 4
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1922-10-08",
+      "time": "09:00",
+      "result": "4:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1923-02-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1923-02-04",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Prima Divisione",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1925-10-11": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1925-10-11",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1926-03-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1926-03-07",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Prima Divisione",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-03-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-03-27",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-05-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-05-22",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-11-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1927-11-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-01-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1928-01-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-04-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1928-04-08",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-07-01": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1928-07-01",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1929-05-30": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1929-05-30",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "DN Finali",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1929-06-12": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1929-06-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN Finali",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-02-16": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1930-02-16",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-07-06": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1930-07-06",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-12-07": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1930-12-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-05-24": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1931-05-24",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-12-06": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1931-12-06",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1932-05-01": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1932-05-01",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1932-11-13": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1932-11-13",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-04-16": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1933-04-16",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-10-08": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1933-10-08",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1934-02-18": [
+    {
+      "club_name": "Genova 1893 CdC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1934-02-18",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-11-03": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1935-11-03",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-03-01": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1936-03-01",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-12-06": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1936-12-06",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-04-04": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1937-04-04",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-05-30": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1937-05-30",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-06-02": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1937-06-02",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-12-19": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1937-12-19",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-04-10": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1938-04-10",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-10-09": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1938-10-09",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-02-19": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1939-02-19",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-10-01": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1939-10-01",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1940-02-04": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1940-02-04",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-01-19": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1941-01-19",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-05-04": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1941-05-04",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-11-23": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1941-11-23",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-03-15": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1942-03-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-10-11": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1942-10-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1943-01-24": [
+    {
+      "club_name": "AC Genova 1893",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 4
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1943-01-24",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1945-10-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1945-10-14",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-01-20": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1946-01-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-12-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1946-12-15",
+      "time": "08:30",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-05-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1947-05-18",
+      "time": "10:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-10-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1947-10-05",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-03-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1948-03-07",
+      "time": "09:30",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-12-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1948-12-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-04-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1949-04-24",
+      "time": "09:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-12-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1949-12-08",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-04-23": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1950-04-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-10-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1950-10-29",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1951-03-11": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1951-03-11",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-11-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1953-11-08",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1954-03-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1954-03-28",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-01-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1955-01-06",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-06-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 8
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1955-06-05",
+      "time": "19:00",
+      "result": "0:8",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-11-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1955-11-06",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-04-01": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1956-04-01",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-12-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1956-12-30",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1957-05-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1957-05-05",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-01-12": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1958-01-12",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-05-25": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 5
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1958-05-25",
+      "time": "19:00",
+      "result": "1:5",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-01-04": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1959-01-04",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-05-24": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1959-05-24",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-10-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1959-10-18",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-03-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1960-03-06",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1962-12-23": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1962-12-23",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1963-04-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1963-04-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1963-10-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1963-10-06",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-02-23": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-02-23",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-01-10": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1965-01-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-05-30": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1965-05-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-01-13": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1974-01-13",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-05-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1974-05-05",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1976-12-12": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1976-12-12",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-04-10": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1977-04-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-09-18": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1977-09-18",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1978-02-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1978-02-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-09-09": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1979-09-09",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1980-09-28": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1980-09-28",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-02-22": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1981-02-22",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-12-13": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1981-12-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1982-04-11": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1982-04-11",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1982-09-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1982-09-05",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1983-12-04": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1983-12-04",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1984-04-08": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1984-04-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-08-21": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1985-08-21",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-09-17": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1989-09-17",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-01-28": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1990-01-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-09-09": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1990-09-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-01-27": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1991-01-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-11-20": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1991-11-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1992-02-23": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1992-02-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-01-24": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1993-01-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-06-06": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1993-06-06",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-09-05": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1993-09-05",
+      "time": "10:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-01-16": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1994-01-16",
+      "time": "08:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-09-04": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1994-09-04",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "1995-02-15": [
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1995-02-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2007-08-26": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2007-08-26",
+      "time": "09:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-01-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2008-01-27",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-09-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2008-09-14",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-01-28": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2009-01-28",
+      "time": "14:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-01-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2010-01-06",
+      "time": "14:45",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-05-09": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2010-05-09",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-09-25": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2010-09-25",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-02-06": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2011-02-06",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-12-02": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 46,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2011-12-02",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-04-25": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2012-04-25",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-10-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2012-10-27",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-03-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2013-03-08",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-11-23": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2013-11-23",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2014-04-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2014-04-07",
+      "time": "15:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2014-12-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2014-12-07",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2015-04-29": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2015-04-29",
+      "time": "14:45",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2015-09-27": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2015-09-27",
+      "time": "06:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-02-14": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 51,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2016-02-14",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-10-25": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 51,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2016-10-25",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-03-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2017-03-18",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-10-22": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 52,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2017-10-22",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-03-11": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 53,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2018-03-11",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-10-31": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 54,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2018-10-31",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-01-21": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 55,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2019-01-21",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-10-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2019-10-05",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-03-08": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2020-03-08",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-12-16": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2020-12-16",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-04-18": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 57,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2021-04-18",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-12-01": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 58,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2021-12-01",
+      "time": "14:45",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-01-13": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 59,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-01-13",
+      "time": "15:00",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-04-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2022-04-15",
+      "time": "15:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-10-07": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 61,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2023-10-07",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-05-05": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 3
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 61,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2024-05-05",
+      "time": "12:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-12-15": [
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 61,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2024-12-15",
+      "time": "14:45",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "MIL"
+      ]
+    }
+  ]
+}

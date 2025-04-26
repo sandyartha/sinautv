@@ -1,0 +1,2594 @@
+{
+  "1959-09-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 1,
+      "score": 5
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1959-09-27",
+      "time": "10:00",
+      "result": "5:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1960-02-15": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1960-02-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1964-12-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 2,
+      "score": 4
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1964-12-27",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1965-05-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1965-05-16",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1965-09-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1965-09-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1966-02-13": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1966-02-13",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1966-12-11": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1966-12-11",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1967-04-16": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1967-04-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1968-01-07": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1968-01-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1968-05-05": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1968-05-05",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1968-11-24": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1968-11-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1969-03-23": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1969-03-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1969-06-14": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1969-06-14",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1969-06-28": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1969-06-28",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1970-01-03": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1970-01-03",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1970-04-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1970-04-26",
+      "time": "19:00",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1970-05-07": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1970-05-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1970-05-27": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 6,
+      "score": 4
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1970-05-27",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1971-01-03": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1971-01-03",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1971-04-25": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1971-04-25",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1971-10-31": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1971-10-31",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1972-02-20": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1972-02-20",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1973-01-07": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-01-07",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1973-05-13": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1973-05-13",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1973-10-28": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1973-10-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1974-02-17": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1974-02-17",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1974-09-01": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1974-09-01",
+      "time": "15:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1975-01-26": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1975-01-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1975-05-18": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1975-05-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1975-09-01": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1975-09-01",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1976-01-18": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1976-01-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1976-05-02": [
+    {
+      "club_name": "AC Torino",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 5
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1976-05-02",
+      "time": "19:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1979-09-16": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1979-09-16",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1980-01-13": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1980-01-13",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1980-10-19": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1980-10-19",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1981-03-08": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1981-03-08",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1981-11-29": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1981-11-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1982-04-04": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 4
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1982-04-04",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1982-09-05": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1982-09-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1982-10-24": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1982-10-24",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1983-03-06": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1983-03-06",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1985-02-13": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1985-02-13",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1985-02-27": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1985-02-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1986-08-24": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1986-08-24",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1987-02-25": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1987-02-25",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1987-04-08": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1987-04-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1989-11-05": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1989-11-05",
+      "time": "08:30",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1990-04-01": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1990-04-01",
+      "time": "09:30",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1990-10-21": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1990-10-21",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1991-03-03": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1991-03-03",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1991-09-29": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1991-09-29",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1992-02-23": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1992-02-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-01-03": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1993-01-03",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-05-16": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 15,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1993-05-16",
+      "time": "19:00",
+      "result": "0:5",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1993-10-31": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1993-10-31",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1994-03-13": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1994-03-13",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1994-10-30": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1994-10-30",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1995-04-02": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 22,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1995-04-02",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1995-11-19": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1995-11-19",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1996-03-24": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1996-03-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1997-11-08": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1997-11-08",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1998-04-11": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1998-04-11",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "1999-10-02": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1999-10-02",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2000-02-20": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2000-02-20",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2000-12-08": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2000-12-08",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2001-05-10": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2001-05-10",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2003-10-15": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 26,
+      "score": 4
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2003-10-15",
+      "time": "14:30",
+      "result": "4:2",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2004-03-14": [
+    {
+      "club_name": "Torino Calcio",
+      "short_name": "TOR",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2004-03-14",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2006-10-21": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2006-10-21",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2007-02-28": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2007-02-28",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2007-10-27": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2007-10-27",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2008-03-16": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 19,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2008-03-16",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2008-10-19": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2008-10-19",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2009-03-01": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2009-03-01",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2012-10-07": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2012-10-07",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2013-02-24": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 22,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2013-02-24",
+      "time": "09:00",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2013-11-10": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2013-11-10",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2014-03-30": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2014-03-30",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2014-09-24": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2014-09-24",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2015-02-15": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2015-02-15",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2016-11-05": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 31,
+      "score": 5
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2016-11-05",
+      "time": "12:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2017-04-09": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2017-04-09",
+      "time": "09:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2017-10-29": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2017-10-29",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2018-03-31": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 4
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2018-03-31",
+      "time": "09:00",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2018-11-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2018-11-26",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2019-04-14": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2019-04-14",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2019-10-27": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2019-10-27",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2020-06-27": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 24,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2020-06-27",
+      "time": "13:30",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2020-10-18": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2020-10-18",
+      "time": "09:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2021-02-19": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2021-02-19",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2021-12-06": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2021-12-06",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2022-02-27": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2022-02-27",
+      "time": "06:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2023-08-21": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2023-08-21",
+      "time": "12:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2024-01-26": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 36,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2024-01-26",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2024-10-20": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 36,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2024-10-20",
+      "time": "12:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ],
+  "2025-01-24": [
+    {
+      "club_name": "Torino FC",
+      "short_name": "TOR",
+      "poin": 37,
+      "score": 2
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2025-01-24",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "TOR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "1961-12-10": [
+    {
+      "club_name": "Associazione Sportiva SimmenthalMonza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1961-12-10",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1962-04-22": [
+    {
+      "club_name": "Associazione Sportiva SimmenthalMonza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1962-04-22",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1963-09-15": [
+    {
+      "club_name": "Associazione Sportiva SimmenthalMonza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1963-09-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1964-02-02": [
+    {
+      "club_name": "Associazione Sportiva SimmenthalMonza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1964-02-02",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1964-09-20": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 2,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1964-09-20",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1965-02-14": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1965-02-14",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1989-08-23": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 9
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 3,
+      "score": 10
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1989-08-23",
+      "time": "10:30",
+      "result": "10:9",
+      "league": "Italy Cup",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1996-08-28": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1996-08-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1999-01-10": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1999-01-10",
+      "time": "08:30",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1999-05-30": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1999-05-30",
+      "time": "10:00",
+      "result": "1:2",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "1999-09-05": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1999-09-05",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2000-01-30": [
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2000-01-30",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2022-08-21": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2022-08-21",
+      "time": "12:30",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2023-05-14": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "2023-05-14",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2023-12-29": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2023-12-29",
+      "time": "12:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2024-04-07": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2024-04-07",
+      "time": "09:00",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2024-09-29": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2024-09-29",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ],
+  "2025-04-19": [
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "2025-04-19",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MON",
+        "NAP"
+      ]
+    }
+  ]
+}

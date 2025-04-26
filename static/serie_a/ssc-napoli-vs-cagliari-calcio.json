@@ -1,0 +1,2376 @@
+{
+  "1963-09-29": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1963-09-29",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1964-02-23": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Napoli",
+      "short_name": "NAP",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1964-02-23",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1966-01-02": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1966-01-02",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1966-05-08": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1966-05-08",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1966-12-18": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1966-12-18",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1967-04-23": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1967-04-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1967-10-15": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1967-10-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1968-02-11": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1968-02-11",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1969-01-12": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1969-01-12",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1969-05-04": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1969-05-04",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1969-10-26": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1969-10-26",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1970-03-01": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1970-03-01",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1971-01-10": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1971-01-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1971-05-02": [
+    {
+      "club_name": "Unione Sportiva Cagliari",
+      "short_name": "CAG",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1971-05-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1971-11-07": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1971-11-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1972-02-27": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1972-02-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1972-12-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1972-12-30",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1973-05-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1973-05-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1973-05-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1973-05-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1973-06-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1973-06-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1973-10-07": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1973-10-07",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1974-02-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1974-02-03",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1974-12-01": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 10,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1974-12-01",
+      "time": "19:00",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1975-03-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1975-03-23",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1975-11-09": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1975-11-09",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1976-03-07": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1976-03-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1979-09-09": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1979-09-09",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1979-09-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1979-09-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1980-01-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1980-01-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1980-10-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1980-10-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1981-03-15": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1981-03-15",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1981-09-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1981-09-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1982-01-31": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1982-01-31",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1982-11-28": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1982-11-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1983-04-10": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1983-04-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1987-04-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1987-04-30",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    },
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 16,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1987-04-30",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1990-09-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1990-09-16",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1991-02-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1991-02-03",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1991-12-08": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 17,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1991-12-08",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1992-04-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1992-04-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1992-12-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1992-12-06",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1993-04-25": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1993-04-25",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1993-10-17": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1993-10-17",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1994-02-27": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1994-02-27",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1995-01-15": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1995-01-15",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1995-05-28": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1995-05-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1995-11-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1995-11-26",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1996-03-31": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1996-03-31",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1996-11-24": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1996-11-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "1997-04-13": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1997-04-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2001-09-30": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "2001-09-30",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2002-02-24": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2002-02-24",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2002-09-14": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2002-09-14",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2003-02-09": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2003-02-09",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2003-11-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2003-11-02",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2004-03-27": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2004-03-27",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2007-08-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2007-08-26",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2008-01-27": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2008-01-27",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2008-11-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2008-11-23",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2009-04-19": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2009-04-19",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2009-12-12": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2009-12-12",
+      "time": "12:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2010-04-25": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2010-04-25",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2010-11-10": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2010-11-10",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2011-03-20": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2011-03-20",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2011-10-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2011-10-23",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2012-03-09": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 25,
+      "score": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2012-03-09",
+      "time": "14:45",
+      "result": "6:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2012-11-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2012-11-26",
+      "time": "13:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2013-04-21": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "2013-04-21",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2013-12-21": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2013-12-21",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2014-05-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "2014-05-06",
+      "time": "15:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2014-11-23": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 3
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 28,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2014-11-23",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2015-04-19": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 29,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2015-04-19",
+      "time": "12:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2016-12-11": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 30,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2016-12-11",
+      "time": "06:30",
+      "result": "0:5",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2017-05-06": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 31,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2017-05-06",
+      "time": "12:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2017-10-01": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2017-10-01",
+      "time": "06:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2018-02-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 33,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2018-02-26",
+      "time": "14:45",
+      "result": "0:5",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2018-12-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2018-12-16",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2019-05-05": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 35,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2019-05-05",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2019-09-25": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2019-09-25",
+      "time": "15:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2020-02-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2020-02-16",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2021-01-03": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 37,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "2021-01-03",
+      "time": "09:00",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2021-05-02": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2021-05-02",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2021-09-26": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "2021-09-26",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2022-02-21": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2022-02-21",
+      "time": "13:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2023-12-16": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "2023-12-16",
+      "time": "12:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2024-02-25": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2024-02-25",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ],
+  "2024-09-15": [
+    {
+      "club_name": "Cagliari Calcio",
+      "short_name": "CAG",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "SSC Napoli",
+      "short_name": "NAP",
+      "poin": 40,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "2024-09-15",
+      "time": "12:00",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "CAG",
+        "NAP"
+      ]
+    }
+  ]
+}

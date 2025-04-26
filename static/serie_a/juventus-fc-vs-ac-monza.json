@@ -1,0 +1,272 @@
+{
+  "1976-08-29": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1976-08-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "1978-09-10": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1978-09-10",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "1985-08-28": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1985-08-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "1986-08-27": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Calcio Monza",
+      "short_name": "MON",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1986-08-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2022-09-18": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2022-09-18",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2023-01-19": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2023-01-19",
+      "time": "15:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2023-01-29": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2023-01-29",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2023-12-01": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2023-12-01",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2024-05-25": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2024-05-25",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ],
+  "2024-12-22": [
+    {
+      "club_name": "Juventus FC",
+      "short_name": "JUV",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "AC Monza",
+      "short_name": "MON",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "2024-12-22",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "JUV",
+        "MON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4268 @@
+{
+  "1928-11-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1928-11-25",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1929-04-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1929-04-21",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "DN",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1931-10-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1931-10-11",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1932-02-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1932-02-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1932-11-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1932-11-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1933-04-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1933-04-16",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1933-10-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1933-10-15",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1934-02-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1934-02-25",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1935-01-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1935-01-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1935-05-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1935-05-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1935-09-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1935-09-29",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1936-02-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1936-02-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1936-12-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1936-12-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1937-04-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1937-04-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1937-09-19": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1937-09-19",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1938-01-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1938-01-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1939-10-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1939-10-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1940-02-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1940-02-18",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1941-01-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1941-01-05",
+      "time": "19:00",
+      "result": "5:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1941-04-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1941-04-20",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1942-01-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1942-01-25",
+      "time": "19:00",
+      "result": "2:5",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1942-06-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1942-06-07",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1942-12-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1942-12-06",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1943-03-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1943-03-21",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1947-02-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1947-02-02",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1947-07-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1947-07-06",
+      "time": "11:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1947-11-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1947-11-23",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1948-04-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1948-04-25",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1948-11-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1948-11-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1949-04-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1949-04-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1949-10-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1949-10-23",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-03-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1950-03-05",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-12-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1950-12-03",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-04-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1951-04-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-10-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1951-10-07",
+      "time": "09:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1952-03-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1952-03-09",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1952-11-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1952-11-30",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1953-04-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1953-04-06",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1953-10-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1953-10-25",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1954-03-14": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1954-03-14",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1955-01-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1955-01-02",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1955-05-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1955-05-15",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1955-10-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1955-10-16",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1956-03-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1956-03-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1956-10-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1956-10-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1957-03-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1957-03-10",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1957-09-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1957-09-22",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1958-02-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1958-02-09",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1958-09-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 19,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1958-09-13",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1958-11-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 20,
+      "score": 6
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1958-11-23",
+      "time": "19:00",
+      "result": "6:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1959-04-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1959-04-05",
+      "time": "19:00",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1959-10-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1959-10-04",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1960-02-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1960-02-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-01-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1961-01-15",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-05-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1961-05-21",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1961-09-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 24,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1961-09-10",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1962-01-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1962-01-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1962-12-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1962-12-23",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1963-04-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1963-04-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1963-09-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1963-09-29",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1964-02-16": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1964-02-16",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1964-11-15": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1964-11-15",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1965-03-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1965-03-28",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1965-11-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1965-11-21",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1966-04-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1966-04-03",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1966-11-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1966-11-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-04-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1967-04-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-10-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1967-10-29",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1967-11-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1967-11-08",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1968-02-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1968-02-25",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1968-11-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1968-11-03",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1969-03-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1969-03-02",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1969-11-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1969-11-09",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1970-03-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1970-03-08",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1970-11-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1970-11-29",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1971-03-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 29,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1971-03-28",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1971-11-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1971-11-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-02-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1972-02-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-06-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1972-06-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-06-28": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1972-06-28",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-09-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1972-09-10",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1972-11-26": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1972-11-26",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1973-03-25": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1973-03-25",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1973-12-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1973-12-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1974-03-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1974-03-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1974-10-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1974-10-13",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1975-02-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1975-02-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1975-11-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1975-11-09",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1976-03-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1976-03-07",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1977-01-02": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 34,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1977-01-02",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1977-04-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1977-04-24",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1977-11-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1977-11-27",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1978-03-26": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1978-03-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1978-11-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1978-11-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1979-03-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1979-03-11",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1979-10-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1979-10-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1980-02-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1980-02-24",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1980-12-21": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 36,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1980-12-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1981-04-26": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 37,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1981-04-26",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1981-12-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1981-12-13",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1982-04-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1982-04-11",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1982-09-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1982-09-05",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-02-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1989-02-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-06-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1989-06-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-11-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1989-11-05",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1990-01-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1990-01-03",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1990-03-11": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1990-03-11",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1990-12-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1990-12-30",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1991-05-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1991-05-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-10-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 37,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1996-10-20",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1996-10-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1996-10-23",
+      "time": "14:30",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1997-03-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1997-03-09",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1997-11-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1997-11-23",
+      "time": "08:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1998-03-22": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 42,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1998-03-22",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1998-12-05": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1998-12-05",
+      "time": "08:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1999-02-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1999-02-18",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1999-03-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 38,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1999-03-10",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1999-04-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1999-04-17",
+      "time": "10:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "1999-11-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1999-11-27",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2000-04-01": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "2000-04-01",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2000-11-12": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "2000-11-12",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-03-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 39,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2001-03-18",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-11-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "2001-11-04",
+      "time": "09:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2002-03-17": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 44,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2002-03-17",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2004-12-05": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "2004-12-05",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2005-04-24": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 45,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2005-04-24",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2008-09-21": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 46,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2008-09-21",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2009-02-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "2009-02-02",
+      "time": "09:15",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2009-08-22": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 40,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2009-08-22",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2010-01-17": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "2010-01-17",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2011-01-06": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "2011-01-06",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2011-05-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2011-05-15",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2011-09-11": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 48,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 41,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2011-09-11",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2012-02-21": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 48,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2012-02-21",
+      "time": "12:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2012-10-07": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 42,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2012-10-07",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2013-02-26": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 49,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2013-02-26",
+      "time": "14:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2013-12-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 50,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2013-12-15",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2014-04-26": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 51,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2014-04-26",
+      "time": "12:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2015-09-23": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 52,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "2015-09-23",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2016-02-06": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 52,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2016-02-06",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2016-10-29": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 53,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2016-10-29",
+      "time": "12:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2017-04-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 54,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2017-04-02",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2017-09-16": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 55,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2017-09-16",
+      "time": "12:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2018-02-04": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "2018-02-04",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2018-11-25": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "2018-11-25",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2019-04-14": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "2019-04-14",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2020-01-06": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 56,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "2020-01-06",
+      "time": "06:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2020-07-29": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 4
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "2020-07-29",
+      "time": "15:45",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2021-01-03": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "2021-01-03",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2021-05-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 57,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2021-05-02",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2021-12-05": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 58,
+      "score": 3
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2021-12-05",
+      "time": "06:30",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2022-03-13": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 59,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 43,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2022-03-13",
+      "time": "06:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2022-09-11": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 59,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 44,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2022-09-11",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2023-02-05": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 59,
+      "score": 1
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2023-02-05",
+      "time": "12:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2023-11-12": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 60,
+      "score": 2
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2023-11-12",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-01-09": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 5
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 45,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2024-01-09",
+      "time": "15:00",
+      "result": "5:4",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-02-14": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 46,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2024-02-14",
+      "time": "13:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-12-15": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 61,
+      "score": 0
+    },
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 47,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "2024-12-15",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "FIO"
+      ]
+    }
+  ]
+}

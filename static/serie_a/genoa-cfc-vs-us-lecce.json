@@ -1,0 +1,1136 @@
+{
+  "1977-08-31": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1977-08-31",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1979-01-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1979-01-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1979-05-20": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1979-05-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1980-01-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1980-01-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1980-06-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1980-06-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1980-10-12": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1980-10-12",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1981-03-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1981-03-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1984-11-25": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1984-11-25",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1985-04-21": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1985-04-21",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1986-12-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1986-12-07",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1987-05-03": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1987-05-03",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1987-11-29": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1987-11-29",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1988-05-01": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1988-05-01",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1989-08-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1989-08-27",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1990-01-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1990-01-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1990-09-30": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1990-09-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1991-02-17": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1991-02-17",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1993-10-17": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1993-10-17",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1994-02-27": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1994-02-27",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1996-08-24": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1996-08-24",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1996-10-13": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1996-10-13",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1997-03-09": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa 1893",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1997-03-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1998-09-13": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1998-09-13",
+      "time": "10:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "1999-02-07": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1999-02-07",
+      "time": "08:30",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2002-10-26": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2002-10-26",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2003-03-30": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2003-03-30",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2006-09-30": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2006-09-30",
+      "time": "10:00",
+      "result": "3:2",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2007-03-03": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2007-03-03",
+      "time": "11:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2009-01-18": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2009-01-18",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2009-05-31": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 11,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2009-05-31",
+      "time": "09:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2010-12-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2010-12-05",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2011-04-23": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "2011-04-23",
+      "time": "09:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2011-10-16": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "2011-10-16",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2012-03-04": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2012-03-04",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2016-08-12": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2016-08-12",
+      "time": "12:30",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2018-08-11": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "2018-08-11",
+      "time": "15:15",
+      "result": "4:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2019-12-08": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2019-12-08",
+      "time": "06:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2020-07-19": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2020-07-19",
+      "time": "13:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2023-09-22": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2023-09-22",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2024-01-28": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "2024-01-28",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2025-01-05": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2025-01-05",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ],
+  "2025-03-14": [
+    {
+      "club_name": "US Lecce",
+      "short_name": "LEC",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Genoa CFC",
+      "short_name": "GEN",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "2025-03-14",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "GEN",
+        "LEC"
+      ]
+    }
+  ]
+}

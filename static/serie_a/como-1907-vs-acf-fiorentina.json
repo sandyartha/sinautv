@@ -1,0 +1,974 @@
+{
+  "1949-10-20": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 1,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1949-10-20",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-02-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1950-02-23",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1950-09-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1950-09-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-02-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1951-02-04",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1951-11-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1951-11-04",
+      "time": "08:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1952-04-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 5
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1952-04-06",
+      "time": "10:00",
+      "result": "5:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1953-01-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1953-01-18",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1953-05-31": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1953-05-31",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1959-11-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "AS Como",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1959-11-04",
+      "time": "08:30",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1975-12-14": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1975-12-14",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1976-04-04": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1976-04-04",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1979-09-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1979-09-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1980-11-23": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1980-11-23",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1981-03-29": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1981-03-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1981-09-13": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1981-09-13",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1982-01-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1982-01-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1983-08-31": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1983-08-31",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1984-09-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1984-09-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1985-02-10": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1985-02-10",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1985-10-06": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1985-10-06",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1986-02-09": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1986-02-09",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1986-09-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1986-09-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1986-10-19": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1986-10-19",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1987-03-08": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1987-03-08",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1987-09-27": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1987-09-27",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1988-02-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1988-02-07",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1988-12-18": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1988-12-18",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-05-07": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1989-05-07",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "1989-08-30": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 10
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 9,
+      "score": 9
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1989-08-30",
+      "time": "14:30",
+      "result": "10:9",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-10-03": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2001-10-03",
+      "time": "11:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2001-10-24": [
+    {
+      "club_name": "AC Fiorentina",
+      "short_name": "FIO",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2001-10-24",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2003-11-02": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2003-11-02",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2004-03-27": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Como Calcio",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2004-03-27",
+      "time": "14:30",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2004-08-22": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 16,
+      "score": 3
+    },
+    {
+      "club_name": "Calcio Como",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2004-08-22",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2024-11-24": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Como 1907",
+      "short_name": "COM",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2024-11-24",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ],
+  "2025-02-16": [
+    {
+      "club_name": "ACF Fiorentina",
+      "short_name": "FIO",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Como 1907",
+      "short_name": "COM",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "2025-02-16",
+      "time": "06:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "COM",
+        "FIO"
+      ]
+    }
+  ]
+}

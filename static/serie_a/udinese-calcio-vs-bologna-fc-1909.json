@@ -1,0 +1,2540 @@
+{
+  "1922-11-19": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1922-11-19",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1923-03-25": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 2,
+      "score": 14
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1923-03-25",
+      "time": "19:00",
+      "result": "14:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1925-10-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 3,
+      "score": 7
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1925-10-18",
+      "time": "19:00",
+      "result": "1:7",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1926-03-14": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1926-03-14",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Prima Divisione",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1950-11-12": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1950-11-12",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1951-03-25": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 5,
+      "score": 5
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1951-03-25",
+      "time": "19:00",
+      "result": "5:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1952-01-13": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1952-01-13",
+      "time": "08:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1952-06-08": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1952-06-08",
+      "time": "10:30",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1953-01-04": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1953-01-04",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1953-05-10": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1953-05-10",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1953-12-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 2,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1953-12-20",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1954-05-01": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 3
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1954-05-01",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1954-10-24": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1954-10-24",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1955-03-13": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1955-03-13",
+      "time": "19:00",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1957-01-13": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 11,
+      "score": 5
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1957-01-13",
+      "time": "19:00",
+      "result": "1:5",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1957-06-02": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 4
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1957-06-02",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1957-09-08": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1957-09-08",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1958-01-26": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1958-01-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1958-10-05": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1958-10-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1959-02-15": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1959-02-15",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1959-12-27": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1959-12-27",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1960-05-08": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1960-05-08",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1960-12-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1960-12-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1961-04-16": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1961-04-16",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1961-12-17": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1961-12-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1962-04-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1962-04-18",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1963-09-09": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 16,
+      "score": 2
+    },
+    {
+      "club_name": "AS Udinese",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1963-09-09",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1979-12-16": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1979-12-16",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1980-04-27": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1980-04-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1980-10-26": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1980-10-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1981-03-15": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1981-03-15",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1981-08-26": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1981-08-26",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1981-12-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1981-12-20",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1982-04-25": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1982-04-25",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1983-08-21": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1983-08-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1986-08-24": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1986-08-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1987-09-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1987-09-20",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1988-02-14": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1988-02-14",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1989-09-06": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1989-09-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1990-01-17": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1990-01-17",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1991-11-17": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 10,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1991-11-17",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1992-04-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1992-04-18",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie B",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1996-09-29": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1996-09-29",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1997-02-23": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1997-02-23",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1997-12-07": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 11,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1997-12-07",
+      "time": "08:30",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1998-04-05": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1998-04-05",
+      "time": "10:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1998-09-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1998-09-20",
+      "time": "10:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1999-01-31": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1999-01-31",
+      "time": "14:30",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "1999-11-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1999-11-20",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2000-03-25": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2000-03-25",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2000-12-23": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 15,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2000-12-23",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2001-05-05": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2001-05-05",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2001-12-19": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2001-12-19",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2002-02-17": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2002-02-17",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2002-11-02": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2002-11-02",
+      "time": "12:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2003-03-16": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2003-03-16",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2003-09-21": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2003-09-21",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2003-12-03": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2003-12-03",
+      "time": "08:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2003-12-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2003-12-18",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2004-02-07": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2004-02-07",
+      "time": "14:30",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2004-10-27": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2004-10-27",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2005-03-06": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 19,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2005-03-06",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2008-09-24": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 20,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2008-09-24",
+      "time": "14:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2009-02-08": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 28,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2009-02-08",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2009-12-06": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2009-12-06",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2010-04-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2010-04-18",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2010-09-22": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "2010-09-22",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2011-02-02": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2011-02-02",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2011-10-02": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2011-10-02",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2012-02-26": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "2012-02-26",
+      "time": "14:45",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2012-11-04": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "2012-11-04",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2013-03-30": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 23,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "2013-03-30",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2013-09-15": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 23,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2013-09-15",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2014-02-01": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2014-02-01",
+      "time": "12:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2015-09-27": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 25,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2015-09-27",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2016-02-14": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 25,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2016-02-14",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2016-12-05": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2016-12-05",
+      "time": "15:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2017-04-30": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 4
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 26,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2017-04-30",
+      "time": "09:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2017-12-30": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 27,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2017-12-30",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2018-05-20": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 32,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2018-05-20",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2018-09-30": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 28,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2018-09-30",
+      "time": "06:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2019-03-03": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2019-03-03",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2019-09-29": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 30,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2019-09-29",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2019-12-04": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "2019-12-04",
+      "time": "15:00",
+      "result": "4:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2020-02-22": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "2020-02-22",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2021-01-06": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "2021-01-06",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2021-05-08": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2021-05-08",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2021-10-17": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2021-10-17",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2022-04-24": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2022-04-24",
+      "time": "09:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2023-01-15": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 34,
+      "score": 2
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2023-01-15",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2023-04-02": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 3
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 31,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2023-04-02",
+      "time": "06:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2023-12-30": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 0
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2023-12-30",
+      "time": "09:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2024-04-28": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2024-04-28",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ],
+  "2024-08-18": [
+    {
+      "club_name": "Bologna FC 1909",
+      "short_name": "BOL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Udinese Calcio",
+      "short_name": "UDI",
+      "poin": 32,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2024-08-18",
+      "time": "12:30",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "BOL",
+        "UDI"
+      ]
+    }
+  ]
+}

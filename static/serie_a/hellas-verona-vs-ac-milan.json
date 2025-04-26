@@ -1,0 +1,2162 @@
+{
+  "1921-11-27": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "FC Hellas Verona",
+      "short_name": "VER",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1921-11-27",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1922-03-12": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "FC Hellas Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1922-03-12",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1923-12-09": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 2
+    },
+    {
+      "club_name": "FC Hellas Verona",
+      "short_name": "VER",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1923-12-09",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1924-03-30": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "FC Hellas Verona",
+      "short_name": "VER",
+      "poin": 3,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1924-03-30",
+      "time": "19:00",
+      "result": "5:1",
+      "league": "Prima Divisione",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1957-12-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1957-12-22",
+      "time": "19:00",
+      "result": "4:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1958-05-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "AC Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1958-05-04",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1968-10-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1968-10-06",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1969-02-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1969-02-09",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1969-09-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1969-09-03",
+      "time": "15:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1969-10-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1969-10-05",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1970-02-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1970-02-01",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1970-12-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1970-12-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1971-04-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1971-04-04",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1971-12-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1971-12-26",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1972-04-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1972-04-16",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1973-01-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1973-01-21",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1973-05-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 5,
+      "score": 5
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1973-05-20",
+      "time": "19:00",
+      "result": "5:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1973-12-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1973-12-16",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1974-04-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1974-04-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1976-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1976-01-12",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1976-04-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1976-04-25",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1977-01-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1977-01-09",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1977-05-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1977-05-02",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1978-01-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1978-01-08",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1978-04-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1978-04-23",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1978-12-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1978-12-17",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1979-04-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1979-04-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1980-10-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1980-10-12",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1981-03-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1981-03-08",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1981-08-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1981-08-23",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1983-05-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1983-05-18",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1983-06-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1983-06-01",
+      "time": "19:00",
+      "result": "3:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1983-09-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 4
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1983-09-18",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1984-01-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1984-01-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1984-12-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1984-12-02",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1985-04-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1985-04-21",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1985-10-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1985-10-27",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1986-03-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1986-03-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1986-09-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1986-09-21",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1987-02-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1987-02-01",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1987-10-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1987-10-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1988-03-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1988-03-06",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1988-09-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1988-09-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1988-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1988-11-06",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1989-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1989-03-19",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1990-02-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 0
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1990-02-07",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1990-04-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "AC Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1990-04-22",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1991-10-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 2
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1991-10-30",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1991-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": 1
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1991-12-11",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1992-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1992-01-12",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1992-05-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": 4
+    },
+    {
+      "club_name": "Verona FC",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1992-05-17",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1996-09-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1996-09-08",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1997-01-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1997-01-26",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "1999-10-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1999-10-31",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2000-03-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "2000-03-12",
+      "time": "09:00",
+      "result": "3:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2000-12-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2000-12-17",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2001-04-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2001-04-29",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2001-12-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2001-12-23",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2002-04-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 11,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2002-04-28",
+      "time": "09:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2013-08-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2013-08-24",
+      "time": "12:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2014-01-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2014-01-19",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2014-10-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "2014-10-19",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2015-03-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "2015-03-07",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2015-12-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 12,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2015-12-13",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2016-04-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2016-04-25",
+      "time": "11:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2017-12-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2017-12-13",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2017-12-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": 0
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2017-12-17",
+      "time": "06:30",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2018-05-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": 4
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2018-05-05",
+      "time": "12:00",
+      "result": "4:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2019-09-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "2019-09-15",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2020-02-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "2020-02-02",
+      "time": "09:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2020-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2020-11-08",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2021-03-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2021-03-07",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2021-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2021-10-16",
+      "time": "14:45",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2022-05-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2022-05-08",
+      "time": "14:45",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2022-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": 2
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2022-10-16",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2023-06-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2023-06-04",
+      "time": "15:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2023-09-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2023-09-23",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2024-03-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": 3
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2024-03-17",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2024-12-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2024-12-20",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ],
+  "2025-02-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": 1
+    },
+    {
+      "club_name": "Hellas Verona",
+      "short_name": "VER",
+      "poin": 14,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "2025-02-15",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "MIL",
+        "VER"
+      ]
+    }
+  ]
+}

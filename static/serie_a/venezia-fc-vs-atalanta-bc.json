@@ -1,0 +1,1406 @@
+{
+  "1930-01-05": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1930-01-05",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1930-05-29": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 0,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-05-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1930-12-21": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-12-21",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1931-06-02": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1931-06-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1931-10-25": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 1,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1931-10-25",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1932-03-13": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 1,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-03-13",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1932-12-18": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 2,
+      "score": 4
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-12-18",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1933-05-25": [
+    {
+      "club_name": "SS Serenissima",
+      "short_name": "VEN",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1933-05-25",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1933-09-17": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 2,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1933-09-17",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1933-12-24": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 2,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1933-12-24",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1934-12-02": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 4,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1934-12-02",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1935-04-14": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 5,
+      "score": 6
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1935-04-14",
+      "time": "19:00",
+      "result": "6:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1937-01-03": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1937-01-03",
+      "time": "19:00",
+      "result": "4:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1937-05-09": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1937-05-09",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1937-12-26": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1937-12-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1937-12-30": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 3,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1937-12-30",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1939-01-29": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 4,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1939-01-29",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1939-06-04": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1939-06-04",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1940-11-10": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1940-11-10",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1941-03-02": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 5,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1941-03-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1941-12-28": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 5,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1941-12-28",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1942-05-10": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1942-05-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1942-12-13": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 6,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1942-12-13",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1943-03-28": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1943-03-28",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1945-12-23": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1945-12-23",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1946-03-24": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1946-03-24",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "DN",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1947-02-09": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 10,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-02-09",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1947-06-29": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-06-29",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1950-01-01": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 12,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1950-01-01",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1950-05-21": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 7,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1950-05-21",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1958-11-23": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1958-11-23",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1959-03-29": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1959-03-29",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1961-09-03": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 8,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 14,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1961-09-03",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1961-12-31": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 8,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1961-12-31",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1962-10-07": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 8,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1962-10-07",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1963-02-10": [
+    {
+      "club_name": "AC Venezia",
+      "short_name": "VEN",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1963-02-10",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1966-09-25": [
+    {
+      "club_name": "Calcio Venezia",
+      "short_name": "VEN",
+      "poin": 9,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 15,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1966-09-25",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1967-02-05": [
+    {
+      "club_name": "Calcio Venezia",
+      "short_name": "VEN",
+      "poin": 9,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1967-02-05",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1992-08-26": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 10,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 16,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1992-08-26",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1992-09-02": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 10,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1992-09-02",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1994-09-25": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 11,
+      "score": 3
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 17,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1994-09-25",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "1995-02-26": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 11,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 18,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1995-02-26",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2001-11-18": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 19,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2001-11-18",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2002-03-24": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 11,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 1
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2002-03-24",
+      "time": "09:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2003-08-17": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 12,
+      "score": 2
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "2003-08-17",
+      "time": "12:00",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2003-10-08": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 12,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2003-10-08",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2004-02-01": [
+    {
+      "club_name": "AC Venezia 1907",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 20,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2004-02-01",
+      "time": "09:00",
+      "result": "1:0",
+      "league": "Serie B",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2021-11-30": [
+    {
+      "club_name": "Venezia FC",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 21,
+      "score": 4
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2021-11-30",
+      "time": "12:30",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2022-01-12": [
+    {
+      "club_name": "Venezia FC",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 22,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2022-01-12",
+      "time": "11:30",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2022-04-23": [
+    {
+      "club_name": "Venezia FC",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 1
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 23,
+      "score": 3
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2022-04-23",
+      "time": "09:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2024-10-20": [
+    {
+      "club_name": "Venezia FC",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 2
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "2024-10-20",
+      "time": "09:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ],
+  "2025-03-01": [
+    {
+      "club_name": "Venezia FC",
+      "short_name": "VEN",
+      "poin": 13,
+      "score": 0
+    },
+    {
+      "club_name": "Atalanta BC",
+      "short_name": "ATA",
+      "poin": 24,
+      "score": 0
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "2025-03-01",
+      "time": "09:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "ATA",
+        "VEN"
+      ]
+    }
+  ]
+}
