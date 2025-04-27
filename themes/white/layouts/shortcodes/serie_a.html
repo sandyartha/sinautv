@@ -1,16 +1,16 @@
 {{ $file_json := .Page.Params.file_json | safeURL }}
 
+
 <div id="chartContainer">
-    <div id="chartdiv" style="min-width: 100%;min-height:30rem;display:flex;"></div>
+  <div id="chartdiv" style="min-width: 100%;min-height:30rem;display:flex;"></div>
   <div id="infoContainer">
-    <div id="infoDiv">
-      
+    <div id="infoDiv">      
       <span id="yearDiv"></span>:
       <span id="leagueDiv"></span>
     </div>
     <div id="scoreDiv"></div>
   </div>
-  
+
   <div id="yearDiv"></div>
   <div id="leagueDiv"></div>
   <div id="scoreDiv"></div>
@@ -90,12 +90,27 @@ fetch(jsonFile)
       playButton.verticalCenter = "middle";
       playButton.disabled = true; // Disable the play button
 
+
+      var tags = parseInt("{{ index .Page.Params.tags 0 }}", 10);
+
+      var totalDuration;
+
+      if (tags >= 200) {
+        totalDuration = 60000; // 60 detik
+      } else if (tags >= 100) {
+        totalDuration = 45000; // 45 detik
+      } else if (tags >= 30) {
+        totalDuration = 15000; // 15 detik
+      } else {
+        totalDuration = 30000; // fallback aman
+      }
+
       // Durasi setiap langkah animasi
       // Untuk durasi animasi 30 detik
       // var stepDuration = 30000 / dateKeys.length;
 
       // Untuk durasi animasi 1 menit
-      var stepDuration = 60000 / dateKeys.length;
+      var stepDuration = totalDuration / dateKeys.length;
 
       // Untuk durasi animasi 2 menit
       // var stepDuration = 120000 / dateKeys.length;
@@ -104,6 +119,7 @@ fetch(jsonFile)
       // var stepDuration = 300000 / dateKeys.length;
 
       // var stepDuration = 30000 / dateKeys.length;
+
 
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
       categoryAxis.renderer.grid.template.location = 0;
@@ -165,6 +181,14 @@ fetch(jsonFile)
       poinImage.propertyFields.href = "logo";
       poinImage.dx = 5;
       poinImage.height = 60; // Adjust logo height
+
+      // chart.events.on("sizechanged", function (ev) {
+      //   if (ev.target.pixelWidth <= 480) {
+      //     poinImage.height = 55; // Atur ukuran logo untuk mobile
+      //   } else {
+      //     poinImage.height = 60; // Atur ukuran logo untuk desktop
+      //   }
+      // });
 
       // Define a mapping of label names to custom colors
       // var labelColorMapping = {
@@ -445,35 +469,24 @@ fetch(jsonFile)
         leagueLabel.text = leagues;
         document.getElementById("leagueDiv").innerText = leagues;
 
-        var drawData = newData.find((item) => item.short_name === "DRAW");
-        if (drawData && drawData.clubs && drawData.result) {
-          var club1 = drawData.clubs[0];
-          var club2 = drawData.clubs[1];
-          var result = drawData.result;
+        var club1 = newData[0].short_name;
+        var club2 = newData[1].short_name;
+        var score1 = newData[0].score;
+        var score2 = newData[1].score;
 
-          // Ambil warna dari labelMapping
-          var club1Color = labelMapping[club1]?.color || "#000";
-          var club2Color = labelMapping[club2]?.color || "#000";
-
-          // Format skor dengan warna
-          var scores = `
-            <span style="color: ${club1Color};">${club1}</span> 
-            ${result} 
-            <span style="color: ${club2Color};">${club2}</span>
-          `;
-
-          // Tampilkan skor di elemen HTML
-          scoreLabel.html = scores; // Jika library mendukung HTML
-          document.getElementById("scoreDiv").innerHTML = scores; // Gunakan innerHTML untuk mendukung warna
-        } else {
-          // Jika tidak ada data DRAW, fallback ke format default
-          var scores = newData
-            .filter((item) => item.score !== undefined)
-            .map((item) => `${item.club_name}: ${item.score}`)
-            .join(", ");
-          scoreLabel.text = scores;
-          document.getElementById("scoreDiv").innerText = scores;
+        if (score1 < score2) {
+          [club1, club2] = [club2, club1];
+          [score1, score2] = [score2, score1];
         }
+
+        var scores = `
+          <span style="color: ${labelMapping[club1]?.color || "#000"};">${club1}</span> 
+          ${score1}:${score2} 
+          <span style="color: ${labelMapping[club2]?.color || "#000"};">${club2}</span>
+        `;
+
+        scoreLabel.html = scores; // Gunakan HTML untuk mendukung format warna
+        document.getElementById("scoreDiv").innerHTML = scores; // Gunakan innerHTML untuk mendukung warna
 
         adjustZoomLevel(); // Adjust zoom level after updating data
 
