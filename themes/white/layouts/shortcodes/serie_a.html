@@ -95,11 +95,13 @@ fetch(jsonFile)
 
       var totalDuration;
 
-      if (tags >= 200) {
-        totalDuration = 60000; // 60 detik
-      } else if (tags >= 100) {
+      if (tags >= 100) {
+        totalDuration = 120000; // 60 detik
+      } else if (tags >= 60) {
         totalDuration = 45000; // 45 detik
       } else if (tags >= 30) {
+        totalDuration = 20000; // 15 detik
+      } else if (tags >= 5) {
         totalDuration = 15000; // 15 detik
       } else {
         totalDuration = 30000; // fallback aman
