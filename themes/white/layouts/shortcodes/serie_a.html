@@ -96,9 +96,9 @@ fetch(jsonFile)
       var totalDuration;
 
       if (tags >= 100) {
-        totalDuration = 120000; // 60 detik
+        totalDuration = 45000; // 120000 60 detik
       } else if (tags >= 60) {
-        totalDuration = 45000; // 45 detik
+        totalDuration = 30000; // 45 detik
       } else if (tags >= 30) {
         totalDuration = 20000; // 15 detik
       } else if (tags >= 5) {
@@ -133,13 +133,15 @@ fetch(jsonFile)
       // Adjust padding for categoryY labels
       categoryAxis.renderer.labels.template.padding(10, 10, 10, 10); // top, right, bottom, left
 
+      categoryAxis.renderer.labels.template.marginRight = -7; // Kurangi jarak
+
       // Adjust margin from the left side for categoryY labels
       categoryAxis.renderer.marginLeft = -40;
 
       // Change font size and font weight for short_name labels
-      categoryAxis.renderer.labels.template.fontSize = 20;
+      categoryAxis.renderer.labels.template.fontSize = 15;
       categoryAxis.renderer.labels.template.fontWeight = 600;
-
+      
       var valueAxis = chart.xAxes.push(new am4charts.ValueAxis()); // Membuat sumbu nilai
       valueAxis.min = 0;
       valueAxis.rangeChangeEasing = am4core.ease.linear;
@@ -166,7 +168,7 @@ fetch(jsonFile)
       poinSeries.interpolationDuration = stepDuration;
       poinSeries.interpolationEasing = am4core.ease.linear;
       poinSeries.columns.template.maxWidth = 10; // Mengatur lebar maksimum kolom
-
+      
       var poinLabelBullet = poinSeries.bullets.push(
         new am4charts.LabelBullet()
       );
@@ -175,7 +177,7 @@ fetch(jsonFile)
       poinLabelBullet.label.textAlign = "end";
       poinLabelBullet.label.dx = -10;
       poinLabelBullet.label.fill = am4core.color("#FFFFFF"); // Set the color to white
-      poinLabelBullet.label.fontSize = 25; // Adjust the font size
+      poinLabelBullet.label.fontSize = 35; // Adjust the font size
 
       var poinImage = poinLabelBullet.createChild(am4core.Image); // Menambahkan gambar ke label bullet
       poinImage.horizontalCenter = "left";
