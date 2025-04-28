@@ -94,12 +94,25 @@ p {
   }
 }
 
+a:visited {
+    color: #6b7280; /* Warna untuk tautan yang sudah dikunjungi */
+    text-decoration: underline; /* Tambahkan garis bawah jika diinginkan */
+    font-style: italic; /* Opsional: ubah gaya font */
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     #infoContainer {
           display: block;
     }
-  
+    #leagueDiv,
+    #scoreDiv {
+    display: none; /* Sembunyikan elemen pada layar kecil */
+  }
+  #infoDiv {
+      margin-top: -25px; /* Kurangi jarak atas */
+      text-align: center; /* Pastikan teks tetap di tengah */
+  }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 /* @media only screen and (min-width: 600px) {...}

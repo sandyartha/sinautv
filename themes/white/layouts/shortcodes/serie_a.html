@@ -5,7 +5,7 @@
   <div id="chartdiv" style="min-width: 100%;min-height:30rem;display:flex;"></div>
   <div id="infoContainer">
     <div id="infoDiv">      
-      <span id="yearDiv"></span>:
+      <span id="yearDiv"></span>
       <span id="leagueDiv"></span>
     </div>
     <div id="scoreDiv"></div>
@@ -353,17 +353,17 @@ fetch(jsonFile)
 
           // Hide labels on mobile
           label.hide();
-          leagueLabel.hide();
-          scoreLabel.hide();
+          leagueLabel.show();
+          scoreLabel.show();
         } else {
           poinSeries.columns.template.maxWidth = 10; // Default column width for larger screens
           poinImage.height = 60; // Default logo height for larger screens
           categoryAxis.zoom({ start: 0, end: 1 }); // Ensure all bars are visible on larger screens
 
           // Show labels on larger screens
-          label.show();
-          leagueLabel.show();
-          scoreLabel.show();
+          label.hide();
+          leagueLabel.hide();
+          scoreLabel.hide();
         }
       });
 
