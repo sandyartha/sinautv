@@ -304,10 +304,10 @@ fetch(jsonFile)
       poinImage.adapter.add("href", function (href, target) {
         var labelName = target.dataItem.categoryY;
 
-        if (labelName === "DRAW") {
+        if (labelName === "DRW") {
           // Dapatkan data klub dari chart.data
           var currentData = chart.data.find(
-            (item) => item.short_name === "DRAW"
+            (item) => item.short_name === "DRW"
           );
           if (!currentData) return href;
 
