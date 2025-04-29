@@ -32,6 +32,19 @@ p {
       padding: 0;      
 }
 
+.full-link {
+      display: block; /* Membuat tautan memenuhi seluruh area */
+      width: 100%; /* Pastikan lebar tautan mengikuti lebar <td> */
+      height: 100%; /* Pastikan tinggi tautan mengikuti tinggi <td> */
+      text-decoration: none; /* Hilangkan garis bawah pada tautan */
+      color: inherit; /* Gunakan warna teks dari elemen induk */
+  }
+  
+.full-link:hover {
+     background-color: #f3f4f6; /* Tambahkan efek hover jika diinginkan */
+     color: #2563eb; /* Ubah warna teks saat hover */
+}
+
 
 #infoContainer {
       display: none;

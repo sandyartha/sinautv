@@ -74,9 +74,9 @@ tbody tr:last-child td {
                     {{ if gt $tagFloat 100 }}
                         {{ $counter = add $counter 1 }}
                         <tr>
-                            <td>{{ $counter }}</td>
-                            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-                            <td>{{ $tag }}</td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
                         </tr>
                     {{ end }}
                 {{ end }}
@@ -105,9 +105,9 @@ tbody tr:last-child td {
                     {{ if and (gt $tagFloat 30) (le $tagFloat 100) }}
                         {{ $counter = add $counter 1 }}
                         <tr>
-                            <td>{{ $counter }}</td>
-                            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-                            <td>{{ $tag }}</td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
                         </tr>
                     {{ end }}
                 {{ end }}
@@ -136,9 +136,9 @@ tbody tr:last-child td {
                     {{ if and (gt $tagFloat 1) (le $tagFloat 30) }}
                         {{ $counter = add $counter 1 }}
                         <tr>
-                            <td>{{ $counter }}</td>
-                            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-                            <td>{{ $tag }}</td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
+                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
                         </tr>
                     {{ end }}
                 {{ end }}
