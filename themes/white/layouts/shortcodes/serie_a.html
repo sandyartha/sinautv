@@ -333,6 +333,13 @@ fetch(jsonFile)
         return labelMapping[labelName]?.logo || href;
       });
 
+      chart.data = allData[dateKeys[currentIndex]].map((item) => {
+        if (item.short_name === "DRAW") {
+          item.short_name = "DRW"; // Ganti DRAW menjadi DRW
+        }
+        return item;
+      });
+
       // Disable initial animation
       poinSeries.defaultState.transitionDuration = 0;
       poinSeries.hiddenState.transitionDuration = 0;
