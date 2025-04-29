@@ -186,27 +186,13 @@ fetch(jsonFile)
       poinImage.dx = 5;
       poinImage.height = 60; // Adjust logo height
 
-      poinImage.adapter.add("href", function (href, target) {
-        var labelName = target.dataItem.categoryY;
-
-        if (labelName === "DRAW") {
-          var currentData = chart.data.find((item) => item.short_name === "DRAW");
-          if (!currentData) return href;
-
-          var club1 = currentData.clubs?.[0];
-          var club2 = currentData.clubs?.[1];
-          var club1Color = labelMapping[club1]?.color || "#000000";
-          var club2Color = labelMapping[club2]?.color || "#FFFFFF";
-
-          var svgLogo = generateDrawLogo(club1Color, club2Color);
-          var svgDataUrl = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
-
-          console.log("SVG Data URL:", svgDataUrl); // Debug URL data SVG
-          return svgDataUrl; // Tetapkan sebagai sumber gambar
-        }
-
-        return labelMapping[labelName]?.logo || href;
-      });
+      // chart.events.on("sizechanged", function (ev) {
+      //   if (ev.target.pixelWidth <= 480) {
+      //     poinImage.height = 55; // Atur ukuran logo untuk mobile
+      //   } else {
+      //     poinImage.height = 60; // Atur ukuran logo untuk desktop
+      //   }
+      // });
 
       // Define a mapping of label names to custom colors
       // var labelColorMapping = {
@@ -315,12 +301,41 @@ fetch(jsonFile)
         return labelMapping[labelName]?.color || "#333";
       });
 
-      chart.data = allData[dateKeys[currentIndex]].map((item) => {
-        if (item.short_name === "DRAW") {
-          item.short_name = "DRW"; // Hindari mengubah data asli
+      poinImage.adapter.add("href", function (href, target) {
+        var labelName = target.dataItem.categoryY;
+
+        if (labelName === "DRAW") {
+          // Dapatkan data klub dari chart.data
+          var currentData = chart.data.find(
+            (item) => item.short_name === "DRAW"
+          );
+          if (!currentData) return href;
+
+          // Ambil nama klub pertama dan kedua (misalnya, dari kolom "clubs")
+          var club1 = currentData.clubs?.[0]; // Nama klub pertama
+          var club2 = currentData.clubs?.[1]; // Nama klub kedua
+
+          // Ambil warna klub dari labelMapping
+          var club1Color = labelMapping[club1]?.color || "#000000"; // Default hitam
+          var club2Color = labelMapping[club2]?.color || "#FFFFFF"; // Default putih
+
+          // Generate SVG logo untuk DRAW
+          var svgLogo = generateDrawLogo(club1Color, club2Color);
+
+          // Konversi SVG ke URL data
+          var svgDataUrl =
+            "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
+
+          return svgDataUrl; // Tetapkan sebagai sumber gambar
         }
-        return item;
+
+        // Gunakan logo dari labelMapping jika bukan DRAW
+        return labelMapping[labelName]?.logo || href;
       });
+
+      
+
+
 
       // Disable initial animation
       poinSeries.defaultState.transitionDuration = 0;
