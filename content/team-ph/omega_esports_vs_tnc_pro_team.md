@@ -4,7 +4,7 @@ date: '2025-04-05'
 teams:
 - Omega Esports
 - TNC Pro Team
-league: MPL Philippines Season 13 - Regular Season
+league: MPL Philippines Season 10 - Regular Season
 slug: omega_esports_vs_tnc_pro_team
 tags:
 - '48'

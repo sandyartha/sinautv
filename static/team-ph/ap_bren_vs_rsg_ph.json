@@ -1,14 +1,14 @@
 {
   "2021-08-29 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 0,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 1,
       "score": 1,
@@ -31,14 +31,14 @@
   ],
   "2021-08-29 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 1,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 1,
       "score": 0,
@@ -61,14 +61,14 @@
   ],
   "2021-08-29 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 1,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 2,
       "score": 1,
@@ -91,14 +91,14 @@
   ],
   "2021-09-12 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 1,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 3,
       "score": 1,
@@ -121,14 +121,14 @@
   ],
   "2021-09-12 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 3,
       "score": 0,
@@ -151,14 +151,14 @@
   ],
   "2021-09-12 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 4,
       "score": 1,
@@ -181,14 +181,14 @@
   ],
   "2022-02-25 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 5,
       "score": 1,
@@ -211,14 +211,14 @@
   ],
   "2022-02-25 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 6,
       "score": 1,
@@ -241,14 +241,14 @@
   ],
   "2022-03-25 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 7,
       "score": 1,
@@ -271,14 +271,14 @@
   ],
   "2022-03-25 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 8,
       "score": 1,
@@ -301,14 +301,14 @@
   ],
   "2022-08-27 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 9,
       "score": 1,
@@ -331,14 +331,14 @@
   ],
   "2022-08-27 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 3,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 9,
       "score": 0,
@@ -361,14 +361,14 @@
   ],
   "2022-08-27 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 10,
       "score": 1,
@@ -391,14 +391,14 @@
   ],
   "2022-09-24 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 4,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 10,
       "score": 0,
@@ -421,14 +421,14 @@
   ],
   "2022-09-24 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 4,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 11,
       "score": 1,
@@ -451,14 +451,14 @@
   ],
   "2022-09-24 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 5,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 11,
       "score": 0,
@@ -481,14 +481,14 @@
   ],
   "2022-10-22 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 5,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 12,
       "score": 1,
@@ -511,14 +511,14 @@
   ],
   "2022-10-22 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 5,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 13,
       "score": 1,
@@ -541,14 +541,14 @@
   ],
   "2022-10-22 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 6,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 13,
       "score": 0,
@@ -571,14 +571,14 @@
   ],
   "2022-10-22 - Game 4": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 7,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 13,
       "score": 0,
@@ -601,14 +601,14 @@
   ],
   "2022-10-22 - Game 5": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 7,
       "score": 0,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 14,
       "score": 1,
@@ -631,14 +631,14 @@
   ],
   "2023-03-04 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 8,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Slate PH",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 14,
       "score": 0,
@@ -661,14 +661,14 @@
   ],
   "2023-03-04 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 9,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Slate PH",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 14,
       "score": 0,
@@ -691,14 +691,14 @@
   ],
   "2023-04-01 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 10,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Slate PH",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 14,
       "score": 0,
@@ -721,14 +721,14 @@
   ],
   "2023-04-01 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Slate PH",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 14,
       "score": 0,
@@ -758,7 +758,7 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 15,
       "score": 1,
@@ -788,7 +788,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 15,
       "score": 0,
@@ -818,7 +818,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 16,
       "score": 1,
@@ -848,7 +848,7 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 17,
       "score": 1,
@@ -878,7 +878,7 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 18,
       "score": 1,
@@ -908,7 +908,7 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 19,
       "score": 1,
@@ -938,7 +938,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 19,
       "score": 0,
@@ -968,7 +968,7 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 19,
       "score": 0,
@@ -998,7 +998,7 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 20,
       "score": 1,
@@ -1028,7 +1028,7 @@
       "score_komulatif": 3
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 20,
       "score": 0,
@@ -1058,7 +1058,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 20,
       "score": 0,
@@ -1088,7 +1088,7 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 20,
       "score": 0,
@@ -1118,7 +1118,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 20,
       "score": 0,
@@ -1148,7 +1148,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 21,
       "score": 1,
@@ -1178,7 +1178,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 22,
       "score": 1,
@@ -1208,7 +1208,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 22,
       "score": 0,
@@ -1238,7 +1238,7 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 22,
       "score": 0,
@@ -1268,7 +1268,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 22,
       "score": 0,
@@ -1298,7 +1298,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 23,
       "score": 1,
@@ -1328,7 +1328,7 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 24,
       "score": 1,
@@ -1351,14 +1351,14 @@
   ],
   "2024-05-25 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 25,
       "score": 1,
@@ -1381,14 +1381,14 @@
   ],
   "2024-05-25 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 22,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 25,
       "score": 0,
@@ -1411,14 +1411,14 @@
   ],
   "2024-05-25 - Game 3": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 23,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 25,
       "score": 0,
@@ -1441,14 +1441,14 @@
   ],
   "2024-05-25 - Game 4": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 24,
       "score": 1,
       "score_komulatif": 3
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 25,
       "score": 0,
@@ -1471,14 +1471,14 @@
   ],
   "2024-08-30 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 25,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 25,
       "score": 0,
@@ -1501,14 +1501,14 @@
   ],
   "2024-08-30 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 25,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 26,
       "score": 1,
@@ -1531,14 +1531,14 @@
   ],
   "2024-08-30 - Game 3": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 26,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 26,
       "score": 0,
@@ -1561,14 +1561,14 @@
   ],
   "2024-09-22 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 26,
       "score": 0,
@@ -1591,14 +1591,14 @@
   ],
   "2024-09-22 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 28,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "RSG Philippines",
+      "club_name": "RSG PH",
       "short_name": "RSG",
       "poin": 26,
       "score": 0,

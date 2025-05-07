@@ -4,7 +4,7 @@ date: '2024-10-17'
 teams:
 - AP.Bren
 - Blacklist International
-league: MPL Philippines Season 6 - Regular Season
+league: MPL Philippines Season 10 - Regular Season
 slug: ap_bren_vs_blacklist_international
 tags:
 - '74'

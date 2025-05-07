@@ -1,15 +1,15 @@
 {
   "2019-09-14 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 0,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 1,
       "score": 1,
       "score_komulatif": 1
@@ -25,21 +25,21 @@
       "league": "MPL Philippines Season 4 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2019-09-14 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 0,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 2,
       "score": 1,
       "score_komulatif": 2
@@ -55,21 +55,21 @@
       "league": "MPL Philippines Season 4 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-03-07 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 0,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 3,
       "score": 1,
       "score_komulatif": 1
@@ -85,21 +85,21 @@
       "league": "MPL Philippines Season 5 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-03-07 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 1,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
@@ -115,21 +115,21 @@
       "league": "MPL Philippines Season 5 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-03-07 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
@@ -145,21 +145,21 @@
       "league": "MPL Philippines Season 5 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-05-31 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 4,
       "score": 1,
       "score_komulatif": 1
@@ -175,21 +175,21 @@
       "league": "MPL Philippines Season 5 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-05-31 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 3,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 4,
       "score": 0,
       "score_komulatif": 1
@@ -205,21 +205,21 @@
       "league": "MPL Philippines Season 5 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-05-31 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 5,
       "score": 1,
       "score_komulatif": 2
@@ -235,21 +235,21 @@
       "league": "MPL Philippines Season 5 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-08-21 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 3,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 1,
       "score_komulatif": 1
@@ -265,21 +265,21 @@
       "league": "MPL Philippines Season 6 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-08-21 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 4,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 1
@@ -295,21 +295,21 @@
       "league": "MPL Philippines Season 6 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-08-21 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 5,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 1
@@ -325,21 +325,21 @@
       "league": "MPL Philippines Season 6 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-09-18 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 6,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -355,21 +355,21 @@
       "league": "MPL Philippines Season 6 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-09-18 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 7,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -385,21 +385,21 @@
       "league": "MPL Philippines Season 6 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-10-24 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 8,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -415,21 +415,21 @@
       "league": "MPL Philippines Season 6 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-10-24 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 9,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -445,21 +445,21 @@
       "league": "MPL Philippines Season 6 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2020-10-24 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 10,
       "score": 1,
       "score_komulatif": 3
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -475,21 +475,21 @@
       "league": "MPL Philippines Season 6 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-03-20 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 6,
       "score": 0,
       "score_komulatif": 0
@@ -505,21 +505,21 @@
       "league": "MPL Philippines Season 7 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-03-20 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 7,
       "score": 1,
       "score_komulatif": 1
@@ -535,21 +535,21 @@
       "league": "MPL Philippines Season 7 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-03-20 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 8,
       "score": 1,
       "score_komulatif": 2
@@ -565,21 +565,21 @@
       "league": "MPL Philippines Season 7 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-04-24 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 9,
       "score": 1,
       "score_komulatif": 1
@@ -595,21 +595,21 @@
       "league": "MPL Philippines Season 7 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-04-24 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 10,
       "score": 1,
       "score_komulatif": 2
@@ -625,21 +625,21 @@
       "league": "MPL Philippines Season 7 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-09-18 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 11,
       "score": 1,
       "score_komulatif": 1
@@ -655,21 +655,21 @@
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-09-18 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 11,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 12,
       "score": 1,
       "score_komulatif": 2
@@ -685,21 +685,21 @@
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-09-25 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 12,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 12,
       "score": 0,
       "score_komulatif": 0
@@ -715,21 +715,21 @@
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2021-09-25 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 13,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 12,
       "score": 0,
       "score_komulatif": 0
@@ -745,21 +745,21 @@
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-01-30 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 13,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 13,
       "score": 1,
       "score_komulatif": 1
@@ -775,21 +775,21 @@
       "league": "SIBOL 2022 National Team Selection - Phase 2",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-01-30 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 13,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 14,
       "score": 1,
       "score_komulatif": 2
@@ -805,21 +805,21 @@
       "league": "SIBOL 2022 National Team Selection - Phase 2",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-02-26 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 13,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 15,
       "score": 1,
       "score_komulatif": 1
@@ -835,21 +835,21 @@
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-02-26 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 13,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 16,
       "score": 1,
       "score_komulatif": 2
@@ -865,21 +865,21 @@
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-03-26 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 14,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 16,
       "score": 0,
       "score_komulatif": 0
@@ -895,21 +895,21 @@
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-03-26 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 15,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 16,
       "score": 0,
       "score_komulatif": 0
@@ -925,21 +925,21 @@
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-08-13 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 15,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 17,
       "score": 1,
       "score_komulatif": 1
@@ -955,21 +955,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-08-13 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 16,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 17,
       "score": 0,
       "score_komulatif": 1
@@ -985,21 +985,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-08-13 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 16,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 18,
       "score": 1,
       "score_komulatif": 2
@@ -1015,21 +1015,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-09-10 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 16,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 19,
       "score": 1,
       "score_komulatif": 1
@@ -1045,21 +1045,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-09-10 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 17,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 19,
       "score": 0,
       "score_komulatif": 1
@@ -1075,21 +1075,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2022-09-10 - Game 3": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 18,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 19,
       "score": 0,
       "score_komulatif": 1
@@ -1105,21 +1105,21 @@
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2023-03-11 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 19,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 19,
       "score": 0,
       "score_komulatif": 0
@@ -1135,21 +1135,21 @@
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2023-03-11 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 20,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 19,
       "score": 0,
       "score_komulatif": 0
@@ -1165,21 +1165,21 @@
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2023-04-15 - Game 1": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 20,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 20,
       "score": 1,
       "score_komulatif": 1
@@ -1195,21 +1195,21 @@
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2023-04-15 - Game 2": [
     {
-      "club_name": "Bren Esports",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 20,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 21,
       "score": 1,
       "score_komulatif": 2
@@ -1225,7 +1225,7 @@
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1238,8 +1238,8 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
@@ -1255,7 +1255,7 @@
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1268,8 +1268,8 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
@@ -1285,7 +1285,7 @@
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1298,8 +1298,8 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
@@ -1315,7 +1315,7 @@
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1328,8 +1328,8 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
@@ -1345,7 +1345,7 @@
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1358,8 +1358,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 22,
       "score": 1,
       "score_komulatif": 1
@@ -1375,7 +1375,7 @@
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1388,8 +1388,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 23,
       "score": 1,
       "score_komulatif": 2
@@ -1405,7 +1405,7 @@
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1418,8 +1418,8 @@
       "score_komulatif": 1
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 23,
       "score": 0,
       "score_komulatif": 0
@@ -1435,7 +1435,7 @@
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1448,8 +1448,8 @@
       "score_komulatif": 2
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 23,
       "score": 0,
       "score_komulatif": 0
@@ -1465,21 +1465,21 @@
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-09-08 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 23,
       "score": 0,
       "score_komulatif": 0
@@ -1495,21 +1495,21 @@
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-09-08 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 24,
       "score": 1,
       "score_komulatif": 1
@@ -1525,21 +1525,21 @@
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-09-08 - Game 3": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 25,
       "score": 1,
       "score_komulatif": 2
@@ -1555,21 +1555,21 @@
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-04 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 26,
       "score": 1,
       "score_komulatif": 1
@@ -1585,21 +1585,21 @@
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-04 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 27,
       "score": 1,
       "score_komulatif": 2
@@ -1615,21 +1615,21 @@
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-18 - Game 1": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 28,
       "score": 1,
       "score_komulatif": 1
@@ -1645,21 +1645,21 @@
       "league": "MPL Philippines Season 14 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-18 - Game 2": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 27,
       "score": 0,
       "score_komulatif": 0
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 29,
       "score": 1,
       "score_komulatif": 2
@@ -1675,21 +1675,21 @@
       "league": "MPL Philippines Season 14 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-18 - Game 3": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 28,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 29,
       "score": 0,
       "score_komulatif": 2
@@ -1705,21 +1705,21 @@
       "league": "MPL Philippines Season 14 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
   "2024-10-18 - Game 4": [
     {
-      "club_name": "Falcons AP.Bren",
+      "club_name": "AP.Bren",
       "short_name": "APB",
       "poin": 28,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Fnatic ONIC PH",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 30,
       "score": 1,
       "score_komulatif": 3
@@ -1735,7 +1735,7 @@
       "league": "MPL Philippines Season 14 - Playoffs",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1748,8 +1748,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 31,
       "score": 1,
       "score_komulatif": 1
@@ -1765,7 +1765,7 @@
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1778,8 +1778,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 32,
       "score": 1,
       "score_komulatif": 2
@@ -1795,7 +1795,7 @@
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1808,8 +1808,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 33,
       "score": 1,
       "score_komulatif": 1
@@ -1825,7 +1825,7 @@
       "league": "SIBOL 2025 17th IESF Men: Group Stage",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1838,8 +1838,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 34,
       "score": 1,
       "score_komulatif": 2
@@ -1855,7 +1855,7 @@
       "league": "SIBOL 2025 17th IESF Men: Group Stage",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1868,8 +1868,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 35,
       "score": 1,
       "score_komulatif": 1
@@ -1885,7 +1885,7 @@
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ],
@@ -1898,8 +1898,8 @@
       "score_komulatif": 0
     },
     {
-      "club_name": "ONIC Philippines",
-      "short_name": "ONI",
+      "club_name": "ONIC PH",
+      "short_name": "ONC",
       "poin": 36,
       "score": 1,
       "score_komulatif": 2
@@ -1915,7 +1915,7 @@
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
         "APB",
-        "ONI"
+        "ONC"
       ]
     }
   ]

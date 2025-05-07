@@ -1,0 +1,6158 @@
+{
+  "1927-04-03": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": "1:2"
+    },
+    {
+      "club_name": "FC Internazionale",
+      "short_name": "INT",
+      "poin": 0,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 0,
+      "date": "1927-04-03",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1927-06-05": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": "1:1"
+    },
+    {
+      "club_name": "FC Internazionale",
+      "short_name": "INT",
+      "poin": 0,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1927-06-05",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-04-29": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 1,
+      "score": "1:2"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 1,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1928-04-29",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1928-07-08": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:3"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 1,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1928-07-08",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1929-11-10": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:2"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 2,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1929-11-10",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-04-13": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:0"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 3,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 1,
+      "date": "1930-04-13",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1930-10-26": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:1"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 3,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1930-10-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-03-19": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:4"
+    },
+    {
+      "club_name": "AS Ambrosiana",
+      "short_name": "INT",
+      "poin": 4,
+      "score": "1:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1931-03-19",
+      "time": "19:00",
+      "result": "1:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1931-10-18": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:3"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 5,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 2,
+      "date": "1931-10-18",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1932-03-06": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "0:0"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 5,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-03-06",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1932-11-06": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "5:4"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 6,
+      "score": "5:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1932-11-06",
+      "time": "19:00",
+      "result": "5:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-04-09": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:3"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 7,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1933-04-09",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1933-11-01": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "3:0"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 8,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1933-11-01",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1934-03-11": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:2"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 9,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 3,
+      "date": "1934-03-11",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1934-12-02": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:2"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 9,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1934-12-02",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-04-14": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:0"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 10,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 4,
+      "date": "1935-04-14",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1935-09-29": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 10,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 5,
+      "date": "1935-09-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-02-02": [
+    {
+      "club_name": "Milan FC",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:2"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 10,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 6,
+      "date": "1936-02-02",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1936-10-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 10,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 7,
+      "date": "1936-10-04",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-02-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "1:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 10,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1937-02-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1937-10-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 2,
+      "score": "2:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 11,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1937-10-17",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-02-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": "1:0"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 11,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-02-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1938-10-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 3,
+      "score": "1:0"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 12,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1938-10-02",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-02-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 4,
+      "score": "3:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 12,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-02-12",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1939-12-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": "0:3"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 12,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1939-12-17",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1940-05-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": "1:3"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 13,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-05-12",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1940-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": "0:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 14,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 8,
+      "date": "1940-10-20",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1941-02-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 5,
+      "score": "2:2"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 14,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1941-02-09",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-01-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "2:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 14,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 9,
+      "date": "1942-01-25",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1942-06-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "2:2"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 14,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1942-06-07",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1943-01-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "3:1"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 15,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1943-01-03",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1943-04-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "0:3"
+    },
+    {
+      "club_name": "AS Ambrosiana-Inter",
+      "short_name": "INT",
+      "poin": 16,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1943-04-18",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1945-11-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 17,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1945-11-04",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "DN",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-02-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 6,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-02-10",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "DN",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-05-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 7,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-05-30",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-07-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 8,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-07-21",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "DN Girone Finale",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1946-10-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 9,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1946-10-20",
+      "time": "09:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-03-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 10,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-03-16",
+      "time": "09:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1947-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 11,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1947-11-02",
+      "time": "08:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-04-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 18,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-04-11",
+      "time": "10:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1948-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 19,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 10,
+      "date": "1948-10-16",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-02-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": "4:4"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 19,
+      "score": "4:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1949-02-06",
+      "time": "19:00",
+      "result": "4:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1949-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 12,
+      "score": "6:5"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 20,
+      "score": "6:5"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1949-11-06",
+      "time": "19:00",
+      "result": "6:5",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 20,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1950-03-19",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1950-11-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 13,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 21,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1950-11-12",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1951-03-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 21,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 11,
+      "date": "1951-03-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1951-11-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 14,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 21,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1951-11-04",
+      "time": "08:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1952-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 21,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1952-04-06",
+      "time": "10:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1952-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 22,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 12,
+      "date": "1952-11-02",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-03-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 22,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-03-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1953-11-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 15,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 23,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1953-11-01",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1954-03-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 23,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 13,
+      "date": "1954-03-21",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1954-11-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 23,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 14,
+      "date": "1954-11-07",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-04-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 23,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1955-04-03",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1955-10-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 24,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1955-10-16",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-03-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 25,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 15,
+      "date": "1956-03-11",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1956-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 25,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 16,
+      "date": "1956-10-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1957-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 25,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1957-03-10",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1957-10-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 26,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 17,
+      "date": "1957-10-06",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-02-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 16,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 26,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1958-02-23",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-06-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 26,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 18,
+      "date": "1958-06-14",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-07-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 26,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 19,
+      "date": "1958-07-06",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1958-11-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 26,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1958-11-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-03-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 27,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 20,
+      "date": "1959-03-22",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1959-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 17,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 27,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1959-11-08",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-03-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": "5:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 27,
+      "score": "5:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1960-03-27",
+      "time": "19:00",
+      "result": "5:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1960-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 18,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 28,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1960-11-20",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1961-03-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 19,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 28,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1961-03-26",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1961-10-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 28,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1961-10-01",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1962-02-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 21,
+      "date": "1962-02-04",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1962-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 22,
+      "date": "1962-10-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1963-02-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 20,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1963-02-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-01-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 23,
+      "date": "1964-01-19",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-03-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 21,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-03-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1964-11-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 29,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1964-11-15",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-03-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "2:5"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 30,
+      "score": "2:5"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 24,
+      "date": "1965-03-28",
+      "time": "19:00",
+      "result": "2:5",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1965-11-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 30,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1965-11-21",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1966-04-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 31,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1966-04-03",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1966-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 32,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1966-11-20",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1967-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "4:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "4:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 25,
+      "date": "1967-04-02",
+      "time": "19:00",
+      "result": "4:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1967-10-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 26,
+      "date": "1967-10-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-02-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 27,
+      "date": "1968-02-18",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-06-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 22,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1968-06-16",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-06-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 23,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1968-06-26",
+      "time": "19:00",
+      "result": "4:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1968-11-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 28,
+      "date": "1968-11-03",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1969-03-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 29,
+      "date": "1969-03-02",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1969-11-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 33,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1969-11-09",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1970-03-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 24,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 34,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1970-03-08",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1970-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 34,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1970-11-08",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1971-03-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 25,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1971-03-07",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1971-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 30,
+      "date": "1971-11-28",
+      "time": "19:00",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1972-03-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 26,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-03-19",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1972-06-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 27,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-06-08",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1972-06-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 28,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-06-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1972-11-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 29,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1972-11-19",
+      "time": "19:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1973-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 35,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1973-03-18",
+      "time": "19:00",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1973-12-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 36,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1973-12-02",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-01-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 37,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-01-13",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-03-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "1:5"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 38,
+      "score": "1:5"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-03-24",
+      "time": "19:00",
+      "result": "1:5",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-05-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 31,
+      "date": "1974-05-01",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1974-11-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 30,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1974-11-10",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-03-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 31,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1975-03-09",
+      "time": "19:00",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-05-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 32,
+      "date": "1975-05-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-06-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 32,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1975-06-15",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1975-12-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 33,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1975-12-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1976-03-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 33,
+      "date": "1976-03-28",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1976-11-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 34,
+      "date": "1976-11-28",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-03-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 34,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1977-03-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-07-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 35,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1977-07-03",
+      "time": "14:30",
+      "result": "2:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1977-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 35,
+      "date": "1977-11-06",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1978-03-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 36,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1978-03-12",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1978-11-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 36,
+      "date": "1978-11-12",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 39,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1979-03-18",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1979-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 40,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1979-10-28",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1980-03-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 41,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1980-03-02",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1980-09-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 42,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 37,
+      "date": "1980-09-07",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-09-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 42,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1981-09-06",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1981-10-25": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 43,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1981-10-25",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1982-03-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 44,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1982-03-07",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1983-11-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 38,
+      "date": "1983-11-06",
+      "time": "19:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1984-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 37,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "1984-03-18",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1984-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 39,
+      "date": "1984-10-28",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-03-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 38,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "1985-03-17",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-06-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 40,
+      "date": "1985-06-23",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-06-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 41,
+      "date": "1985-06-26",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1985-12-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 45,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "1985-12-01",
+      "time": "19:00",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1986-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 46,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 42,
+      "date": "1986-04-06",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1986-10-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 39,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 46,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1986-10-12",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1987-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 40,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 46,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1987-03-01",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1987-12-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 41,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 46,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1987-12-20",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1988-04-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 46,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1988-04-24",
+      "time": "09:00",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1988-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 47,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 43,
+      "date": "1988-12-11",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-04-30": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 42,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 47,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1989-04-30",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1989-11-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 47,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1989-11-19",
+      "time": "19:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-03-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 48,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1990-03-18",
+      "time": "19:00",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1990-11-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 43,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1990-11-18",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-03-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 44,
+      "date": "1991-03-24",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1991-12-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 44,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "1991-12-01",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1992-04-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 45,
+      "date": "1992-04-18",
+      "time": "19:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1992-11-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 46,
+      "date": "1992-11-22",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-01-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 45,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "1993-01-27",
+      "time": "19:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-02-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 46,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 47,
+      "date": "1993-02-10",
+      "time": "14:30",
+      "result": "0:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-04-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 46,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1993-04-10",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1993-11-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 47,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1993-11-07",
+      "time": "08:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-03-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 49,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1994-03-20",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-10-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 50,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1994-10-12",
+      "time": "19:00",
+      "result": "1:2",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-10-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 51,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 48,
+      "date": "1994-10-26",
+      "time": "19:00",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1994-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 51,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1994-11-20",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1995-04-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 52,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 49,
+      "date": "1995-04-15",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1995-10-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 52,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "1995-10-29",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1996-03-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 53,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 50,
+      "date": "1996-03-10",
+      "time": "19:00",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1996-11-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 53,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1996-11-24",
+      "time": "19:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1997-04-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 54,
+      "score": "3:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 51,
+      "date": "1997-04-13",
+      "time": "19:00",
+      "result": "3:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1997-11-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 48,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 54,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 52,
+      "date": "1997-11-22",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-01-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": "5:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 54,
+      "score": "5:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 52,
+      "date": "1998-01-08",
+      "time": "14:45",
+      "result": "5:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-01-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 55,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 52,
+      "date": "1998-01-21",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-03-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 56,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 52,
+      "date": "1998-03-22",
+      "time": "14:30",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1998-11-08": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 56,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 53,
+      "date": "1998-11-08",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1999-03-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 49,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 56,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 54,
+      "date": "1999-03-13",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "1999-10-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 56,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 54,
+      "date": "1999-10-23",
+      "time": "14:30",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-01-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 57,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 54,
+      "date": "2000-01-12",
+      "time": "14:45",
+      "result": "2:3",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-01-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 57,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "2000-01-27",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2000-03-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 58,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 55,
+      "date": "2000-03-05",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-01-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 50,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 58,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2001-01-07",
+      "time": "14:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-05-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 51,
+      "score": "0:6"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 58,
+      "score": "0:6"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2001-05-11",
+      "time": "14:30",
+      "result": "0:6",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2001-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 52,
+      "score": "2:4"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 58,
+      "score": "2:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2001-10-21",
+      "time": "14:30",
+      "result": "2:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2002-03-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 52,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2002-03-03",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2002-11-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 53,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2002-11-23",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-04-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 54,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 56,
+      "date": "2003-04-12",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-05-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 54,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 57,
+      "date": "2003-05-07",
+      "time": "14:45",
+      "result": "0:0",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-05-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 54,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2003-05-13",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2003-10-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 55,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "1:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2003-10-05",
+      "time": "14:30",
+      "result": "1:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2004-02-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 58,
+      "date": "2004-02-21",
+      "time": "14:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2004-10-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 56,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2004-10-24",
+      "time": "14:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-02-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 57,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2005-02-27",
+      "time": "14:30",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-04-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 58,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2005-04-06",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-04-12": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 59,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 59,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2005-04-12",
+      "time": "14:45",
+      "result": "0:3",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2005-12-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 59,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 60,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2005-12-11",
+      "time": "14:30",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2006-04-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 60,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2006-04-14",
+      "time": "12:00",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2006-10-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": "3:4"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 61,
+      "score": "3:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2006-10-28",
+      "time": "14:30",
+      "result": "3:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2007-03-11": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 62,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2007-03-11",
+      "time": "10:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2007-12-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 60,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 63,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2007-12-23",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-05-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 61,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 63,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2008-05-04",
+      "time": "09:00",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2008-09-28": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 63,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2008-09-28",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-02-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 64,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2009-02-15",
+      "time": "14:30",
+      "result": "2:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2009-08-29": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": "0:4"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 65,
+      "score": "0:4"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2009-08-29",
+      "time": "14:45",
+      "result": "0:4",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-01-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 62,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 66,
+      "score": "2:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2010-01-24",
+      "time": "14:45",
+      "result": "2:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2010-11-14": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 63,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 66,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2010-11-14",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 64,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 66,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2011-04-02",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2011-08-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 66,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2011-08-06",
+      "time": "08:00",
+      "result": "2:1",
+      "league": "Supercoppa Italiana",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-01-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 67,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2012-01-15",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-05-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 68,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2012-05-06",
+      "time": "14:45",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2012-10-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 69,
+      "score": "0:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 59,
+      "date": "2012-10-07",
+      "time": "14:45",
+      "result": "0:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-02-24": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 69,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2013-02-24",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2013-12-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 65,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 70,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2013-12-22",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2014-05-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 66,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 70,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 60,
+      "date": "2014-05-04",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2014-11-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 66,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 70,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 61,
+      "date": "2014-11-23",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2015-04-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 66,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 70,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2015-04-19",
+      "time": "14:45",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2015-09-13": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 66,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 71,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2015-09-13",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-01-31": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 71,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 62,
+      "date": "2016-01-31",
+      "time": "14:45",
+      "result": "3:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2016-11-20": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 71,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 63,
+      "date": "2016-11-20",
+      "time": "14:45",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-04-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 71,
+      "score": "2:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 64,
+      "date": "2017-04-15",
+      "time": "06:30",
+      "result": "2:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-10-15": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 67,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 72,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 64,
+      "date": "2017-10-15",
+      "time": "14:45",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2017-12-27": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 72,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 64,
+      "date": "2017-12-27",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-04-04": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 72,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2018-04-04",
+      "time": "12:30",
+      "result": "0:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2018-10-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 73,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2018-10-21",
+      "time": "14:30",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-03-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 74,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2019-03-17",
+      "time": "14:30",
+      "result": "2:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2019-09-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 75,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2019-09-21",
+      "time": "14:45",
+      "result": "0:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-02-09": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 68,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 76,
+      "score": "4:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2020-02-09",
+      "time": "14:45",
+      "result": "4:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2020-10-17": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 76,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2020-10-17",
+      "time": "12:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-01-26": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 77,
+      "score": "2:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2021-01-26",
+      "time": "14:45",
+      "result": "2:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-02-21": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 78,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 65,
+      "date": "2021-02-21",
+      "time": "09:00",
+      "result": "0:3",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2021-11-07": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 69,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 78,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 66,
+      "date": "2021-11-07",
+      "time": "14:45",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-02-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 70,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 78,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 66,
+      "date": "2022-02-05",
+      "time": "12:00",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-03-01": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 70,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 78,
+      "score": "0:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2022-03-01",
+      "time": "15:00",
+      "result": "0:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-04-19": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 70,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 79,
+      "score": "3:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2022-04-19",
+      "time": "15:00",
+      "result": "3:0",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2022-09-03": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 79,
+      "score": "3:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2022-09-03",
+      "time": "12:00",
+      "result": "3:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-01-18": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 80,
+      "score": "0:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-01-18",
+      "time": "14:00",
+      "result": "0:3",
+      "league": "Supercoppa Italiana",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-02-05": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 81,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-02-05",
+      "time": "14:45",
+      "result": "1:0",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-05-10": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 82,
+      "score": "0:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-05-10",
+      "time": "15:00",
+      "result": "0:2",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-05-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 83,
+      "score": "1:0"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-05-16",
+      "time": "15:00",
+      "result": "1:0",
+      "league": "UEFA Champions League",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2023-09-16": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "5:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 84,
+      "score": "5:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2023-09-16",
+      "time": "12:00",
+      "result": "5:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-04-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 71,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2024-04-22",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2024-09-22": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 72,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": "1:2"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2024-09-22",
+      "time": "14:45",
+      "result": "1:2",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-01-06": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": "2:3"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 67,
+      "date": "2025-01-06",
+      "time": "14:00",
+      "result": "2:3",
+      "league": "Supercoppa Italiana",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-02-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 68,
+      "date": "2025-02-02",
+      "time": "12:00",
+      "result": "1:1",
+      "league": "Serie A",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-04-02": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": "1:1"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 69,
+      "date": "2025-04-02",
+      "time": "15:00",
+      "result": "1:1",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ],
+  "2025-04-23": [
+    {
+      "club_name": "AC Milan",
+      "short_name": "MIL",
+      "poin": 73,
+      "score": ":"
+    },
+    {
+      "club_name": "Inter Milan",
+      "short_name": "INT",
+      "poin": 85,
+      "score": ":"
+    },
+    {
+      "club_name": "Draw",
+      "short_name": "DRAW",
+      "poin": 69,
+      "date": "2025-04-23",
+      "time": "15:00",
+      "result": ":",
+      "league": "Italy Cup",
+      "clubs": [
+        "INT",
+        "MIL"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ date: '2025-04-21'
 teams:
 - Omega Esports
 - Team Liquid PH
-league: MPL Philippines Season 6 - Regular Season
+league: MPL Philippines Season 10 - Regular Season
 slug: omega_esports_vs_team_liquid_ph
 tags:
 - '56'
