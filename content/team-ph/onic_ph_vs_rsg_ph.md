@@ -4,7 +4,7 @@ date: '2024-09-29'
 teams:
 - ONIC PH
 - RSG PH
-league: MPL Philippines Season 10 - Regular Season
+league: MPL Philippines Season 10 - Playoffs
 slug: onic_ph_vs_rsg_ph
 tags:
 - '47'

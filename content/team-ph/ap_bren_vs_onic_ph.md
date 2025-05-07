@@ -4,7 +4,7 @@ date: '2025-04-27'
 teams:
 - AP.Bren
 - ONIC PH
-league: MPL Philippines Season 10 - Regular Season
+league: MPL Philippines Season 6 - Playoffs
 slug: ap_bren_vs_onic_ph
 tags:
 - '64'

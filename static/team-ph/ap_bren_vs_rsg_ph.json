@@ -2,7 +2,7 @@
   "2021-08-29 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 0,
       "score": 0,
       "score_komulatif": 0
@@ -24,7 +24,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -32,7 +32,7 @@
   "2021-08-29 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 1,
       "score": 1,
       "score_komulatif": 1
@@ -54,7 +54,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -62,7 +62,7 @@
   "2021-08-29 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 1,
       "score": 0,
       "score_komulatif": 1
@@ -84,7 +84,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -92,7 +92,7 @@
   "2021-09-12 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 1,
       "score": 0,
       "score_komulatif": 0
@@ -114,7 +114,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -122,7 +122,7 @@
   "2021-09-12 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 1,
       "score_komulatif": 1
@@ -144,7 +144,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -152,7 +152,7 @@
   "2021-09-12 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 1
@@ -174,7 +174,7 @@
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -182,7 +182,7 @@
   "2022-02-25 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
@@ -204,7 +204,7 @@
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -212,7 +212,7 @@
   "2022-02-25 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
@@ -234,7 +234,7 @@
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -242,7 +242,7 @@
   "2022-03-25 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
@@ -264,7 +264,7 @@
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -272,7 +272,7 @@
   "2022-03-25 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
@@ -294,7 +294,7 @@
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -302,7 +302,7 @@
   "2022-08-27 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 2,
       "score": 0,
       "score_komulatif": 0
@@ -324,7 +324,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -332,7 +332,7 @@
   "2022-08-27 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 3,
       "score": 1,
       "score_komulatif": 1
@@ -354,7 +354,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -362,7 +362,7 @@
   "2022-08-27 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
@@ -384,7 +384,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -392,7 +392,7 @@
   "2022-09-24 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 4,
       "score": 1,
       "score_komulatif": 1
@@ -414,7 +414,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -422,7 +422,7 @@
   "2022-09-24 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 4,
       "score": 0,
       "score_komulatif": 1
@@ -444,7 +444,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -452,7 +452,7 @@
   "2022-09-24 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 5,
       "score": 1,
       "score_komulatif": 2
@@ -474,7 +474,7 @@
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -482,7 +482,7 @@
   "2022-10-22 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 5,
       "score": 0,
       "score_komulatif": 0
@@ -504,7 +504,7 @@
       },
       "league": "MPL Philippines Season 10 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -512,7 +512,7 @@
   "2022-10-22 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 5,
       "score": 0,
       "score_komulatif": 0
@@ -534,7 +534,7 @@
       },
       "league": "MPL Philippines Season 10 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -542,7 +542,7 @@
   "2022-10-22 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 6,
       "score": 1,
       "score_komulatif": 1
@@ -564,7 +564,7 @@
       },
       "league": "MPL Philippines Season 10 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -572,7 +572,7 @@
   "2022-10-22 - Game 4": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 7,
       "score": 1,
       "score_komulatif": 2
@@ -594,7 +594,7 @@
       },
       "league": "MPL Philippines Season 10 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -602,7 +602,7 @@
   "2022-10-22 - Game 5": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 7,
       "score": 0,
       "score_komulatif": 2
@@ -624,7 +624,7 @@
       },
       "league": "MPL Philippines Season 10 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -632,7 +632,7 @@
   "2023-03-04 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 8,
       "score": 1,
       "score_komulatif": 1
@@ -654,7 +654,7 @@
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -662,7 +662,7 @@
   "2023-03-04 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 9,
       "score": 1,
       "score_komulatif": 2
@@ -684,7 +684,7 @@
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -692,7 +692,7 @@
   "2023-04-01 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 10,
       "score": 1,
       "score_komulatif": 1
@@ -714,7 +714,7 @@
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -722,7 +722,7 @@
   "2023-04-01 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 11,
       "score": 1,
       "score_komulatif": 2
@@ -744,7 +744,7 @@
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -752,7 +752,7 @@
   "2023-09-10 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 11,
       "score": 0,
       "score_komulatif": 0
@@ -774,7 +774,7 @@
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -782,7 +782,7 @@
   "2023-09-10 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 12,
       "score": 1,
       "score_komulatif": 1
@@ -804,7 +804,7 @@
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -812,7 +812,7 @@
   "2023-09-10 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 12,
       "score": 0,
       "score_komulatif": 1
@@ -834,7 +834,7 @@
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -842,7 +842,7 @@
   "2023-10-01 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 12,
       "score": 0,
       "score_komulatif": 0
@@ -864,7 +864,7 @@
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -872,7 +872,7 @@
   "2023-10-01 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 12,
       "score": 0,
       "score_komulatif": 0
@@ -894,7 +894,7 @@
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -902,7 +902,7 @@
   "2023-10-26 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 12,
       "score": 0,
       "score_komulatif": 0
@@ -924,7 +924,7 @@
       },
       "league": "MPL Philippines Season 12 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -932,7 +932,7 @@
   "2023-10-26 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 13,
       "score": 1,
       "score_komulatif": 1
@@ -954,7 +954,7 @@
       },
       "league": "MPL Philippines Season 12 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -962,7 +962,7 @@
   "2023-10-26 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 14,
       "score": 1,
       "score_komulatif": 2
@@ -984,7 +984,7 @@
       },
       "league": "MPL Philippines Season 12 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -992,7 +992,7 @@
   "2023-10-26 - Game 4": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 14,
       "score": 0,
       "score_komulatif": 2
@@ -1014,7 +1014,7 @@
       },
       "league": "MPL Philippines Season 12 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1022,7 +1022,7 @@
   "2023-10-26 - Game 5": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 15,
       "score": 1,
       "score_komulatif": 3
@@ -1044,7 +1044,7 @@
       },
       "league": "MPL Philippines Season 12 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1052,7 +1052,7 @@
   "2023-11-17 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 16,
       "score": 1,
       "score_komulatif": 1
@@ -1074,7 +1074,7 @@
       },
       "league": "MPLI 2023 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1082,7 +1082,7 @@
   "2023-11-17 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 17,
       "score": 1,
       "score_komulatif": 2
@@ -1104,7 +1104,7 @@
       },
       "league": "MPLI 2023 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1112,7 +1112,7 @@
   "2023-11-19 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 18,
       "score": 1,
       "score_komulatif": 1
@@ -1134,7 +1134,7 @@
       },
       "league": "MPLI 2023 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1142,7 +1142,7 @@
   "2023-11-19 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 18,
       "score": 0,
       "score_komulatif": 1
@@ -1164,7 +1164,7 @@
       },
       "league": "MPLI 2023 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1172,7 +1172,7 @@
   "2023-11-19 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 18,
       "score": 0,
       "score_komulatif": 1
@@ -1194,7 +1194,7 @@
       },
       "league": "MPLI 2023 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1202,7 +1202,7 @@
   "2024-03-23 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 19,
       "score": 1,
       "score_komulatif": 1
@@ -1224,7 +1224,7 @@
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1232,7 +1232,7 @@
   "2024-03-23 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 20,
       "score": 1,
       "score_komulatif": 2
@@ -1254,7 +1254,7 @@
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1262,7 +1262,7 @@
   "2024-04-27 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 21,
       "score": 1,
       "score_komulatif": 1
@@ -1284,7 +1284,7 @@
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1292,7 +1292,7 @@
   "2024-04-27 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 21,
       "score": 0,
       "score_komulatif": 1
@@ -1314,7 +1314,7 @@
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1322,7 +1322,7 @@
   "2024-04-27 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 21,
       "score": 0,
       "score_komulatif": 1
@@ -1344,7 +1344,7 @@
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1352,7 +1352,7 @@
   "2024-05-25 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 21,
       "score": 0,
       "score_komulatif": 0
@@ -1374,7 +1374,7 @@
       },
       "league": "MPL Philippines Season 13 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1382,7 +1382,7 @@
   "2024-05-25 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 22,
       "score": 1,
       "score_komulatif": 1
@@ -1404,7 +1404,7 @@
       },
       "league": "MPL Philippines Season 13 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1412,7 +1412,7 @@
   "2024-05-25 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 23,
       "score": 1,
       "score_komulatif": 2
@@ -1434,7 +1434,7 @@
       },
       "league": "MPL Philippines Season 13 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1442,7 +1442,7 @@
   "2024-05-25 - Game 4": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 24,
       "score": 1,
       "score_komulatif": 3
@@ -1464,7 +1464,7 @@
       },
       "league": "MPL Philippines Season 13 - Playoffs",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1472,7 +1472,7 @@
   "2024-08-30 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 25,
       "score": 1,
       "score_komulatif": 1
@@ -1494,7 +1494,7 @@
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1502,7 +1502,7 @@
   "2024-08-30 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 25,
       "score": 0,
       "score_komulatif": 1
@@ -1524,7 +1524,7 @@
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1532,7 +1532,7 @@
   "2024-08-30 - Game 3": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 26,
       "score": 1,
       "score_komulatif": 2
@@ -1554,7 +1554,7 @@
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1562,7 +1562,7 @@
   "2024-09-22 - Game 1": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 27,
       "score": 1,
       "score_komulatif": 1
@@ -1584,7 +1584,7 @@
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }
@@ -1592,7 +1592,7 @@
   "2024-09-22 - Game 2": [
     {
       "club_name": "AP.Bren",
-      "short_name": "APB",
+      "short_name": "BREN",
       "poin": 28,
       "score": 1,
       "score_komulatif": 2
@@ -1614,7 +1614,7 @@
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
-        "APB",
+        "BREN",
         "RSG"
       ]
     }

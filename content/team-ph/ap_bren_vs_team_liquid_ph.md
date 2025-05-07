@@ -4,7 +4,7 @@ date: '2025-04-05'
 teams:
 - AP.Bren
 - Team Liquid PH
-league: Mid Season Cup 2024 - Playoffs
+league: MPL Philippines Season 12 - Regular Season
 slug: ap_bren_vs_team_liquid_ph
 tags:
 - '90'

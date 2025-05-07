@@ -4,7 +4,7 @@ date: '2025-04-26'
 teams:
 - ONIC PH
 - Team Liquid PH
-league: MPL Philippines Season 10 - Regular Season
+league: 'SIBOL 2025 17th IESF Men: Final Stage'
 slug: onic_ph_vs_team_liquid_ph
 tags:
 - '57'

@@ -4,7 +4,7 @@ date: '2024-09-22'
 teams:
 - AP.Bren
 - RSG PH
-league: MPL Philippines Season 10 - Regular Season
+league: MPL Philippines Season 10 - Playoffs
 slug: ap_bren_vs_rsg_ph
 tags:
 - '54'
