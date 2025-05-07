@@ -1,0 +1,1292 @@
+{
+  "2021-07-31 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-07-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-07-31 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-07-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-07-31 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-07-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-17 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-17 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-02-26 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-02-26 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-02-26 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-26 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-26 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-26 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-09-24 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-09-24 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-03 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-03 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-31 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-31 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-16 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-16 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-03-24 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-03-24 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-03-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-04-26 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-04-26 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-04-26 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-08-23 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-08-23 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-10-05 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 24,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-10-05 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-10-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-10-05 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-10-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-03-21 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-03-21 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-03-21 - Game 3": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-05-02 - Game 1": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-05-02 - Game 2": [
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "TNC",
+        "TLP"
+      ]
+    }
+  ]
+}

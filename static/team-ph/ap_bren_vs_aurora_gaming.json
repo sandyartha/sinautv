@@ -1,0 +1,572 @@
+{
+  "2024-08-09 - Game 1": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "1xBet Supernova",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-08-09 - Game 2": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "1xBet Supernova",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-08-09 - Game 3": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "1xBet Supernova",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 1": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 2": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-09-15 - Game 1": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-09-15 - Game 2": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-09-15 - Game 3": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 1": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 2": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 3": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 4": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 5": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2024-10-19 - Game 6": [
+    {
+      "club_name": "Falcons AP.Bren",
+      "short_name": "APB",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 4
+    },
+    {
+      "date": "2024-10-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "4:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Philippines Season 14 - Playoffs",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2025-03-07 - Game 1": [
+    {
+      "club_name": "AP.Bren",
+      "short_name": "APB",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-03-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2025-03-07 - Game 2": [
+    {
+      "club_name": "AP.Bren",
+      "short_name": "APB",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2025-03-07 - Game 3": [
+    {
+      "club_name": "AP.Bren",
+      "short_name": "APB",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2025-04-04 - Game 1": [
+    {
+      "club_name": "AP.Bren",
+      "short_name": "APB",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ],
+  "2025-04-04 - Game 2": [
+    {
+      "club_name": "AP.Bren",
+      "short_name": "APB",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "AUR",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "APB",
+        "AUR"
+      ]
+    }
+  ]
+}

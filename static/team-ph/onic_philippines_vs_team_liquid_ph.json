@@ -1,0 +1,1712 @@
+{
+  "2020-10-11 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 6 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-10-11 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 6 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-10-23 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Philippines Season 6 - Playoffs",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-10-23 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Philippines Season 6 - Playoffs",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-10-23 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Philippines Season 6 - Playoffs",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-11-29 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-11-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "ONE Esports MPL Invitational 2020",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-11-29 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-11-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "ONE Esports MPL Invitational 2020",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2020-11-29 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-11-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "ONE Esports MPL Invitational 2020",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-04-16 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 7 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-04-16 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-04-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 7 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-05-14 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 7 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-05-14 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 7 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-05-14 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Aura PH",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 7 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-08-27 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-08-27 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 8 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-11 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 24,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-11 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-03-11 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-04-08 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 28,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-04-08 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-04-08 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Philippines Season 9 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-14 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-14 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-08-14 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-09-11 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 24,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-09-11 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 34,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2022-09-11 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 34,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 10 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-02-25 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 35,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-02-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-02-25 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-02-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-02-25 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-02-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 11 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-09 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-09 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-09 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-30 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2023-09-30 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 12 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-03-16 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 45,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-03-16 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 46,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-04-14 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-04-14 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ECHO",
+      "short_name": "TLP",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Philippines Season 13 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 1": [
+    {
+      "club_name": "Fnatic ONIC PH",
+      "short_name": "ONI",
+      "poin": 43,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 2": [
+    {
+      "club_name": "Fnatic ONIC PH",
+      "short_name": "ONI",
+      "poin": 43,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 47,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 3": [
+    {
+      "club_name": "Fnatic ONIC PH",
+      "short_name": "ONI",
+      "poin": 44,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 47,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-09-13 - Game 1": [
+    {
+      "club_name": "Fnatic ONIC PH",
+      "short_name": "ONI",
+      "poin": 45,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 47,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2024-09-13 - Game 2": [
+    {
+      "club_name": "Fnatic ONIC PH",
+      "short_name": "ONI",
+      "poin": 46,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 47,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-03-15 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 48,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-03-15 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 49,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-23 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 50,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "SIBOL 2025 17th IESF Men: Final Stage",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-23 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 47,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 50,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "SIBOL 2025 17th IESF Men: Final Stage",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-23 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 47,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 51,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "SIBOL 2025 17th IESF Men: Final Stage",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-26 - Game 1": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 48,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 51,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-26 - Game 2": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 48,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 52,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ],
+  "2025-04-26 - Game 3": [
+    {
+      "club_name": "ONIC Philippines",
+      "short_name": "ONI",
+      "poin": 49,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid PH",
+      "short_name": "TLP",
+      "poin": 52,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "ONI",
+        "TLP"
+      ]
+    }
+  ]
+}

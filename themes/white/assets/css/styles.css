@@ -1,16 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 
 
 
 body {
-      font-family: "Montserrat", serif;
+      font-family: "Roboto Mono", monospace;
+      font-optical-sizing: auto;
       margin: 0;
       padding: 0;
       text-align: center;
       height: 100vh;
-      background-color: #ededed;
-      background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png");
-/*      background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");*/
+      background: rgb(255, 255, 255);
+
+     
+      /* background-image: url("https://www.transparenttextures.com/patterns/ps-neutral.png"); */
+      /* background-image: url("https://www.transparenttextures.com/patterns/stardust.png"); */
+      /* background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png"); */
+      /* background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png"); */
+      /* background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");*/
 }
 
 
@@ -74,6 +84,10 @@ p {
       background-color: transparent;
 }
 
+.chart-label {
+      margin: 0;
+      padding: 0;
+}
 
 #emojiContainer {
   text-align: center;
@@ -115,17 +129,20 @@ a:visited {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    #infoContainer {
+    #leagueDiv
+    {
           display: block;
     }
-    #leagueDiv,
+
+    /* Sembunyikan elemen pada layar kecil */
+    #yearDiv,
     #scoreDiv {
-    display: none; /* Sembunyikan elemen pada layar kecil */
-  }
-  #infoDiv {
-      margin-top: -25px; /* Kurangi jarak atas */
-      text-align: center; /* Pastikan teks tetap di tengah */
-  }
+          display: none; 
+    }
+    #infoDiv, #leagueDiv {
+          margin-top: -40px; /* Kurangi jarak atas */
+          text-align: center; /* Pastikan teks tetap di tengah */
+    }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 /* @media only screen and (min-width: 600px) {...}
