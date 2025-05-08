@@ -4,7 +4,7 @@ date: '2025-04-25'
 teams:
 - EVOS
 - ONIC
-league: MPL ID Season 10 - Regular Season
+league: MPL ID Season 8 - Playoffs
 slug: evos_vs_onic
 tags:
 - '109'

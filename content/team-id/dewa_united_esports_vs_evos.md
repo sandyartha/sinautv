@@ -4,7 +4,7 @@ date: '2025-04-18'
 teams:
 - Dewa United Esports
 - EVOS
-league: MPL ID Season 12 - Regular Season
+league: MPL ID Season 15 - Regular Season
 slug: dewa_united_esports_vs_evos
 tags:
 - '21'

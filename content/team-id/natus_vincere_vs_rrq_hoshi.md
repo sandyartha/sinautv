@@ -4,7 +4,7 @@ date: '2025-03-07'
 teams:
 - Natus Vincere
 - RRQ Hoshi
-league: Piala Presiden Esports 2022
+league: MPL ID Season 9 - Regular Season
 slug: natus_vincere_vs_rrq_hoshi
 tags:
 - '36'

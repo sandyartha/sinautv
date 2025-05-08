@@ -4,7 +4,7 @@ date: '2025-05-04'
 teams:
 - EVOS
 - Geek Fam ID
-league: Piala Presiden Esports 2022
+league: MPL ID Season 9 - Regular Season
 slug: evos_vs_geek_fam_id
 tags:
 - '78'

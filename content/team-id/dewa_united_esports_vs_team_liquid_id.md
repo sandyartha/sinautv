@@ -4,7 +4,7 @@ date: '2025-04-27'
 teams:
 - Dewa United Esports
 - Team Liquid ID
-league: MPL ID Season 12 - Regular Season
+league: H3RO Esports 5.0
 slug: dewa_united_esports_vs_team_liquid_id
 tags:
 - '24'

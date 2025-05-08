@@ -4,7 +4,7 @@ date: '2025-04-19'
 teams:
 - Bigetron Esports
 - Team Liquid ID
-league: MPL ID Season 10 - Regular Season
+league: Nimo TV Mobile Legends Arena Season 2
 slug: bigetron_esports_vs_team_liquid_id
 tags:
 - '95'

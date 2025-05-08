@@ -4,7 +4,7 @@ date: '2025-03-16'
 teams:
 - Bigetron Esports
 - Geek Fam ID
-league: MPL ID Season 10 - Regular Season
+league: Hope Cup
 slug: bigetron_esports_vs_geek_fam_id
 tags:
 - '83'

@@ -4,7 +4,7 @@ date: '2025-05-04'
 teams:
 - ONIC
 - RRQ Hoshi
-league: MPL ID Season 10 - Regular Season
+league: MPL ID Season 8 - Playoffs
 slug: onic_vs_rrq_hoshi
 tags:
 - '108'

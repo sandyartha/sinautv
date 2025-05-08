@@ -4,7 +4,7 @@ date: '2025-05-03'
 teams:
 - Bigetron Esports
 - RRQ Hoshi
-league: MPL ID Season 1 - Regular Season
+league: Mobile Star League Season 1 - Regular Season
 slug: bigetron_esports_vs_rrq_hoshi
 tags:
 - '88'

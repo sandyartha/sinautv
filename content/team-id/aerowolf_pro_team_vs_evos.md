@@ -4,7 +4,7 @@ date: '2021-05-02'
 teams:
 - Aerowolf Pro Team
 - EVOS
-league: MPL ID Season 2 - Regular Season
+league: MPL ID Season 5 - Regular Season
 slug: aerowolf_pro_team_vs_evos
 tags:
 - '36'

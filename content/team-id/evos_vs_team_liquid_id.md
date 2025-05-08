@@ -4,7 +4,7 @@ date: '2025-03-07'
 teams:
 - EVOS
 - Team Liquid ID
-league: MPL ID Season 10 - Regular Season
+league: MPL ID Season 8 - Playoffs
 slug: evos_vs_team_liquid_id
 tags:
 - '93'

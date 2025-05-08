@@ -4,7 +4,7 @@ date: '2025-03-22'
 teams:
 - Geek Fam ID
 - Team Liquid ID
-league: MPL ID Season 12 - Regular Season
+league: Piala Presiden Esports 2021 - Closed Qualifier
 slug: geek_fam_id_vs_team_liquid_id
 tags:
 - '59'

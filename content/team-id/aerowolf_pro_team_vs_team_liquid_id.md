@@ -4,7 +4,7 @@ date: '2021-04-17'
 teams:
 - Aerowolf Pro Team
 - Team Liquid ID
-league: MPL ID Season 3 - Regular Season
+league: MPL ID Season 7 - Regular Season
 slug: aerowolf_pro_team_vs_team_liquid_id
 tags:
 - '27'

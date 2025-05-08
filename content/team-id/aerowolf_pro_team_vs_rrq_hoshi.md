@@ -4,7 +4,7 @@ date: '2021-04-30'
 teams:
 - Aerowolf Pro Team
 - RRQ Hoshi
-league: MPL ID Season 2 - Playoffs
+league: BEKRAF Game Prime 2018
 slug: aerowolf_pro_team_vs_rrq_hoshi
 tags:
 - '54'

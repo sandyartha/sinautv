@@ -4,7 +4,7 @@ date: '2025-04-27'
 teams:
 - Alter Ego
 - Natus Vincere
-league: Piala Presiden Esports 2022
+league: Piala Presiden Esports 2021 - Closed Qualifier
 slug: alter_ego_vs_natus_vincere
 tags:
 - '57'

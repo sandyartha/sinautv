@@ -4,7 +4,7 @@ date: '2025-03-23'
 teams:
 - Geek Fam ID
 - RRQ Hoshi
-league: MPL ID Season 12 - Regular Season
+league: MPL ID Season 9 - Regular Season
 slug: geek_fam_id_vs_rrq_hoshi
 tags:
 - '70'

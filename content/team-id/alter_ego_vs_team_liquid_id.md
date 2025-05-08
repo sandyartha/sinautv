@@ -4,7 +4,7 @@ date: '2025-04-26'
 teams:
 - Alter Ego
 - Team Liquid ID
-league: MPL ID Season 10 - Regular Season
+league: Piala Presiden Esports 2021
 slug: alter_ego_vs_team_liquid_id
 tags:
 - '78'

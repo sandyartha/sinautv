@@ -4,7 +4,7 @@ date: '2025-03-23'
 teams:
 - Alter Ego
 - Dewa United Esports
-league: MPL ID Season 12 - Regular Season
+league: MPL ID Season 15 - Regular Season
 slug: alter_ego_vs_dewa_united_esports
 tags:
 - '17'

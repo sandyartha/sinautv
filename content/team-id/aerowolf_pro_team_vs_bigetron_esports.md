@@ -4,7 +4,7 @@ date: '2021-03-26'
 teams:
 - Aerowolf Pro Team
 - Bigetron Esports
-league: Piala Presiden Esports 2019 - Closed
+league: MPL Indonesia Season 6 - Playoffs
 slug: aerowolf_pro_team_vs_bigetron_esports
 tags:
 - '39'

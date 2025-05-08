@@ -4,7 +4,7 @@ date: '2025-03-23'
 teams:
 - Bigetron Esports
 - Natus Vincere
-league: MPL ID Season 10 - Playoffs
+league: MPL ID Season 9 - Regular Season
 slug: bigetron_esports_vs_natus_vincere
 tags:
 - '47'

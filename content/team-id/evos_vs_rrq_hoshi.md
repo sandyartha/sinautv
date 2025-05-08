@@ -4,7 +4,7 @@ date: '2025-04-19'
 teams:
 - EVOS
 - RRQ Hoshi
-league: MPL ID Season 1 - Regular Season
+league: M1 World Championship - Playoffs
 slug: evos_vs_rrq_hoshi
 tags:
 - '124'

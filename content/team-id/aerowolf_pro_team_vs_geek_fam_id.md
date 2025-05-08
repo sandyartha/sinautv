@@ -4,7 +4,7 @@ date: '2021-04-18'
 teams:
 - Aerowolf Pro Team
 - Geek Fam ID
-league: Nimo TV Mobile Legends Arena Season 2
+league: MPL ID Season 7 - Regular Season
 slug: aerowolf_pro_team_vs_geek_fam_id
 tags:
 - '23'
