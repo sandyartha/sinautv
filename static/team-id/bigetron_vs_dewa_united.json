@@ -1,14 +1,14 @@
 {
   "2023-07-27 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 1,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 0,
       "score": 0,
@@ -31,14 +31,14 @@
   ],
   "2023-07-27 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 2,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 0,
       "score": 0,
@@ -61,14 +61,14 @@
   ],
   "2023-09-07 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 3,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 0,
       "score": 0,
@@ -91,14 +91,14 @@
   ],
   "2023-09-07 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 1,
       "score": 1,
@@ -121,14 +121,14 @@
   ],
   "2023-09-07 - Game 3": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 3,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 1,
@@ -151,14 +151,14 @@
   ],
   "2024-03-17 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 4,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -181,14 +181,14 @@
   ],
   "2024-03-17 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 5,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -211,14 +211,14 @@
   ],
   "2024-05-03 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 6,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -241,14 +241,14 @@
   ],
   "2024-05-03 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 7,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -271,14 +271,14 @@
   ],
   "2024-08-18 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 8,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -301,14 +301,14 @@
   ],
   "2024-08-18 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 9,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -331,14 +331,14 @@
   ],
   "2024-09-13 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 10,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 2,
       "score": 0,
@@ -361,14 +361,14 @@
   ],
   "2024-09-13 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 10,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 3,
       "score": 1,
@@ -391,14 +391,14 @@
   ],
   "2024-09-13 - Game 3": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 11,
       "score": 1,
       "score_komulatif": 2
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 3,
       "score": 0,
@@ -421,14 +421,14 @@
   ],
   "2025-03-09 - Game 1": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 12,
       "score": 1,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 3,
       "score": 0,
@@ -451,14 +451,14 @@
   ],
   "2025-03-09 - Game 2": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 12,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 4,
       "score": 1,
@@ -481,14 +481,14 @@
   ],
   "2025-03-09 - Game 3": [
     {
-      "club_name": "Bigetron Esports",
+      "club_name": "Bigetron",
       "short_name": "BTR",
       "poin": 12,
       "score": 0,
       "score_komulatif": 1
     },
     {
-      "club_name": "Dewa United Esports",
+      "club_name": "Dewa United",
       "short_name": "DEWA",
       "poin": 5,
       "score": 1,
