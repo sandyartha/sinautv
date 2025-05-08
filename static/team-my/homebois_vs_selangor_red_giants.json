@@ -1,0 +1,662 @@
+{
+  "2023-03-18 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-03-18 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-09-08 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-09-08 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-09-08 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:3",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-22 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-22 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2023-10-22 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-03-29 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 13 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-03-29 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-03-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 13 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 4": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 5": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-06-02 - Game 6": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 4
+    },
+    {
+      "date": "2024-06-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "4:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-09-07 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-09-07 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ],
+  "2024-09-07 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "SRG"
+      ]
+    }
+  ]
+}

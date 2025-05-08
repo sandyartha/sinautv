@@ -1,0 +1,62 @@
+{
+  "2025-04-25 - Game 1": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "GEEK",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-04-25 - Game 2": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "GEEK",
+        "NAVI"
+      ]
+    }
+  ]
+}

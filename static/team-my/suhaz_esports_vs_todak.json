@@ -1,0 +1,632 @@
+{
+  "2021-04-18 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-04-18 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-04-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-30 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-30 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "3:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-30 - Game 3": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-05-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "3:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-30 - Game 4": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2021-05-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:1",
+        "score_fixed": "3:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-02-21 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-02-21 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-02-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-02 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-02 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-02 - Game 3": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-23 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-23 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-04-23 - Game 3": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2022-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-08-05 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-08-05 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-08-27 - Game 3": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "TDK"
+      ]
+    }
+  ]
+}

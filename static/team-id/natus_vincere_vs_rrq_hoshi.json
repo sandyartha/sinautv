@@ -1,0 +1,1082 @@
+{
+  "2021-08-29 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2021-08-29 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-08-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 3": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-08-28 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-08-28 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-09-25 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-09-25 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-10-28 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2022",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2022-10-28 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-10-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2022",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-03-04 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-03-04 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 3": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-07-16 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-07-16 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-07-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-09-07 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-09-07 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2023-09-07 - Game 3": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-03-15 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-03-15 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-04-28 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-04-28 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-04-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-05-15 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:1"
+      },
+      "league": "H3RO Esports 5.0",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-08-16 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-08-16 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-08-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-10-06 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2024-10-06 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-03-07 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-03-07 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "NAVI",
+        "RRQ"
+      ]
+    }
+  ]
+}

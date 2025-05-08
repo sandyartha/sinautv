@@ -1,0 +1,122 @@
+{
+  "2022-08-06 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-08-06 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-08-19 - Game 1": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-08-19 - Game 2": [
+    {
+      "club_name": "Suhaz Esports",
+      "short_name": "SHZ",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "SHZ",
+        "HAQ"
+      ]
+    }
+  ]
+}

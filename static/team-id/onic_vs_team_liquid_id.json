@@ -1,0 +1,602 @@
+{
+  "2024-08-09 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-08-09 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-09-15 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-09-15 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-14 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-02-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-14 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-02-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-16 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:3"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-16 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:3"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-16 - Game 3": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:3"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-16 - Game 4": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:2",
+        "score_fixed": "2:3"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-02-16 - Game 5": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:3",
+        "score_fixed": "2:3"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Challenge Finals - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-11 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:1"
+      },
+      "league": "ESL Snapdragon Pro Series: Mobile Masters 2025 - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-11 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "3:1"
+      },
+      "league": "ESL Snapdragon Pro Series: Mobile Masters 2025 - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-11 - Game 3": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "3:1"
+      },
+      "league": "ESL Snapdragon Pro Series: Mobile Masters 2025 - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-11 - Game 4": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2025-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:1",
+        "score_fixed": "3:1"
+      },
+      "league": "ESL Snapdragon Pro Series: Mobile Masters 2025 - Playoffs",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-20 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-20 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-20 - Game 3": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-05-03 - Game 1": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-05-03 - Game 2": [
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "ONIC",
+        "TLID"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1712 @@
+{
+  "2021-08-20 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-08-20 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-09-11 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-09-11 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-11-04 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-11-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "ONE Esports MPL Invitational 2021",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-11-04 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-11-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "ONE Esports MPL Invitational 2021",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-11-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-11-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2021 - Closed Qualifier",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2021-11-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-11-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2021 - Closed Qualifier",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-02-25 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-02-25 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-02-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-03-20 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-03-20 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-03-20 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-08-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-08-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-08-19 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-09-11 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-09-11 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "Piala Presiden Esports 2022 - Closed Qualifier",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "Piala Presiden Esports 2022 - Closed Qualifier",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-10-27 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "Piala Presiden Esports 2022",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-10-27 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-10-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "Piala Presiden Esports 2022",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-11-02 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-11-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "ONE Esports MPL Invitational 2022",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-11-02 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-11-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "ONE Esports MPL Invitational 2022",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2022-11-02 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-11-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "ONE Esports MPL Invitational 2022",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-02-24 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-02-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-02-24 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-02-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-03-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-03-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-03-19 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-07-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-07-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-07-13 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-08-17 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-08-17 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2023-08-17 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-08-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-03-09 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-03-09 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-03-09 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-04-21 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-04-21 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 23,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-04-21 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 23,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-05-23 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "H3RO Esports 5.0",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-05-23 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "H3RO Esports 5.0",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-08-25 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-08-25 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 26,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-08-25 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-09-08 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-09-08 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-11-09 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-11-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Open Finals",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2024-11-09 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-11-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 6 APAC - Open Finals",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-03-15 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-03-15 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-03-15 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 35,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "NAVI"
+      ]
+    }
+  ]
+}

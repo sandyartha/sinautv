@@ -1,0 +1,542 @@
+{
+  "2020-08-28 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-08-28 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-08-28 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-03-20 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-03-20 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-04-04 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-04-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-04-04 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-04-04 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-15 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-15 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-15 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-08-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-09-03 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-09-03 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-02-20 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-02-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-02-20 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-02-20 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-03-11 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-03-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-03-11 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam",
+      "short_name": "GEEK",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-03-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "GEEK"
+      ]
+    }
+  ]
+}
