@@ -1,0 +1,1172 @@
+{
+  "2018-07-15 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-07-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "BEKRAF Game Prime 2018",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-07-15 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2018-07-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "BEKRAF Game Prime 2018",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-07-15 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2018-07-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "BEKRAF Game Prime 2018",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-09-09 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Kratingdaeng Indonesia Esports Championship 2018",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-09-09 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Kratingdaeng Indonesia Esports Championship 2018",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-10-20 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-10-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 2 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2018-10-20 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-10-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 2 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-02-24 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-02-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 3 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-02-24 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-02-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 3 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-03-22 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-03-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2019 - Closed",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-03-22 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-03-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2019 - Closed",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-08 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-08 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-08 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2019-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-27 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-27 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2019-09-27 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-02-14 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-02-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-02-14 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-02-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-03-28 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-03-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-03-28 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-03-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-05-12 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-05-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:1"
+      },
+      "league": "DGWIB Season 5",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-05-12 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-05-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:1"
+      },
+      "league": "DGWIB Season 5",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-06-28 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-06-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-06-28 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-06-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-06-28 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-06-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-08-14 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-08-14 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-08-14 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-10-16 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-10-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2020-10-16 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-10-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2021-02-26 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2021-02-26 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2021-02-26 - Game 3": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-02-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2021-03-26 - Game 1": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ],
+  "2021-03-26 - Game 2": [
+    {
+      "club_name": "Aerowolf Pro Team",
+      "short_name": "AERO",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron Esports",
+      "short_name": "BTR",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "BTR"
+      ]
+    }
+  ]
+}
