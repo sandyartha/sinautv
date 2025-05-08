@@ -138,11 +138,11 @@ fetch(jsonFile)
       if (tags >= 100) {
         totalDuration = 45000; // 120000 60 detik
       } else if (tags >= 60) {
-        totalDuration = 30000; // 45 detik
+        totalDuration = 40000; // 45 detik
       } else if (tags >= 30) {
-        totalDuration = 20000; // 15 detik
+        totalDuration = 30000; // 30 detik
       } else if (tags >= 5) {
-        totalDuration = 15000; // 15 detik
+        totalDuration = 25000; // 25 detik
       } else {
         totalDuration = 30000; // fallback aman
       }
@@ -533,10 +533,10 @@ fetch(jsonFile)
       staticText.text = "yt:SINAU";
       staticText.fontSize = 20;
       staticText.align = "center";
-      staticText.valign = "top";
+      staticText.valign = "middle"; // Change valign to "middle" for vertical centering
       staticText.opacity = 0.2; // Set opacity for the score label
-      staticText.dx = 10;
-      staticText.dy = 10;
+      staticText.horizontalCenter = "middle"; // Center horizontally
+      staticText.verticalCenter = "middle"; // Center vertically
       staticText.fill = am4core.color("#000000"); // Warna teks hitam
 
       // am4core.options.commercialWatermark.fontSize = 20; // Adjust watermark font size
