@@ -98,8 +98,8 @@ fetch(jsonFile)
       chart.svgContainer.width = 1080; // Set canvas width to 2K
       chart.svgContainer.height = 720; // Set canvas height to 2K
 
-      // Set the default font family to Rubik
-      chart.fontFamily = "Rubik";
+      // Set the default font family to Roboto Mono
+      chart.fontFamily = "Roboto Mono";
 
       // Set chart background to transparent
       chart.background.fill = am4core.color("rgba(0, 0, 0, 0)");
@@ -531,8 +531,8 @@ fetch(jsonFile)
       var staticText = chart.plotContainer.createChild(am4core.Label);
       staticText.text = "yt:SINAU";
       staticText.fontSize = 20;
-      staticText.align = "center";
-      staticText.valign = "top";
+      staticText.align = "middle";
+      staticText.valign = "middle";
       staticText.opacity = 0.2; // Set opacity for the score label
       staticText.dx = 10;
       staticText.dy = 10;
