@@ -7,7 +7,7 @@
 
 
 <div class="chart">
-	<h1 class="animated-title">Head to Head</h1>
+	
 	<style>
 		.animated-title {
 			animation: fadeIn 2s ease-in-out;
@@ -39,15 +39,8 @@
 		}
 
 	</style>
+	<h1 class="animated-title">Head to Head</h1>
 	<p class="animated-h2h">{{ replace .Title "vs" "⚔️" }}</p>
-	
-	<!-- <div id="emojiContainer">
-		<span class="emoji">⚽</span>
-		<span class="emoji">⚽</span>
-		<span class="emoji">⚽</span>
-	</div> -->
-
-	<!-- {{ partial "chart.html" . }} -->
 
 	{{ .Content }}
 	

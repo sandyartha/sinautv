@@ -86,37 +86,6 @@ p {
       padding: 0;
 }
 
-#emojiContainer {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.emoji {
-  display: inline-block;
-  font-size: .8rem;
-  animation: bounce 1s infinite, rotate 2s infinite linear;
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-20px);
-  }
-  60% {
-    transform: translateY(-10px);
-  }
-}
-
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
 
 a:visited {
     color: #6b7280; /* Warna untuk tautan yang sudah dikunjungi */
