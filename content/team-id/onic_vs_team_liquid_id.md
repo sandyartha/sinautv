@@ -4,7 +4,7 @@ date: '2025-05-03'
 teams:
 - ONIC
 - Team Liquid ID
-league: Snapdragon Pro Series Season 3 SEA - Challenge Finals - Group Stage
+league: MPL ID Season 9 - Regular Season
 slug: onic_vs_team_liquid_id
 tags:
 - '93'

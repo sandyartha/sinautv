@@ -4,7 +4,7 @@ date: '2025-03-09'
 teams:
 - Alter Ego
 - ONIC
-league: MPL ID Season 4 - Regular Season
+league: MPL ID Season 9 - Regular Season
 slug: alter_ego_vs_onic
 tags:
 - '82'

@@ -4,7 +4,7 @@ date: '2025-03-21'
 teams:
 - EVOS
 - Natus Vincere
-league: MPL ID Season 9 - Regular Season
+league: MPL ID Season 14 - Regular Season
 slug: evos_vs_natus_vincere
 tags:
 - '46'

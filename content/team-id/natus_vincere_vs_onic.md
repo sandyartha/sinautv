@@ -4,7 +4,7 @@ date: '2025-04-18'
 teams:
 - Natus Vincere
 - ONIC
-league: MPL ID Season 9 - Regular Season
+league: MPL ID Season 14 - Regular Season
 slug: natus_vincere_vs_onic
 tags:
 - '38'

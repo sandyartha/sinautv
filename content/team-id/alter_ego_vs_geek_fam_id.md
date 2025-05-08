@@ -4,7 +4,7 @@ date: '2025-05-02'
 teams:
 - Alter Ego
 - Geek Fam ID
-league: MPL ID Season 9 - Regular Season
+league: ONE Esports MPL Invitational 2020
 slug: alter_ego_vs_geek_fam_id
 tags:
 - '63'

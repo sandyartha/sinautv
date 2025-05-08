@@ -4,7 +4,7 @@ date: '2025-05-03'
 teams:
 - Alter Ego
 - EVOS
-league: MPL ID Season 8 - Playoffs
+league: ONE Esports MPL Invitational 2020
 slug: alter_ego_vs_evos
 tags:
 - '97'

@@ -4,7 +4,7 @@ date: '2021-04-30'
 teams:
 - Aerowolf Pro Team
 - RRQ Hoshi
-league: BEKRAF Game Prime 2018
+league: Piala Presiden Esports 2019 - Closed
 slug: aerowolf_pro_team_vs_rrq_hoshi
 tags:
 - '54'

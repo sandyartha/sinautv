@@ -4,7 +4,7 @@ date: '2025-04-19'
 teams:
 - EVOS
 - RRQ Hoshi
-league: M1 World Championship - Playoffs
+league: Piala Presiden Esports 2019
 slug: evos_vs_rrq_hoshi
 tags:
 - '124'
