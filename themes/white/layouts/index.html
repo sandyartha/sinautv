@@ -67,7 +67,7 @@ tbody tr:last-child td {
   {{ end }}
 </ul>
 
-{{ range .Site.Sections }}
+
 <div class="table-container">
   <table>
     <thead>
@@ -81,21 +81,19 @@ tbody tr:last-child td {
       </tr>
     </thead>
     <tbody>
-      {{ range site.RegularPages | first 10 }}
+      {{ range .Site.Sections }}
         <tr>
           <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
           <td>{{ .Date.Format "2006-01-02" }}</td>
           <td>
-              {{ range .Params.tags }}
-                <span class="tag">{{ . }}</span>
-              {{ end }}
+             ......
           </td>
         </tr>
-      {{ end }}
+        {{ end }}
     </tbody>
   </table>
 </div>
-{{ end }}
+
 
 
 {{ end }}
