@@ -54,7 +54,7 @@ tbody tr:last-child td {
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
-<h2>Postingan dengan Tag > 100</h2>
+<h2>Postingan Berdasarkan Tag</h2>
 <div class="table-container">
     <table>
         <thead>
@@ -62,89 +62,34 @@ tbody tr:last-child td {
                 <th>#</th>
                 <th>Judul</th>
                 <th>Tag</th>
+                <th>Kategori</th>
             </tr>
         </thead>
-        <tbody>
-            {{ $counter := 0 }}
-            {{ range .Pages }}
-                {{ $tag := first 1 .Params.tags | default (slice 0) }}
-                {{ $tag = index $tag 0 | default 0 }}
-                {{ if $tag }}
-                    {{ $tagFloat := float $tag }}
-                    {{ if gt $tagFloat 100 }}
+        {{ $counter := 0 }}
+        {{ $sortedPages := sort .Pages ".Params.tags" "desc" }} <!-- Urutkan berdasarkan tag secara descending -->
+        {{ range seq 100 -10 10 }} <!-- Loop untuk kategori 100, 90, 80, dst -->
+            {{ $current := float . }} <!-- Konversi . menjadi angka -->
+            {{ $category := printf "Tag %d - %d" (int $current) (int (add $current 10)) }} <!-- Konversi ke integer -->
+            <tbody>
+                <tr>
+                    <td colspan="4" style="font-weight: bold; background-color: #f9fafb;">{{ $category }}</td>
+                </tr>
+                {{ range $sortedPages }}
+                    {{ $tag := first 1 .Params.tags | default (slice 0) }}
+                    {{ $tag = index $tag 0 | default 0 }}
+                    {{ $tagFloat := float $tag | default 0 }} <!-- Konversi tag menjadi angka -->
+                    {{ if and (ge $tagFloat $current) (lt $tagFloat (add $current 10)) }} <!-- Filter berdasarkan kategori -->
                         {{ $counter = add $counter 1 }}
                         <tr>
                             <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
                             <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
                             <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
+                            <td>{{ $category }}</td>
                         </tr>
                     {{ end }}
                 {{ end }}
-            {{ end }}
-        </tbody>
+            </tbody>
+        {{ end }}
     </table>
 </div>
-
-<h2>Postingan dengan Tag > 30 dan ≤ 100</h2>
-<div class="table-container">
-    <table>
-        <thead>
-            <tr>
-                <th>#</th>
-                <th>Judul</th>
-                <th>Tag</th>
-            </tr>
-        </thead>
-        <tbody>
-            {{ $counter := 0 }}
-            {{ range .Pages }}
-                {{ $tag := first 1 .Params.tags | default (slice 0) }}
-                {{ $tag = index $tag 0 | default 0 }}
-                {{ if $tag }}
-                    {{ $tagFloat := float $tag }}
-                    {{ if and (gt $tagFloat 30) (le $tagFloat 100) }}
-                        {{ $counter = add $counter 1 }}
-                        <tr>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
-                        </tr>
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-        </tbody>
-    </table>
-</div>
-
-<h2>Postingan dengan Tag > 1 dan ≤ 30</h2>
-<div class="table-container">
-    <table>
-        <thead>
-            <tr>
-                <th>#</th>
-                <th>Judul</th>
-                <th>Tag</th>
-            </tr>
-        </thead>
-        <tbody>
-            {{ $counter := 0 }}
-            {{ range .Pages }}
-                {{ $tag := first 1 .Params.tags | default (slice 0) }}
-                {{ $tag = index $tag 0 | default 0 }}
-                {{ if $tag }}
-                    {{ $tagFloat := float $tag }}
-                    {{ if and (gt $tagFloat 1) (le $tagFloat 30) }}
-                        {{ $counter = add $counter 1 }}
-                        <tr>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $counter }}</a></td>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ .Title }}</a></td>
-                            <td><a href="{{ .RelPermalink }}" class="full-link">{{ $tag }}</a></td>
-                        </tr>
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-        </tbody>
-    </table>
-</div>
-
 {{ end }}
