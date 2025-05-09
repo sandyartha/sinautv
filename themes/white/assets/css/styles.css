@@ -61,19 +61,23 @@ h3 {
       font-size: 1.2rem;
       font-weight: 700;
       color: rgb(36, 36, 36);
+      width: 60%;
 }
 
 #leagueDiv {
       font-size: 1.2rem;
       font-weight: 600;
       color: rgb(36, 36, 36);
-      margin: 0.2rem;
+      margin: 0.2rem auto; /* Center horizontally */
       padding: 0.2rem;
+      width: 60%;
+      text-align: center; /* Center text inside the element */
 }
 #scoreDiv {
       font-size: 1.2rem;
       font-weight: 700;
       color: rgb(36, 36, 36);
+      width: 60%;
 }
 
 
