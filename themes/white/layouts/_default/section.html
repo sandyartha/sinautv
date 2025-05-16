@@ -91,5 +91,21 @@ tbody tr:last-child td {
             </tbody>
         {{ end }}
     </table>
+
+    <ol style="text-align: left;">    
+    {{- range seq 100 -10 10 -}}
+      {{- $current := float . -}}
+      {{- $category := printf "Tag %d - %d" (int $current) (int (add $current 10)) -}}
+      <h3>{{ $category }}</h3>
+      {{- range $sortedPages -}}
+        {{- $tag := first 1 .Params.tags | default (slice 0) }}
+        {{- $tag = index $tag 0 | default 0 -}}
+        {{- $tagFloat := float $tag | default 0 -}}
+        {{- if and (ge $tagFloat $current) (lt $tagFloat (add $current 10)) -}}
+          <li>{{ .Title }}</li>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    </ol>
 </div>
 {{ end }}
