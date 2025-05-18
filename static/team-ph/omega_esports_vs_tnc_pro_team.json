@@ -3,14 +3,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 1,
+      "poin": 0,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 3,
+      "poin": 1,
       "score": 1,
       "score_komulatif": 1
     },
@@ -19,8 +19,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:1"
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
       },
       "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
       "clubs": [
@@ -33,14 +33,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 2,
+      "poin": 1,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 3,
+      "poin": 1,
       "score": 0,
       "score_komulatif": 1
     },
@@ -50,7 +50,7 @@
       "result": {
         "score_split": "1:0",
         "score_komulatif": "1:1",
-        "score_fixed": "2:1"
+        "score_fixed": "1:2"
       },
       "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
       "clubs": [
@@ -63,14 +63,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 2,
+      "poin": 1,
       "score": 0,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 4,
+      "poin": 2,
       "score": 1,
       "score_komulatif": 2
     },
@@ -79,8 +79,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:1",
-        "score_fixed": "2:1"
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
       },
       "league": "Juicy Legends Tournament 2021 Q3 Pro Division",
       "clubs": [
@@ -93,14 +93,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 5,
+      "poin": 2,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 4,
+      "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
@@ -109,8 +109,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
@@ -123,14 +123,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 6,
+      "poin": 3,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 4,
+      "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
@@ -139,8 +139,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
@@ -153,14 +153,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 9,
+      "poin": 4,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 4,
+      "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
@@ -169,8 +169,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
@@ -183,14 +183,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 10,
+      "poin": 5,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 4,
+      "poin": 2,
       "score": 0,
       "score_komulatif": 0
     },
@@ -199,8 +199,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 8 - Regular Season",
       "clubs": [
@@ -213,14 +213,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 10,
+      "poin": 5,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 7,
+      "poin": 3,
       "score": 1,
       "score_komulatif": 1
     },
@@ -229,8 +229,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
@@ -243,14 +243,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 10,
+      "poin": 5,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 8,
+      "poin": 4,
       "score": 1,
       "score_komulatif": 2
     },
@@ -259,8 +259,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
@@ -273,14 +273,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 12,
+      "poin": 6,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 10,
+      "poin": 4,
       "score": 0,
       "score_komulatif": 0
     },
@@ -289,8 +289,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "2:1"
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
@@ -303,14 +303,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 12,
+      "poin": 6,
       "score": 0,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 11,
+      "poin": 5,
       "score": 1,
       "score_komulatif": 1
     },
@@ -320,7 +320,7 @@
       "result": {
         "score_split": "0:1",
         "score_komulatif": "1:1",
-        "score_fixed": "2:1"
+        "score_fixed": "1:2"
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
@@ -333,14 +333,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 12,
+      "poin": 6,
       "score": 0,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 12,
+      "poin": 6,
       "score": 1,
       "score_komulatif": 2
     },
@@ -349,8 +349,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:1",
-        "score_fixed": "2:1"
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
       },
       "league": "MPL Philippines Season 9 - Regular Season",
       "clubs": [
@@ -363,14 +363,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 13,
+      "poin": 6,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 16,
+      "poin": 7,
       "score": 1,
       "score_komulatif": 1
     },
@@ -379,8 +379,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "3:1"
+        "score_komulatif": "0:1",
+        "score_fixed": "1:3"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -393,14 +393,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 14,
+      "poin": 7,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 16,
+      "poin": 7,
       "score": 0,
       "score_komulatif": 1
     },
@@ -410,7 +410,7 @@
       "result": {
         "score_split": "1:0",
         "score_komulatif": "1:1",
-        "score_fixed": "3:1"
+        "score_fixed": "1:3"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -423,14 +423,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 14,
+      "poin": 7,
       "score": 0,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 17,
+      "poin": 8,
       "score": 1,
       "score_komulatif": 2
     },
@@ -439,8 +439,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:1",
-        "score_fixed": "3:1"
+        "score_komulatif": "1:2",
+        "score_fixed": "1:3"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -453,14 +453,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 14,
+      "poin": 7,
       "score": 0,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 1,
       "score_komulatif": 3
     },
@@ -469,8 +469,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "3:1",
-        "score_fixed": "3:1"
+        "score_komulatif": "1:3",
+        "score_fixed": "1:3"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -483,14 +483,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 18,
+      "poin": 8,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 0,
       "score_komulatif": 0
     },
@@ -499,8 +499,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:3"
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -513,14 +513,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 19,
+      "poin": 9,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 0,
       "score_komulatif": 0
     },
@@ -529,8 +529,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:3"
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -543,14 +543,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 20,
+      "poin": 10,
       "score": 1,
       "score_komulatif": 3
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 0,
       "score_komulatif": 0
     },
@@ -559,8 +559,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:3",
-        "score_fixed": "0:3"
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
       },
       "league": "MPL PH Season 9 - Playoffs",
       "clubs": [
@@ -573,14 +573,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 23,
+      "poin": 11,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 0,
       "score_komulatif": 0
     },
@@ -589,8 +589,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
@@ -603,14 +603,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 24,
+      "poin": 12,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 18,
+      "poin": 9,
       "score": 0,
       "score_komulatif": 0
     },
@@ -619,8 +619,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
@@ -633,14 +633,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 26,
+      "poin": 12,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 1,
       "score_komulatif": 1
     },
@@ -649,8 +649,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "1:2"
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
@@ -663,14 +663,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 27,
+      "poin": 13,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 1
     },
@@ -680,7 +680,7 @@
       "result": {
         "score_split": "1:0",
         "score_komulatif": "1:1",
-        "score_fixed": "1:2"
+        "score_fixed": "2:1"
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
@@ -693,14 +693,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 28,
+      "poin": 14,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 1
     },
@@ -709,8 +709,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "1:2",
-        "score_fixed": "1:2"
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
       },
       "league": "MPL Philippines Season 10 - Regular Season",
       "clubs": [
@@ -723,14 +723,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 31,
+      "poin": 15,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 0
     },
@@ -739,8 +739,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
@@ -753,14 +753,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 32,
+      "poin": 16,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 0
     },
@@ -769,8 +769,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
@@ -783,14 +783,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 35,
+      "poin": 17,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 0
     },
@@ -799,8 +799,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
@@ -813,14 +813,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 36,
+      "poin": 18,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 20,
+      "poin": 10,
       "score": 0,
       "score_komulatif": 0
     },
@@ -829,8 +829,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 11 - Regular Season",
       "clubs": [
@@ -843,14 +843,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 36,
+      "poin": 18,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 23,
+      "poin": 11,
       "score": 1,
       "score_komulatif": 1
     },
@@ -859,8 +859,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "Juicy Legends Tournament 2023 Q2 Pro Division",
       "clubs": [
@@ -873,14 +873,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 36,
+      "poin": 18,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 24,
+      "poin": 12,
       "score": 1,
       "score_komulatif": 2
     },
@@ -889,8 +889,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "Juicy Legends Tournament 2023 Q2 Pro Division",
       "clubs": [
@@ -903,14 +903,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 36,
+      "poin": 18,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 27,
+      "poin": 13,
       "score": 1,
       "score_komulatif": 1
     },
@@ -919,8 +919,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "Juicy Legends Tournament 2023 Q2 Pro Division",
       "clubs": [
@@ -933,14 +933,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 36,
+      "poin": 18,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 1,
       "score_komulatif": 2
     },
@@ -949,8 +949,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "Juicy Legends Tournament 2023 Q2 Pro Division",
       "clubs": [
@@ -963,14 +963,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 39,
+      "poin": 19,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -979,8 +979,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
@@ -993,14 +993,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 40,
+      "poin": 20,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1009,8 +1009,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
@@ -1023,14 +1023,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 43,
+      "poin": 21,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1039,8 +1039,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
@@ -1053,14 +1053,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 44,
+      "poin": 22,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1069,8 +1069,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 12 - Regular Season",
       "clubs": [
@@ -1083,14 +1083,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 47,
+      "poin": 23,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1099,8 +1099,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
@@ -1113,14 +1113,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 48,
+      "poin": 24,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 28,
+      "poin": 14,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1129,8 +1129,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
@@ -1143,14 +1143,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 48,
+      "poin": 24,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 31,
+      "poin": 15,
       "score": 1,
       "score_komulatif": 1
     },
@@ -1159,8 +1159,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
@@ -1173,14 +1173,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 48,
+      "poin": 24,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 32,
+      "poin": 16,
       "score": 1,
       "score_komulatif": 2
     },
@@ -1189,8 +1189,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "MPL Philippines Season 13 - Regular Season",
       "clubs": [
@@ -1203,14 +1203,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 51,
+      "poin": 25,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 32,
+      "poin": 16,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1219,8 +1219,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
@@ -1233,14 +1233,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 52,
+      "poin": 26,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 32,
+      "poin": 16,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1249,8 +1249,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
@@ -1263,14 +1263,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 55,
+      "poin": 27,
       "score": 1,
       "score_komulatif": 1
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 32,
+      "poin": 16,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1279,8 +1279,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:1",
-        "score_fixed": "0:2"
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
@@ -1293,14 +1293,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 56,
+      "poin": 28,
       "score": 1,
       "score_komulatif": 2
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 32,
+      "poin": 16,
       "score": 0,
       "score_komulatif": 0
     },
@@ -1309,8 +1309,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "0:2",
-        "score_fixed": "0:2"
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
       },
       "league": "MPL PH Season 14 - Regular Season",
       "clubs": [
@@ -1323,14 +1323,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 56,
+      "poin": 28,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 35,
+      "poin": 17,
       "score": 1,
       "score_komulatif": 1
     },
@@ -1339,8 +1339,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
@@ -1353,14 +1353,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 56,
+      "poin": 28,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 36,
+      "poin": 18,
       "score": 1,
       "score_komulatif": 2
     },
@@ -1369,8 +1369,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
@@ -1383,14 +1383,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 56,
+      "poin": 28,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 39,
+      "poin": 19,
       "score": 1,
       "score_komulatif": 1
     },
@@ -1399,8 +1399,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
@@ -1413,14 +1413,14 @@
     {
       "club_name": "Omega Esports",
       "short_name": "OMG",
-      "poin": 56,
+      "poin": 28,
       "score": 0,
       "score_komulatif": 0
     },
     {
       "club_name": "TNC Pro Team",
       "short_name": "TNC",
-      "poin": 40,
+      "poin": 20,
       "score": 1,
       "score_komulatif": 2
     },
@@ -1429,8 +1429,8 @@
       "time": "19:00",
       "result": {
         "score_split": "0:1",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "MPL PH Season 15 - Regular Season",
       "clubs": [
