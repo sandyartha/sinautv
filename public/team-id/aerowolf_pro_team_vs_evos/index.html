@@ -1,15 +1,81 @@
-{{ $file_json := .Page.Params.file_json | safeURL }}
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aerowolf Pro Team vs EVOS</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    
+    
+
+    <link rel="stylesheet" href="/css/styles.min.c82db433df3100d94013d1a6964b43182516271b6e9424f8801d0c11c828f946.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+
+    
+</head>
+<body>
+ 	
+	
+
+
+
+
+<div class="chart">
+	
+	<style>
+		.animated-title {
+			animation: fadeIn 2s ease-in-out;
+		}
+		.animated-h2h {
+			animation: fadeIn2 2s ease-in-out;
+		}
+
+		@keyframes fadeIn {
+			from {
+				opacity: 0;
+				transform: translateY(-20px);
+			}
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+		@keyframes fadeIn2 {
+			from {
+				opacity: 0;
+				transform: translateY(20px);
+			}
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+	</style>
+	<h1 class="animated-title">Head to Head$</h1>
+	<h3 class="animated-h2h">Aerowolf Pro Team ⚔️ EVOS</h3>
+
+	
 
 
 <div id="chartContainer">
   <div id="chartdiv" style="min-width: 100%;min-height:30rem;display:flex;"></div>
-  <!-- <div id="infoContainer">
-    <div id="infoDiv">      
-       <span id="yearDiv"></span> 
-      <span id="leagueDiv"></span>
-    </div>
-    <div id="scoreDiv"></div>
-  </div> -->
+  
 
   <div id="leagueDiv"></div>
   <div id="yearDiv"></div>
@@ -22,34 +88,34 @@
 
 am4core.addLicense("ch-custom-attribution");
 
-// Load the Rubik font
+
 var link = document.createElement("link");
 link.href =
   "https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap";
 link.rel = "stylesheet";
 document.head.appendChild(link);
 
-// Ambil data dari file JSON
 
-const jsonFile = "{{ $file_json }}"; // Ganti dengan path ke file JSON Anda
+
+const jsonFile = "\/team-id\/aerowolf_pro_team_vs_evos.json"; 
 
 fetch(jsonFile)
   .then((response) => response.json())
   .then((allData) => {
-    var dateKeys = Object.keys(allData); // Get the date keys from the JSON data
-    var currentIndex = 0; // Indeks data saat ini
+    var dateKeys = Object.keys(allData); 
+    var currentIndex = 0; 
 
-    // Fungsi untuk memperbarui chart
+    
     function updateChart() {
       if (currentIndex < dateKeys.length) {
-        var gameKey = dateKeys[currentIndex]; // Ambil key game saat ini
-        var gameData = allData[gameKey]; // Ambil data game berdasarkan key
+        var gameKey = dateKeys[currentIndex]; 
+        var gameData = allData[gameKey]; 
 
-        // Ambil data tim dari gameData
-        var teams = gameData.slice(0, 2); // Dua objek pertama adalah data tim
-        var metadata = gameData[2]; // Objek ketiga adalah metadata
+        
+        var teams = gameData.slice(0, 2); 
+        var metadata = gameData[2]; 
 
-        // Atur data chart
+        
         chart.data = teams.map((team) => ({
           short_name: team.short_name,
           poin: team.poin,
@@ -58,7 +124,7 @@ fetch(jsonFile)
           clubs: metadata.clubs,
         }));
 
-        // Perbarui label tahun, liga, dan skor
+        
         year = metadata.date;
         label.text = year;
         document.getElementById("yearDiv").innerText = year;
@@ -78,7 +144,7 @@ fetch(jsonFile)
         scoreLabel.html = scores;
         document.getElementById("scoreDiv").innerHTML = scores;
 
-        // Log untuk debugging
+        
         console.log("Updating to", gameKey, chart.data);
 
         currentIndex++;
@@ -89,114 +155,114 @@ fetch(jsonFile)
     }
 
     am4core.ready(function () {
-      // Themes begin
+      
       am4core.useTheme(am4themes_animated);
-      // Themes end
+      
 
-      var chart = am4core.create("chartdiv", am4charts.XYChart); // Membuat chart
-      chart.padding(40, 40, 40, 40); // Mengatur padding chart, adding extra bottom padding
-      chart.svgContainer.width = 1080; // Set canvas width to 2K
-      chart.svgContainer.height = 720; // Set canvas height to 2K
+      var chart = am4core.create("chartdiv", am4charts.XYChart); 
+      chart.padding(40, 40, 40, 40); 
+      chart.svgContainer.width = 1080; 
+      chart.svgContainer.height = 720; 
 
-      // Set the default font family to Roboto Mono
+      
       chart.fontFamily = "Roboto Mono";
 
-      // Set chart background to transparent
+      
       chart.background.fill = am4core.color("rgba(0, 0, 0, 0)");
 
-      // Set margin for the chart area
+      
       chart.marginTop = 20;
       chart.marginRight = 20;
       chart.marginBottom = 20;
       chart.marginLeft = 20;
 
-      chart.numberFormatter.bigNumberPrefixes = [{ number: 1e3, suffix: "k" }]; // Format angka besar
+      chart.numberFormatter.bigNumberPrefixes = [{ number: 1e3, suffix: "k" }]; 
 
-      var label = chart.plotContainer.createChild(am4core.Label); // Membuat label untuk year
+      var label = chart.plotContainer.createChild(am4core.Label); 
       label.x = am4core.percent(100);
       label.y = am4core.percent(88);
       label.horizontalCenter = "right";
       label.verticalCenter = "middle";
       label.dx = -0;
-      label.fontSize = 20; // Adjust font size for year
-      label.opacity = 0.5; // Set opacity for the year indicator label
-      label.className = "chart-label"; // Tambahkan kelas CSS
-      label.fontWeight = "600"; // Atur font-weight menjadi 800
+      label.fontSize = 20; 
+      label.opacity = 0.5; 
+      label.className = "chart-label"; 
+      label.fontWeight = "600"; 
 
-      var playButton = chart.plotContainer.createChild(am4core.PlayButton); // Membuat tombol play
+      var playButton = chart.plotContainer.createChild(am4core.PlayButton); 
       playButton.x = am4core.percent(97);
       playButton.y = am4core.percent(95);
       playButton.dy = -2;
       playButton.verticalCenter = "middle";
-      playButton.disabled = true; // Disable the play button
+      playButton.disabled = true; 
 
 
-      var tags = parseInt("{{ index .Page.Params.tags 0 }}", 10);
+      var tags = parseInt("36", 10);
 
       var totalDuration;
 
       if (tags >= 100) {
-        totalDuration = 45000; // 120000 60 detik
+        totalDuration = 45000; 
       } else if (tags >= 60) {
-        totalDuration = 40000; // 45 detik
+        totalDuration = 40000; 
       } else if (tags >= 30) {
-        totalDuration = 30000; // 30 detik
+        totalDuration = 30000; 
       } else if (tags >= 5) {
-        totalDuration = 25000; // 25 detik
+        totalDuration = 25000; 
       } else {
-        totalDuration = 30000; // fallback aman
+        totalDuration = 30000; 
       }
 
-      // Durasi setiap langkah animasi
-      // Untuk durasi animasi 30 detik
-      // var stepDuration = 30000 / dateKeys.length;
+      
+      
+      
 
-      // Untuk durasi animasi 1 menit
+      
       var stepDuration = totalDuration / dateKeys.length;
 
-      // Untuk durasi animasi 2 menit
-      // var stepDuration = 120000 / dateKeys.length;
+      
+      
 
-      // Untuk durasi animasi 5 menit
-      // var stepDuration = 300000 / dateKeys.length;
+      
+      
 
-      // var stepDuration = 30000 / dateKeys.length;
+      
 
 
-      var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); // Membuat sumbu kategori
+      var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis()); 
       categoryAxis.renderer.grid.template.location = 0;
       categoryAxis.dataFields.category = "short_name";
       categoryAxis.renderer.minGridDistance = 10;
       categoryAxis.renderer.inversed = true;
       categoryAxis.renderer.grid.template.disabled = true;
 
-      // Adjust padding for categoryY labels
-      categoryAxis.renderer.labels.template.padding(5, 5, 5, 5); // top, right, bottom, left
-      categoryAxis.renderer.labels.template.marginRight = 0; // Pastikan margin tidak terlalu kecil
-      categoryAxis.renderer.labels.template.marginLeft = 15; // Tambahkan jarak di sebelah kiri
-      // Adjust margin from the left side for categoryY labels
+      
+      categoryAxis.renderer.labels.template.padding(5, 5, 5, 5); 
+      categoryAxis.renderer.labels.template.marginRight = 0; 
+      categoryAxis.renderer.labels.template.marginLeft = 15; 
+      
       categoryAxis.renderer.marginLeft = -40;
 
-      // Change font size and font weight for short_name labels
+      
       categoryAxis.renderer.labels.template.fontSize = 15;
       categoryAxis.renderer.labels.template.fontWeight = 600;
       
-      var valueAxis = chart.xAxes.push(new am4charts.ValueAxis()); // Membuat sumbu nilai
+      var valueAxis = chart.xAxes.push(new am4charts.ValueAxis()); 
       valueAxis.min = 0;
       valueAxis.rangeChangeEasing = am4core.ease.linear;
       valueAxis.rangeChangeDuration = stepDuration;
 
       chart.events.on("sizechanged", function (ev) {
         if (ev.target.pixelWidth <= 480) {
-          // Mobile setting apabila bar chart keluar dari sumbu y, atau dari layar
-          valueAxis.extraMax = 0.23; // beri ekstra lebih banyak
+          
+          valueAxis.extraMax = 0.23; 
         } else {
-          // Desktop
-          valueAxis.extraMax = 0.1; // default
+          
+          valueAxis.extraMax = 0.1; 
         }
       });
 
-      // Membuat seri kolom untuk "poin"
+      
       var poinSeries = chart.series.push(new am4charts.ColumnSeries());
       poinSeries.dataFields.categoryY = "short_name";
       poinSeries.dataFields.valueX = "poin";
@@ -206,7 +272,7 @@ fetch(jsonFile)
       poinSeries.columns.template.column.cornerRadiusTopRight = 5;
       poinSeries.interpolationDuration = stepDuration;
       poinSeries.interpolationEasing = am4core.ease.linear;
-      poinSeries.columns.template.maxWidth = 10; // Mengatur lebar maksimum kolom
+      poinSeries.columns.template.maxWidth = 10; 
       
       var poinLabelBullet = poinSeries.bullets.push(
         new am4charts.LabelBullet()
@@ -215,65 +281,65 @@ fetch(jsonFile)
       poinLabelBullet.label.text = "{valueX.formatNumber('#')}";
       poinLabelBullet.label.textAlign = "end";
       poinLabelBullet.label.dx = -10;
-      poinLabelBullet.label.fill = am4core.color("#FFFFFF"); // Set the color to white
-      poinLabelBullet.label.fontSize = 25; // Adjust the font size
+      poinLabelBullet.label.fill = am4core.color("#FFFFFF"); 
+      poinLabelBullet.label.fontSize = 25; 
 
-      var poinImage = poinLabelBullet.createChild(am4core.Image); // Menambahkan gambar ke label bullet
+      var poinImage = poinLabelBullet.createChild(am4core.Image); 
       poinImage.horizontalCenter = "left";
       poinImage.verticalCenter = "middle";
       poinImage.propertyFields.href = "logo";
       poinImage.dx = 5;
-      poinImage.height = 60; // Adjust logo height
+      poinImage.height = 60; 
 
-      // chart.events.on("sizechanged", function (ev) {
-      //   if (ev.target.pixelWidth <= 480) {
-      //     poinImage.height = 55; // Atur ukuran logo untuk mobile
-      //   } else {
-      //     poinImage.height = 60; // Atur ukuran logo untuk desktop
-      //   }
-      // });
+      
+      
+      
+      
+      
+      
+      
 
-      // Define a mapping of label names to custom colors
+      
       var labelMapping = {
-        // INDONESIA
+        
         AERO: {
-          color: "#aeaeae", // (AEROWOLF)
+          color: "#aeaeae", 
           logo: "/Aerowolflogo_square.png",
         },
         AE: {
-          color: "#d82828", // (Alter Ego)
+          color: "#d82828", 
           logo: "/Alter_Ego_2022_allmode.png",
         },
         BTR: {
-          color: "#ff0000", // (Bigetron Esports)
+          color: "#ff0000", 
           logo: "/600px-Bigetron_2020_allmode.png",
         },
         DEWA: {
-          color: "#c89b51", // (Bigetron Esports)
+          color: "#c89b51", 
           logo: "/Dewa_United_F.C._logo.png",
         },
         ONIC: {
-          color: "#ffd000", // (ONIC Esports)
+          color: "#ffd000", 
           logo: "https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_ONIC_Esports.png",
         },
         EVOS: {
-          color: "#3c92b2", // (EVOS Esports)
+          color: "#3c92b2", 
           logo: "/EVOS_Esports_logo.png",
         },
         GEEK: {
-          color: "#ec091d", // (GEEK FAM ID)
+          color: "#ec091d", 
           logo: "/Geek_Fam_2019_allmode.png",
         },
         NAVI: {
-          color: "#f7e119", // (Natus Vincere)
+          color: "#f7e119", 
           logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NAVI-Logo.svg/1200px-NAVI-Logo.svg.png",
         },
         RRQ: {
-          color: "#ff9800", // (RRQ Hoshi)
+          color: "#ff9800", 
           logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/RRQ_%28Rex_Regum_Qeon%29_Logo_%28SVG%29_-_Vector69Com.svg/1200px-RRQ_%28Rex_Regum_Qeon%29_Logo_%28SVG%29_-_Vector69Com.svg.png",
         },
         TLID: {
-          color: "#001938", // (Team Liquid ID)
+          color: "#001938", 
           logo: "/Team_Liquid_Aura_full_lightmode.png",
         }
       };
@@ -289,7 +355,7 @@ fetch(jsonFile)
           </svg>`;
       }
 
-      // Warna berdasarkan nama label
+      
       poinSeries.columns.template.adapter.add("fill", function (fill, target) {
         var labelName = target.dataItem.categoryY;
         return labelMapping[labelName]?.color || "#333";
@@ -299,31 +365,31 @@ fetch(jsonFile)
         var labelName = target.dataItem.categoryY;
 
         if (labelName === "DRW") {
-          // Dapatkan data klub dari chart.data
+          
           var currentData = chart.data.find(
             (item) => item.short_name === "DRW"
           );
           if (!currentData) return href;
 
-          // Ambil nama klub pertama dan kedua (misalnya, dari kolom "clubs")
-          var club1 = currentData.clubs?.[0]; // Nama klub pertama
-          var club2 = currentData.clubs?.[1]; // Nama klub kedua
+          
+          var club1 = currentData.clubs?.[0]; 
+          var club2 = currentData.clubs?.[1]; 
 
-          // Ambil warna klub dari labelMapping
-          var club1Color = labelMapping[club1]?.color || "#000000"; // Default hitam
-          var club2Color = labelMapping[club2]?.color || "#FFFFFF"; // Default putih
+          
+          var club1Color = labelMapping[club1]?.color || "#000000"; 
+          var club2Color = labelMapping[club2]?.color || "#FFFFFF"; 
 
-          // Generate SVG logo untuk DRAW
+          
           var svgLogo = generateDrawLogo(club1Color, club2Color);
 
-          // Konversi SVG ke URL data
+          
           var svgDataUrl =
             "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgLogo);
 
-          return svgDataUrl; // Tetapkan sebagai sumber gambar
+          return svgDataUrl; 
         }
 
-        // Gunakan logo dari labelMapping jika bukan DRAW
+        
         return labelMapping[labelName]?.logo || href;
       });
 
@@ -331,42 +397,42 @@ fetch(jsonFile)
 
 
 
-      // Disable initial animation
+      
       poinSeries.defaultState.transitionDuration = 0;
       poinSeries.hiddenState.transitionDuration = 0;
 
-      // Set initial state for labels and columns
+      
       poinLabelBullet.label.text = "";
       poinSeries.columns.template.hiddenState.properties.opacity = 1;
       poinSeries.columns.template.hiddenState.properties.visible = true;
 
-      // Responsive adjustment for mobile screens
+      
       chart.events.on("sizechanged", function (ev) {
         if (ev.target.pixelWidth <= 480) {
-          poinSeries.columns.template.maxWidth = 5; // Adjust column width for mobile screens
-          poinSeries.columns.template.height = 60; // Adjust column height for mobile screens
-          poinLabelBullet.label.fontSize = 20; // Adjust font size for mobile screens
-          poinImage.height = 55; // Adjust logo height for mobile screens
-          adjustZoomLevel(); // Adjust zoom level for mobile screens
+          poinSeries.columns.template.maxWidth = 5; 
+          poinSeries.columns.template.height = 60; 
+          poinLabelBullet.label.fontSize = 20; 
+          poinImage.height = 55; 
+          adjustZoomLevel(); 
           label.y = am4core.percent(93);
 
-          // Hide labels on mobile
+          
           leagueLabel.hide();
           label.show();
           scoreLabel.show();
         } else {
-          poinSeries.columns.template.maxWidth = 10; // Default column width for larger screens
-          poinImage.height = 60; // Default logo height for larger screens
-          categoryAxis.zoom({ start: 0, end: 1 }); // Ensure all bars are visible on larger screens
+          poinSeries.columns.template.maxWidth = 10; 
+          poinImage.height = 60; 
+          categoryAxis.zoom({ start: 0, end: 1 }); 
 
-          // Show labels on larger screens
+          
           label.show();
           leagueLabel.hide();
           scoreLabel.show();
         }
       });
 
-      // Function to adjust zoom level based on items with non-zero values
+      
       function adjustZoomLevel() {
         var itemsWithNonZero = chart.data.filter(
           (item) => item.poin > 0
@@ -377,45 +443,45 @@ fetch(jsonFile)
         });
       }
 
-      // Adapter untuk memastikan angka bulat dari 3.49293 ke 3
+      
       poinLabelBullet.label.adapter.add("text", function (text, target) {
         return target.dataItem
           ? Math.round(target.dataItem.valueX).toString()
           : text;
       });
 
-      var year = dateKeys[currentIndex]; // Initialize with the first date key
+      var year = dateKeys[currentIndex]; 
       label.text = year;
 
-      // Update year, league, and score in separate divs
+      
       document.getElementById("yearDiv").innerText = year;
 
-      var leagueLabel = chart.plotContainer.createChild(am4core.Label); // Membuat label untuk league
+      var leagueLabel = chart.plotContainer.createChild(am4core.Label); 
       leagueLabel.x = am4core.percent(100);
       leagueLabel.y = am4core.percent(91);
       leagueLabel.horizontalCenter = "right";
       leagueLabel.verticalCenter = "middle";
       leagueLabel.dx = -0;
-      leagueLabel.fontSize = 20; // Adjust font size for league
-      leagueLabel.dy = 10; // Adjust the position below the year indicator
-      leagueLabel.opacity = 0.5; // Set opacity for the league label
-      leagueLabel.className = "chart-label"; // Tambahkan kelas CSS
+      leagueLabel.fontSize = 20; 
+      leagueLabel.dy = 10; 
+      leagueLabel.opacity = 0.5; 
+      leagueLabel.className = "chart-label"; 
 
-      var scoreLabel = chart.plotContainer.createChild(am4core.Label); // Membuat label untuk score
-      scoreLabel.x = am4core.percent(100); // Set the x position of the label
+      var scoreLabel = chart.plotContainer.createChild(am4core.Label); 
+      scoreLabel.x = am4core.percent(100); 
       scoreLabel.y = am4core.percent(94);
       scoreLabel.horizontalCenter = "right";
       scoreLabel.verticalCenter = "middle";
       scoreLabel.dx = -0;
-      scoreLabel.fontSize = 20; // Adjust font size for score
-      scoreLabel.dy = 20; // Adjust the position below the league label
-      scoreLabel.opacity = 0.5; // Set opacity for the score label
-      scoreLabel.className = "chart-label"; // Tambahkan kelas CSS
-      scoreLabel.fontWeight = "600"; // Atur font-weight menjadi 800
+      scoreLabel.fontSize = 20; 
+      scoreLabel.dy = 20; 
+      scoreLabel.opacity = 0.5; 
+      scoreLabel.className = "chart-label"; 
+      scoreLabel.fontWeight = "600"; 
 
-      var interval; // Variabel untuk interval animasi
+      var interval; 
 
-      // Fungsi untuk memulai animasi charts
+      
       function play() {
         interval = setInterval(function () {
           nextYear();
@@ -423,27 +489,27 @@ fetch(jsonFile)
         nextYear();
       }
 
-      // Fungsi untuk menghentikan animasi chart
+      
       function stop() {
         if (interval) {
           clearInterval(interval);
         }
       }
 
-      // Fungsi untuk memperbarui data chart ke tahun berikutnya
+      
       function nextYear() {
         currentIndex++;
 
         if (currentIndex >= dateKeys.length) {
-          clearInterval(interval); // Pastikan interval berhenti
+          clearInterval(interval); 
           console.log("Animation completed");
           return;
         }
 
         var newData = allData[dateKeys[currentIndex]];
-        console.log("Updating to", dateKeys[currentIndex], newData); // Debug data baru
+        console.log("Updating to", dateKeys[currentIndex], newData); 
 
-        // Pastikan urutan tim konsisten
+        
         for (var i = 0; i < chart.data.length; i++) {
           if (
             newData[i] &&
@@ -460,7 +526,7 @@ fetch(jsonFile)
           }
         }
 
-        // Atur durasi animasi secara konsisten
+        
         poinSeries.interpolationDuration = stepDuration;
         valueAxis.rangeChangeDuration = stepDuration;
 
@@ -489,19 +555,19 @@ fetch(jsonFile)
           <span style="color: ${labelMapping[club2]?.color || "#000"};">${club2}</span>
         `;
 
-        scoreLabel.html = scores; // Gunakan HTML untuk mendukung format warna
-        document.getElementById("scoreDiv").innerHTML = scores; // Gunakan innerHTML untuk mendukung warna
+        scoreLabel.html = scores; 
+        document.getElementById("scoreDiv").innerHTML = scores; 
 
-        adjustZoomLevel(); // Adjust zoom level after updating data
+        adjustZoomLevel(); 
 
-        // Log untuk debugging
+        
         console.log("Year:", year);
         console.log("Chart Data:", chart.data);
       }
 
       categoryAxis.sortBySeries = poinSeries;
 
-      // Initialize chart with all bars visible
+      
       chart.data = allData[dateKeys[0]].slice(0, 2).map((team) => ({
         short_name: team.short_name,
         poin: team.poin,
@@ -511,38 +577,49 @@ fetch(jsonFile)
       }));
       categoryAxis.zoom({ start: 0, end: 1 });
 
-      // Log untuk debugging
+      
       console.log("Initial Chart Data:", chart.data);
 
-      // Hide the zoom out button
+      
       chart.zoomOutButton.disabled = true;
 
       poinSeries.events.on("inited", function () {
         setTimeout(function () {
-          play(); // Start the animation automatically
+          play(); 
         }, 2000);
       });
 
-      // Update zoom level when data changes
+      
       categoryAxis.events.on("datavalidated", function () {
         adjustZoomLevel();
       });
 
-      // Tambahkan teks statis "dango ball" di pojok kanan atas area bar chart
+      
       var staticText = chart.plotContainer.createChild(am4core.Label);
-      staticText.text = "yt:@sinauvideo";
+      staticText.text = "yt:SINAU";
       staticText.fontSize = 20;
       staticText.align = "middle";
       staticText.valign = "middle";
-      staticText.opacity = 0.2; // Set opacity for the score label
+      staticText.opacity = 0.2; 
       staticText.dx = 10;
       staticText.dy = 10;
-      staticText.fill = am4core.color("#000000"); // Warna teks hitam
+      staticText.fill = am4core.color("#000000"); 
 
-      // am4core.options.commercialWatermark.fontSize = 20; // Adjust watermark font size
-      // am4core.options.commercialWatermark.height = 2; // Adjust watermark image height
+      
+      
     });
   })
   .catch((error) => console.error("Error loading data:", error));
 
 </script>
+
+	
+</div>
+    
+
+
+
+    
+
+</body>
+</html>

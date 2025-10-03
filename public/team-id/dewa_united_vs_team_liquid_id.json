@@ -1,0 +1,722 @@
+{
+  "2023-07-13 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-07-13 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-07-13 - Game 3": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-08-17 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-08-17 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-08-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-08-25 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2023 - Closed Qualifier",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2023-08-25 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-08-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Piala Presiden Esports 2023 - Closed Qualifier",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-02-29 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-02-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:0"
+      },
+      "league": "Hope Cup",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-03-09 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-03-09 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-04-21 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-04-21 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-05-14 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "H3RO Esports 5.0",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-05-14 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "H3RO Esports 5.0",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-08-24 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-09-08 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-09-08 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2024-09-08 - Game 3": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 3": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "TLID"
+      ]
+    }
+  ]
+}

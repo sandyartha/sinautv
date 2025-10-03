@@ -13,17 +13,12 @@ body {
       margin: 0;
       padding: 0;
       text-align: center;
-      height: 100vh;
-      background: rgb(255, 255, 255);
-
-     
-      /* background-image: url("https://www.transparenttextures.com/patterns/ps-neutral.png"); */
-      /* background-image: url("https://www.transparenttextures.com/patterns/stardust.png"); */
-      /* background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png"); */
-      /* background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png"); */
-      /* background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");*/
+      min-height: 100vh;
+      background: linear-gradient(to top, #a2b3e8, #212e50);
+      border: 1px solid rgb(117, 139, 200);
+      /* opacity: 0.502; */
+      box-sizing: border-box;
 }
-
 
 h1 {
       font-size: 1.6rem;

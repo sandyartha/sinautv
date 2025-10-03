@@ -1,0 +1,362 @@
+{
+  "2023-04-07 - Game 1": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-04-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-04-07 - Game 2": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-04-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 1": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 2": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 3": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-06 - Game 1": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-06 - Game 2": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 1": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 2": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 3": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 4": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-10-07 - Game 5": [
+    {
+      "club_name": "Selangor Red Giants",
+      "short_name": "SRG",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2023-10-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "SRG",
+        "SMG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "2024-08-18 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG PH",
+      "short_name": "RSG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-08-18 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG PH",
+      "short_name": "RSG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-08-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-10-05 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG PH",
+      "short_name": "RSG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-10-05 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG PH",
+      "short_name": "RSG",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "RSG"
+      ]
+    }
+  ]
+}

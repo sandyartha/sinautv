@@ -1,0 +1,422 @@
+{
+  "2021-04-18 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-04-18 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-04-18 - Game 3": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-08-21 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-08-21 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-09-05 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-09-05 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-10 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-10 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-10 - Game 3": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-21 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-21 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-04-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-09-18 - Game 1": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-09-18 - Game 2": [
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "ORE",
+        "RSG"
+      ]
+    }
+  ]
+}

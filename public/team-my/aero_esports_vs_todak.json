@@ -1,0 +1,1052 @@
+{
+  "2020-09-11 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2020-10-23 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-10-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL MY/SG Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2020-10-23 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-10-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL MY/SG Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-01 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-01 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-05-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-29 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-29 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-05-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-05-29 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-05-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-08-21 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-08-21 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-08-21 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-09-10 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2021-09-10 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-02-19 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-02-19 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-02-19 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-03-06 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-03-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-09-18 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-09-18 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2022-09-18 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-03-17 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-03-17 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-03-17 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-08-26 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-08-26 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2023-08-26 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2024-10-12 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-10-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2024-10-12 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-10-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "Piala Esports Malaysia 2025",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "Piala Esports Malaysia 2025",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TODAK",
+      "short_name": "TDK",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "Piala Esports Malaysia 2025",
+      "clubs": [
+        "AERO",
+        "TDK"
+      ]
+    }
+  ]
+}
