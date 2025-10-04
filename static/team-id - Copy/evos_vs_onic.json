@@ -1,0 +1,3422 @@
+{
+  "2018-09-08 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2018-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 2 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-09-08 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2018-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 2 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-11-17 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-11-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 2 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-11-17 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-11-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 2 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-11-18 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2018-11-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 2 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-11-18 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2018-11-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 2 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2018-11-18 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2018-11-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 2 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-03-10 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-03-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 3 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-03-10 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-03-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 3 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-03-10 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2019-03-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 3 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-09-15 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-09-15 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-09-20 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-09-20 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-10-26 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 4 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-10-26 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 4 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2019-10-26 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 4 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-02-16 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-02-16 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-02-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-03-20 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-03-20 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-03-20 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-03-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-04-12 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-04-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 5 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-04-12 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-04-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 5 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-04 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-07-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-04 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-07-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-04 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-07-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MLBB Professional League Invitational 4 Nation Cup",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-30 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-07-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "Mytel International Championship Season 2",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-30 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-07-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "Mytel International Championship Season 2",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-07-30 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2020-07-30",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "Mytel International Championship Season 2",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-08-28 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-08-28 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-08-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-09-27 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-09-27 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-10-16 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-10-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 6 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-10-16 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-10-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 6 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2020-10-16 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-10-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 6 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-03-12 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-03-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-03-12 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 17,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-03-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-04-11 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-04-11 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-04-11 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 23,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-04-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-07-28 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-07-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Nimo TV Mobile Legends Arena Season 3",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-07-28 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 24,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-07-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Nimo TV Mobile Legends Arena Season 3",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-07-28 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-07-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "Nimo TV Mobile Legends Arena Season 3",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-08-27 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-08-27 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-09-26 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-22 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-22 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-22 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2021-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-24 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-24 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-24 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-24 - Game 4": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2021-10-24 - Game 5": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2021-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 8 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-03-04 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-03-04 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 31,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-08-26 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-08-26 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-08-26 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 31,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-09-25 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-09-25 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2022-09-25 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 35,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-03-04 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 35,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-03-04 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-03-04 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-04",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 39,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-06 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 40,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-04-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-06 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-04-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-06 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2023-04-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-09 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 43,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "4:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-09 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 44,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "4:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-09 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 45,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2023-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "4:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-04-09 - Game 4": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 46,
+      "score": 1,
+      "score_komulatif": 4
+    },
+    {
+      "date": "2023-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "4:0",
+        "score_fixed": "4:0"
+      },
+      "league": "MPL ID Season 11 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-06-16 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 47,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-06-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MLBB Southeast Asia Cup 2023 - Knockout Stage",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-06-16 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 48,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-06-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MLBB Southeast Asia Cup 2023 - Knockout Stage",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-06-16 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 49,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2023-06-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MLBB Southeast Asia Cup 2023 - Knockout Stage",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-07-17 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 50,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 3 SEA - Challenge Finals - Group Stage",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-07-17 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 51,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-07-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Snapdragon Pro Series Season 3 SEA - Challenge Finals - Group Stage",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-08-05 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 52,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-08-05 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 53,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-08-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 54,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 54,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2023-09-23 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 34,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 55,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-04-19 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 35,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 55,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-04-19 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 55,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-05-19 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 55,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-05-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-05-19 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 56,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-05-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-05-19 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 57,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-05-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-07 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 58,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-06-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-07 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 59,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-07 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 60,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-06-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "3:0"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 61,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 62,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 63,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:0",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 4": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 63,
+      "score": 0,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:1",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 5": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 63,
+      "score": 0,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-06-09 - Game 6": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 64,
+      "score": 1,
+      "score_komulatif": 4
+    },
+    {
+      "date": "2024-06-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "4:2",
+        "score_fixed": "4:2"
+      },
+      "league": "MPL ID Season 13 - Playoffs",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-09-06 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 65,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-09-06 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 66,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-09-29 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 67,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2024-09-29 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 39,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 68,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-04-25 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 40,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 68,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-04-25 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 68,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-18 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 69,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-18 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 70,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 71,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 71,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 42,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 72,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ]
+}
