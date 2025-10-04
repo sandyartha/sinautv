@@ -3478,5 +3478,155 @@
         "EVOS"
       ]
     }
+  ],
+  "2025-08-31 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 55,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 66,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "EVOS"
+      ]
+    }
+  ],
+  "2025-08-31 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 56,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 66,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "EVOS"
+      ]
+    }
+  ],
+  "2025-08-31 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 57,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 66,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "EVOS"
+      ]
+    }
+  ],
+  "2025-09-20 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 58,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 66,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "EVOS"
+      ]
+    }
+  ],
+  "2025-09-20 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 59,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 66,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "EVOS"
+      ]
+    }
   ]
 }

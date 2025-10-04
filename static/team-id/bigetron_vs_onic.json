@@ -2728,5 +2728,65 @@
         "ONIC"
       ]
     }
+  ],
+  "2025-08-23 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 65,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-08-23 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 66,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "ONIC"
+      ]
+    }
   ]
 }

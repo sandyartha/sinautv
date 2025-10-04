@@ -1468,5 +1468,95 @@
         "NAVI"
       ]
     }
+  ],
+  "2025-08-24 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "NAVI"
+      ]
+    }
   ]
 }

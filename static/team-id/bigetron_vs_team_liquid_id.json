@@ -2998,5 +2998,125 @@
         "TLID"
       ]
     }
+  ],
+  "2025-09-13 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 61,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 43,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 62,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 43,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-10-03 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 62,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 44,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-10-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-10-03 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 62,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 45,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-10-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "TLID"
+      ]
+    }
   ]
 }

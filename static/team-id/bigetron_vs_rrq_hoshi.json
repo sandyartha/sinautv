@@ -2638,5 +2638,185 @@
         "RRQ"
       ]
     }
+  ],
+  "2025-09-14 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 30,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 59,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-14 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 31,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 59,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-14 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 59,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-27 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 59,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-27 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 60,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-27 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 60,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "BTR",
+        "RRQ"
+      ]
+    }
   ]
 }
