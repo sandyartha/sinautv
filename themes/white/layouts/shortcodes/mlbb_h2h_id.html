@@ -10,7 +10,8 @@
     </div>
     <div id="scoreDiv"></div>
   </div> -->
-
+  
+  
   <div id="leagueDiv"></div>
   <div id="yearDiv"></div>
   <div id="scoreDiv"></div>
@@ -538,6 +539,36 @@ fetch(jsonFile)
       staticText.dx = 10;
       staticText.dy = 10;
       staticText.fill = am4core.color("#000000"); // Warna teks hitam
+
+      // Add a small top-centered sponsor/logo inside the chart area
+      var topLogo = chart.plotContainer.createChild(am4core.Image);
+      topLogo.href = "https://akmweb.youngjoygame.com/web/gms/image/d24e0caa1d6ffacceac10e06c4b7663c.png";
+      topLogo.horizontalCenter = "middle";
+      topLogo.verticalCenter = "top";
+      topLogo.x = am4core.percent(50);
+      topLogo.y = am4core.percent(50);
+      topLogo.width = 120;
+      topLogo.height = 40;
+      topLogo.opacity = 0.95;
+      topLogo.tooltipText = "Sponsor";
+
+      // Make logo responsive on size changes
+      chart.events.on("sizechanged", function (ev) {
+        try {
+          if (!topLogo) return;
+          if (ev.target.pixelWidth <= 480) {
+            topLogo.width = 80;
+            topLogo.height = 28;
+            topLogo.y = am4core.percent(3);
+          } else {
+            topLogo.width = 120;
+            topLogo.height = 40;
+            topLogo.y = am4core.percent(2);
+          }
+        } catch (e) {
+          console && console.warn && console.warn('topLogo resize error', e);
+        }
+      });
 
       // am4core.options.commercialWatermark.fontSize = 20; // Adjust watermark font size
       // am4core.options.commercialWatermark.height = 2; // Adjust watermark image height

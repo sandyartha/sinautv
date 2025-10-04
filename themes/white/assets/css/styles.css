@@ -15,7 +15,7 @@ body {
       text-align: center;
       min-height: 100vh;
       background: linear-gradient(to top, #a2b3e8, #212e50);
-      border: 1px solid rgb(117, 139, 200);
+      /* border: 1px solid rgb(117, 139, 200); */
       /* opacity: 0.502; */
       box-sizing: border-box;
 }
