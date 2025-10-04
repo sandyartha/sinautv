@@ -1,13 +1,13 @@
 ---
 title: Geek Fam ID vs Team Liquid ID
-date: '2025-03-22'
+date: '2025-08-23'
 teams:
 - Geek Fam ID
 - Team Liquid ID
-league: Piala Presiden Esports 2021 - Closed Qualifier
+league: MPL ID Season 15 - Regular Season
 slug: geek_fam_id_vs_team_liquid_id
 tags:
-- '59'
+- '65'
 file_json: /team-id/geek_fam_id_vs_team_liquid_id.json
 ---
 

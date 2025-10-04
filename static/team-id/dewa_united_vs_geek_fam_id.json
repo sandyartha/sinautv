@@ -718,5 +718,215 @@
         "GEEK"
       ]
     }
+  ],
+  "2025-05-09 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-09 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-14 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-14 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-14 - Game 3": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-10-03 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-10-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-10-03 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 14,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-10-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "GEEK"
+      ]
+    }
   ]
 }

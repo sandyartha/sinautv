@@ -3268,5 +3268,155 @@
         "ONIC"
       ]
     }
+  ],
+  "2025-05-18 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 69,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-18 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 70,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 71,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 71,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-19 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 42,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 72,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "ONIC"
+      ]
+    }
   ]
 }

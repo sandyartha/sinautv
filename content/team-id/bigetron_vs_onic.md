@@ -1,13 +1,13 @@
 ---
 title: Bigetron vs ONIC
-date: '2025-03-22'
+date: '2025-05-17'
 teams:
 - Bigetron
 - ONIC
-league: MPL ID Season 9 - Regular Season
+league: Snapdragon Pro Series Season 3 SEA - Challenge Finals - Playoffs
 slug: bigetron_vs_onic
 tags:
-- '88'
+- '91'
 file_json: /team-id/bigetron_vs_onic.json
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Alter Ego vs Bigetron
-date: '2025-03-08'
+date: '2025-06-11'
 teams:
 - Alter Ego
 - Bigetron
-league: MPL ID Season 9 - Regular Season
+league: MPL Indonesia Season 3 - Qualifier
 slug: alter_ego_vs_bigetron
 tags:
-- '98'
+- '105'
 file_json: /team-id/alter_ego_vs_bigetron.json
 ---
 

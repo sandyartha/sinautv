@@ -33,23 +33,23 @@
     {
       "club_name": "Aerowolf Pro Team",
       "short_name": "AERO",
-      "poin": 1,
-      "score": 0,
-      "score_komulatif": 1
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
     },
     {
       "club_name": "EVOS",
       "short_name": "EVOS",
-      "poin": 1,
-      "score": 1,
-      "score_komulatif": 1
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
     },
     {
       "date": "2018-05-25",
       "time": "19:00",
       "result": {
-        "score_split": "0:1",
-        "score_komulatif": "1:1",
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
         "score_fixed": "2:1"
       },
       "league": "Garuda Cup 2018",
@@ -64,21 +64,21 @@
       "club_name": "Aerowolf Pro Team",
       "short_name": "AERO",
       "poin": 2,
-      "score": 1,
+      "score": 0,
       "score_komulatif": 2
     },
     {
       "club_name": "EVOS",
       "short_name": "EVOS",
       "poin": 1,
-      "score": 0,
+      "score": 1,
       "score_komulatif": 1
     },
     {
       "date": "2018-05-25",
       "time": "19:00",
       "result": {
-        "score_split": "1:0",
+        "score_split": "0:1",
         "score_komulatif": "2:1",
         "score_fixed": "2:1"
       },

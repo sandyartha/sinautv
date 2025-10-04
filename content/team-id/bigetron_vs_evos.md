@@ -4,7 +4,7 @@ date: '2025-04-26'
 teams:
 - Bigetron
 - EVOS
-league: Piala Presiden Esports 2021 - Closed Qualifier
+league: MPL ID Season 5 - Regular Season
 slug: bigetron_vs_evos
 tags:
 - '116'

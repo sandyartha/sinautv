@@ -4,7 +4,7 @@ date: '2024-04-26'
 teams:
 - RRQ Hoshi
 - Team Liquid ID
-league: H3RO Esports 4.0
+league: MPL ID Season 9 - Regular Season
 slug: rrq_hoshi_vs_team_liquid_id
 tags:
 - '58'

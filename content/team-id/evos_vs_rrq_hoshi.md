@@ -1,13 +1,13 @@
 ---
 title: EVOS vs RRQ Hoshi
-date: '2025-04-19'
+date: '2025-09-13'
 teams:
 - EVOS
 - RRQ Hoshi
 league: Piala Presiden Esports 2019
 slug: evos_vs_rrq_hoshi
 tags:
-- '124'
+- '128'
 file_json: /team-id/evos_vs_rrq_hoshi.json
 ---
 

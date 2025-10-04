@@ -303,23 +303,23 @@
     {
       "club_name": "EVOS",
       "short_name": "EVOS",
-      "poin": 3,
-      "score": 0,
-      "score_komulatif": 1
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
     },
     {
       "club_name": "RRQ Hoshi",
       "short_name": "RRQ",
-      "poin": 8,
-      "score": 1,
-      "score_komulatif": 1
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
     },
     {
       "date": "2018-09-02",
       "time": "19:00",
       "result": {
-        "score_split": "0:1",
-        "score_komulatif": "1:1",
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
         "score_fixed": "2:3"
       },
       "league": "Mobile Star League Season 1 - Playoffs",
@@ -334,21 +334,21 @@
       "club_name": "EVOS",
       "short_name": "EVOS",
       "poin": 4,
-      "score": 1,
+      "score": 0,
       "score_komulatif": 2
     },
     {
       "club_name": "RRQ Hoshi",
       "short_name": "RRQ",
       "poin": 8,
-      "score": 0,
+      "score": 1,
       "score_komulatif": 1
     },
     {
       "date": "2018-09-02",
       "time": "19:00",
       "result": {
-        "score_split": "1:0",
+        "score_split": "0:1",
         "score_komulatif": "2:1",
         "score_fixed": "2:3"
       },
@@ -3713,6 +3713,126 @@
         "score_fixed": "1:2"
       },
       "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-10 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 77,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-10 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 78,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 79,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 80,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
       "clubs": [
         "EVOS",
         "RRQ"

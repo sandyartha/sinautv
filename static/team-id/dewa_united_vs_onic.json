@@ -598,5 +598,155 @@
         "ONIC"
       ]
     }
+  ],
+  "2025-05-23 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-23 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-23 - Game 3": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-08-22 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-08-22 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-08-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "ONIC"
+      ]
+    }
   ]
 }

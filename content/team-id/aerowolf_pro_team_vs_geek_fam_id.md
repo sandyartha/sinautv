@@ -4,7 +4,7 @@ date: '2021-04-18'
 teams:
 - Aerowolf Pro Team
 - Geek Fam ID
-league: MPL ID Season 5 - Regular Season
+league: MLBB Professional League Invitational 4 Nation Cup
 slug: aerowolf_pro_team_vs_geek_fam_id
 tags:
 - '23'

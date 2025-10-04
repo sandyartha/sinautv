@@ -4,7 +4,7 @@ date: '2025-05-03'
 teams:
 - Bigetron
 - RRQ Hoshi
-league: MPL ID Season 9 - Regular Season
+league: MPL ID Season 5 - Regular Season
 slug: bigetron_vs_rrq_hoshi
 tags:
 - '88'

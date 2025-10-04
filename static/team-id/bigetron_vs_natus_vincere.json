@@ -1408,5 +1408,65 @@
         "NAVI"
       ]
     }
+  ],
+  "2025-05-11 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 35,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-05-11 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "NAVI"
+      ]
+    }
   ]
 }

@@ -67,7 +67,7 @@ tbody tr:last-child td {
         </thead>
         {{ $counter := 0 }}
         {{ $sortedPages := sort .Pages ".Params.tags" "desc" }} <!-- Urutkan berdasarkan tag secara descending -->
-        {{ range seq 100 -10 10 }} <!-- Loop untuk kategori 100, 90, 80, dst -->
+        {{ range seq 120 -10 10 }} <!-- Loop untuk kategori 100, 90, 80, dst -->
             {{ $current := float . }} <!-- Konversi . menjadi angka -->
             {{ $category := printf "Tag %d - %d" (int $current) (int (add $current 10)) }} <!-- Konversi ke integer -->
             <tbody>
@@ -93,7 +93,7 @@ tbody tr:last-child td {
     </table>
 
     <ol style="text-align: left;">    
-    {{- range seq 100 -10 10 -}}
+    {{- range seq 120 -10 10 -}} 
       {{- $current := float . -}}
       {{- $category := printf "Tag %d - %d" (int $current) (int (add $current 10)) -}}
       <h3>{{ $category }}</h3>

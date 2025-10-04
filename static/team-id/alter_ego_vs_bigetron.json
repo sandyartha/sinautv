@@ -2938,5 +2938,215 @@
         "BTR"
       ]
     }
+  ],
+  "2025-05-25 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 40,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 59,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-05-25 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 59,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-06-11 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 60,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-06-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-06-11 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 41,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 61,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-06-11 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 42,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 61,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-06-11 - Game 4": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 43,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 61,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
+  ],
+  "2025-06-11 - Game 5": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 44,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 61,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "BTR"
+      ]
+    }
   ]
 }

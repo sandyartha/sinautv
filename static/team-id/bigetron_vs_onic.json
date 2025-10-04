@@ -2638,5 +2638,95 @@
         "ONIC"
       ]
     }
+  ],
+  "2025-05-17 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 63,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-17 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 26,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 64,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-17 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 64,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "ONIC"
+      ]
+    }
   ]
 }

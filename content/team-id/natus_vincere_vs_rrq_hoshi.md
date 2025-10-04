@@ -1,13 +1,13 @@
 ---
 title: Natus Vincere vs RRQ Hoshi
-date: '2025-03-07'
+date: '2025-09-05'
 teams:
 - Natus Vincere
 - RRQ Hoshi
-league: MPL ID Season 14 - Regular Season
+league: MPL ID Season 15 - Regular Season
 slug: natus_vincere_vs_rrq_hoshi
 tags:
-- '36'
+- '40'
 file_json: /team-id/natus_vincere_vs_rrq_hoshi.json
 ---
 

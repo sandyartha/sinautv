@@ -508,5 +508,65 @@
         "DEWA"
       ]
     }
+  ],
+  "2025-05-16 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "DEWA"
+      ]
+    }
+  ],
+  "2025-05-16 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "DEWA"
+      ]
+    }
   ]
 }

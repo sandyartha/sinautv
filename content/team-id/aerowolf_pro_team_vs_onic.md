@@ -4,7 +4,7 @@ date: '2021-05-01'
 teams:
 - Aerowolf Pro Team
 - ONIC
-league: Piala Presiden Esports 2019 - Closed
+league: Mobile Star League Season 3 - Regular Season
 slug: aerowolf_pro_team_vs_onic
 tags:
 - '41'

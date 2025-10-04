@@ -2098,5 +2098,305 @@
         "RRQ"
       ]
     }
+  ],
+  "2025-05-11 - Game 1": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 45,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-11 - Game 2": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 26,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 46,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-11 - Game 3": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 26,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 47,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-14 - Game 1": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 47,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-06-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "4:1"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-14 - Game 2": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 48,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-06-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "4:1"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-14 - Game 3": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 49,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "4:1"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-14 - Game 4": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 50,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2025-06-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "3:1",
+        "score_fixed": "4:1"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-14 - Game 5": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 51,
+      "score": 1,
+      "score_komulatif": 4
+    },
+    {
+      "date": "2025-06-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "4:1",
+        "score_fixed": "4:1"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 1": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 51,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 2": [
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 51,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "GEEK",
+        "RRQ"
+      ]
+    }
   ]
 }

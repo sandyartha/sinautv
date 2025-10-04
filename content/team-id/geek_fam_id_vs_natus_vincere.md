@@ -1,13 +1,13 @@
 ---
 title: Geek Fam ID vs Natus Vincere
-date: '2025-04-25'
+date: '2025-09-19'
 teams:
 - Geek Fam ID
 - Natus Vincere
-league: MPL ID Season 14 - Regular Season
+league: MPL ID Season 15 - Regular Season
 slug: geek_fam_id_vs_natus_vincere
 tags:
-- '40'
+- '44'
 file_json: /team-id/geek_fam_id_vs_natus_vincere.json
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Alter Ego vs ONIC
-date: '2025-03-09'
+date: '2025-09-07'
 teams:
 - Alter Ego
 - ONIC
-league: MPL ID Season 9 - Regular Season
+league: Nimo TV Mobile Legends Arena Season 3
 slug: alter_ego_vs_onic
 tags:
-- '82'
+- '87'
 file_json: /team-id/alter_ego_vs_onic.json
 ---
 

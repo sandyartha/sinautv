@@ -1,13 +1,13 @@
 ---
 title: Alter Ego vs RRQ Hoshi
-date: '2025-03-22'
+date: '2025-08-23'
 teams:
 - Alter Ego
 - RRQ Hoshi
-league: ONE Esports MPL Invitational 2020
+league: Snapdragon Pro Series Season 6 APAC - Challenge Season
 slug: alter_ego_vs_rrq_hoshi
 tags:
-- '86'
+- '96'
 file_json: /team-id/alter_ego_vs_rrq_hoshi.json
 ---
 

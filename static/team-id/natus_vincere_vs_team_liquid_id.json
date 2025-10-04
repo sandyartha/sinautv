@@ -1408,5 +1408,155 @@
         "TLID"
       ]
     }
+  ],
+  "2025-09-07 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "NAVI",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-07 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "NAVI",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-28 - Game 1": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "NAVI",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-28 - Game 2": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "NAVI",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-28 - Game 3": [
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 30,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "NAVI",
+        "TLID"
+      ]
+    }
   ]
 }

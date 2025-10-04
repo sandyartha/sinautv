@@ -508,5 +508,125 @@
         "RRQ"
       ]
     }
+  ],
+  "2025-05-18 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-18 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-18",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "DEWA",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-20 - Game 1": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-09-20 - Game 2": [
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "DEWA",
+        "RRQ"
+      ]
+    }
   ]
 }

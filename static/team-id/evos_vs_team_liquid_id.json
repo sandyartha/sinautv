@@ -2788,5 +2788,155 @@
         "TLID"
       ]
     }
+  ],
+  "2025-05-11 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 49,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 45,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-05-11 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 50,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 45,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-05-11 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 50,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 46,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-05 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 51,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "TLID"
+      ]
+    }
+  ],
+  "2025-09-05 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 52,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team Liquid ID",
+      "short_name": "TLID",
+      "poin": 46,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "TLID"
+      ]
+    }
   ]
 }

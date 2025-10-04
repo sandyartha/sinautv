@@ -2458,5 +2458,155 @@
         "ONIC"
       ]
     }
+  ],
+  "2025-05-24 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 52,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-05-24 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 53,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-07 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-07 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 54,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "ONIC"
+      ]
+    }
+  ],
+  "2025-09-07 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "ONIC",
+      "short_name": "ONIC",
+      "poin": 55,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "ONIC"
+      ]
+    }
   ]
 }

@@ -1,13 +1,13 @@
 ---
 title: Bigetron vs Geek Fam ID
-date: '2025-03-16'
+date: '2025-05-23'
 teams:
 - Bigetron
 - Geek Fam ID
 league: ONE Esports MPL Invitational 2020
 slug: bigetron_vs_geek_fam_id
 tags:
-- '83'
+- '86'
 file_json: /team-id/bigetron_vs_geek_fam_id.json
 ---
 

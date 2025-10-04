@@ -508,5 +508,125 @@
         "DEWA"
       ]
     }
+  ],
+  "2025-05-10 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "DEWA"
+      ]
+    }
+  ],
+  "2025-05-10 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "DEWA"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "DEWA"
+      ]
+    }
+  ],
+  "2025-08-24 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Dewa United",
+      "short_name": "DEWA",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "DEWA"
+      ]
+    }
   ]
 }

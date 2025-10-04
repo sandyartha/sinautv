@@ -2578,5 +2578,305 @@
         "RRQ"
       ]
     }
+  ],
+  "2025-05-17 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 35,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 52,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-17 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 52,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-05-17 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 53,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-12 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-06-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-12 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 54,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-06-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-12 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 55,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-06-12 - Game 4": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 56,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2025-06-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:3",
+        "score_fixed": "1:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-08-23 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 56,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-08-23 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 57,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
+  ],
+  "2025-08-23 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 38,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RRQ Hoshi",
+      "short_name": "RRQ",
+      "poin": 58,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-08-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "RRQ"
+      ]
+    }
   ]
 }

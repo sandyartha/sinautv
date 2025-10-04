@@ -979,8 +979,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "1:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
       },
       "league": "ONE Esports MPL Invitational 2021",
       "clubs": [
@@ -1009,8 +1009,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "2:0",
-        "score_fixed": "2:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
       },
       "league": "ONE Esports MPL Invitational 2021",
       "clubs": [
@@ -2359,8 +2359,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "1:0",
-        "score_fixed": "3:0"
+        "score_komulatif": "0:1",
+        "score_fixed": "0:3"
       },
       "league": "MPL ID Season 14 - Playoffs",
       "clubs": [
@@ -2389,8 +2389,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "2:0",
-        "score_fixed": "3:0"
+        "score_komulatif": "0:2",
+        "score_fixed": "0:3"
       },
       "league": "MPL ID Season 14 - Playoffs",
       "clubs": [
@@ -2419,8 +2419,8 @@
       "time": "19:00",
       "result": {
         "score_split": "1:0",
-        "score_komulatif": "3:0",
-        "score_fixed": "3:0"
+        "score_komulatif": "0:3",
+        "score_fixed": "0:3"
       },
       "league": "MPL ID Season 14 - Playoffs",
       "clubs": [
@@ -2481,6 +2481,96 @@
         "score_split": "1:0",
         "score_komulatif": "2:0",
         "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-23 - Game 1": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 53,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-23 - Game 2": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "BTR",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-23 - Game 3": [
+    {
+      "club_name": "Bigetron",
+      "short_name": "BTR",
+      "poin": 53,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
       },
       "league": "MPL ID Season 15 - Regular Season",
       "clubs": [

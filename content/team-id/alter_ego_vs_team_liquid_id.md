@@ -1,13 +1,13 @@
 ---
 title: Alter Ego vs Team Liquid ID
-date: '2025-04-26'
+date: '2025-09-20'
 teams:
 - Alter Ego
 - Team Liquid ID
-league: MPL ID Season 9 - Regular Season
+league: Snapdragon Pro Series Season 6 APAC - Challenge Season
 slug: alter_ego_vs_team_liquid_id
 tags:
-- '78'
+- '83'
 file_json: /team-id/alter_ego_vs_team_liquid_id.json
 ---
 

@@ -1888,5 +1888,215 @@
         "GEEK"
       ]
     }
+  ],
+  "2025-06-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-06-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-06-13 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:3",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 39,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-26 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 40,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-26 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
   ]
 }

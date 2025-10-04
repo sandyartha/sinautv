@@ -1,13 +1,13 @@
 ---
 title: EVOS vs Geek Fam ID
-date: '2025-05-04'
+date: '2025-09-28'
 teams:
 - EVOS
 - Geek Fam ID
-league: MPL ID Season 14 - Regular Season
+league: MPL ID Season 5 - Regular Season
 slug: evos_vs_geek_fam_id
 tags:
-- '78'
+- '82'
 file_json: /team-id/evos_vs_geek_fam_id.json
 ---
 

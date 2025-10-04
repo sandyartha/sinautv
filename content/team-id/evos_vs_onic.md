@@ -1,13 +1,13 @@
 ---
 title: EVOS vs ONIC
-date: '2025-04-25'
+date: '2025-09-19'
 teams:
 - EVOS
 - ONIC
-league: MPL ID Season 9 - Regular Season
+league: Nimo TV Mobile Legends Arena Season 3
 slug: evos_vs_onic
 tags:
-- '109'
+- '114'
 file_json: /team-id/evos_vs_onic.json
 ---
 

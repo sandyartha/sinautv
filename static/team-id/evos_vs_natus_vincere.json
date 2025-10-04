@@ -1378,5 +1378,155 @@
         "NAVI"
       ]
     }
+  ],
+  "2025-05-24 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-05-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-05-24 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 27,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-05-24 - Game 3": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "EVOS",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-08-22 - Game 1": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "NAVI"
+      ]
+    }
+  ],
+  "2025-08-22 - Game 2": [
+    {
+      "club_name": "EVOS",
+      "short_name": "EVOS",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Natus Vincere",
+      "short_name": "NAVI",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-08-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "EVOS",
+        "NAVI"
+      ]
+    }
   ]
 }
