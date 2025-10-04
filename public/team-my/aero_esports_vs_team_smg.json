@@ -1,0 +1,632 @@
+{
+  "2020-09-17 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2020-09-17 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2021-04-25 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2021-04-25 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2021-04-25 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2021-09-19 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-02-21 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-02-21 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-02-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-09-09 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-09-09 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-09-09 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-10-13 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-10-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-10-13 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2022-10-13 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-03-26 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-03-26 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-09-08 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ],
+  "2023-09-08 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team SMG",
+      "short_name": "SMG",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "SMG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "2022-09-10 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2023-04-02 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2023-04-02 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2023-04-02 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-04-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2023-08-27 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2023-08-27 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-08-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2024-09-28 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ],
+  "2024-09-28 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Team HAQ",
+      "short_name": "HAQ",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "AERO",
+        "HAQ"
+      ]
+    }
+  ]
+}

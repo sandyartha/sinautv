@@ -1,0 +1,1292 @@
+{
+  "2021-04-25 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-04-25 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-04-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-09-17 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-09-17 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-09-17",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-10-15 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-10-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2021-10-15 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-10-15",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-02-23 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-02-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-02-23 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-02-23 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-02-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-04-03 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2022-10-14 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-10-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 10 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-03-25 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 11 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-08-19 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-08-19 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-08-19 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-08-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-06 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-06 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-06 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 12 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-20 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-20 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-20",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-22 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2023-10-22 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-10-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "Johor All Star Esports Championship 2023",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-04-27 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 13 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-04-27 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 19,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 13 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-04-27 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 13 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-05-31 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-05-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-05-31 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-05-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-05-31 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2024-05-31",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:3",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-06-01 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-06-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-06-01 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 16,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-06-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-06-01 - Game 3": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-06-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-06-01 - Game 4": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-06-01 - Game 5": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-06-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "3:2",
+        "score_fixed": "3:2"
+      },
+      "league": "MPL Malaysia Season 13 - Playoffs",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-10-12 - Game 1": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ],
+  "2024-10-12 - Game 2": [
+    {
+      "club_name": "HomeBois",
+      "short_name": "BOIS",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "RSG MY",
+      "short_name": "RSG",
+      "poin": 18,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-10-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 14 - Regular Season",
+      "clubs": [
+        "BOIS",
+        "RSG"
+      ]
+    }
+  ]
+}

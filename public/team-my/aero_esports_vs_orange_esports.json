@@ -1,0 +1,782 @@
+{
+  "2020-09-16 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2020-09-16 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-09-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2020-09-16 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-09-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL MY/SG Season 6 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2020-10-24 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL MY/SG Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2020-10-24 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2020-10-24",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL MY/SG Season 6 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-04-23 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-04-23 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-04-23 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-04-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 7 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-05-29 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-05-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-05-29 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-05-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL Malaysia Season 7 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-09-25 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2021-09-25 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2021-09-25",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 8 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-02-22 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-02-22 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-02-22 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-02-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "Malaysian Esports Selection 2022",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-09 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-09 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-09 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-09",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL Malaysia Season 9 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-22 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 8,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-22 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-04-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-04-22 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-04-22",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 9 - Playoffs",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-08-12 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 12,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-08-12 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-08-12 - Game 3": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-12",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-08-21 - Game 1": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ],
+  "2022-08-21 - Game 2": [
+    {
+      "club_name": "Aero Esports",
+      "short_name": "AERO",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Orange Esports",
+      "short_name": "ORE",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-08-21",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Malaysia Season 10 - Regular Season",
+      "clubs": [
+        "AERO",
+        "ORE"
+      ]
+    }
+  ]
+}

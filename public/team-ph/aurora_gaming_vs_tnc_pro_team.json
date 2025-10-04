@@ -1,0 +1,362 @@
+{
+  "2024-09-01 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2024-09-01 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2024-09-01 - Game 3": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-01",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2024-09-27 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2024-09-27 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2024-09-27 - Game 3": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 14 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-03-16 - Game 3": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-03-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 1": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 2": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ],
+  "2025-04-27 - Game 3": [
+    {
+      "club_name": "Aurora Gaming",
+      "short_name": "RORA",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "TNC Pro Team",
+      "short_name": "TNC",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-27",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL PH Season 15 - Regular Season",
+      "clubs": [
+        "RORA",
+        "TNC"
+      ]
+    }
+  ]
+}

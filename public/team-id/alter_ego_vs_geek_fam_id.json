@@ -1,0 +1,2102 @@
+{
+  "2019-09-07 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2019-09-07 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 0,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2019-09-07",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2019-10-06 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2019-10-06 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2019-10-06 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2019-10-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 4 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-02-08 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-02-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-02-08 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-02-08",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-03-28 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 1,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-03-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-03-28 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 7,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 2,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-03-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-03-28 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-03-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 5 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-05-11 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 2,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:1"
+      },
+      "league": "DGWIB Season 5",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-05-11 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 9,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 3,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-05-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:1"
+      },
+      "league": "DGWIB Season 5",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-08-16 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 3,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-08-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-08-16 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-08-16 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2020-08-16",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-09-11 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-09-11",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 6 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-12-06 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-12-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "ONE Esports MPL Invitational 2020",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2020-12-06 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2020-12-06",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "ONE Esports MPL Invitational 2020",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-02-28 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-02-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-02-28 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-02-28",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-03-26 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-03-26 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-03-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 7 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-14 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 4,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2021-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-14 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 5,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-08-14 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 5,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-08-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-09-10 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 21,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-09-10 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2021-09-10 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2021-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 8 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-02-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-02-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-02-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-02-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-03-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-03-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-03-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-03-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 9 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-08-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-08-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 6,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2022-08-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 7,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2022-09-10 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 8,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2022-09-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 10 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-03-03 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 9,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-03-03 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 10,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-03-03",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-03-23 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 30,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 10,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-03-23 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 30,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 11,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-03-23 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 11,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 11 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-07-29 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 12,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-07-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-07-29 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 31,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 13,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-07-29",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-09-14 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 13,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2023-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-09-14 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 14,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2023-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2023-09-14 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 32,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 15,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2023-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 12 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-03-23 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 15,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-03-23 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 16,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-03-23 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 17,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-03-23",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-05-05 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 18,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-05-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-05-05 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 19,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-05-05",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 13 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-08-10 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 33,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 20,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-08-10 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 34,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-08-10 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 35,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-08-10",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:1",
+        "score_fixed": "2:1"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-09-14 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 36,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 20,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2024-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-09-14 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 21,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2024-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2024-09-14 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 36,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 22,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2024-09-14",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 14 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-04-19 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 22,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-04-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-04-19 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 23,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-04-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:1",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-04-19 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 24,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-04-19",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "1:2",
+        "score_fixed": "1:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-02 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 25,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-05-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-05-02 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 26,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-05-02",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:2"
+      },
+      "league": "MPL ID Season 15 - Regular Season",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-06-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 27,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:1",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-06-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 28,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:2",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-06-13 - Game 3": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 37,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 1,
+      "score_komulatif": 3
+    },
+    {
+      "date": "2025-06-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "0:1",
+        "score_komulatif": "0:3",
+        "score_fixed": "0:3"
+      },
+      "league": "MPL ID Season 15 - Playoffs",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 38,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-13 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 39,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-13",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-26 - Game 1": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 40,
+      "score": 1,
+      "score_komulatif": 1
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "1:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ],
+  "2025-09-26 - Game 2": [
+    {
+      "club_name": "Alter Ego",
+      "short_name": "AE",
+      "poin": 41,
+      "score": 1,
+      "score_komulatif": 2
+    },
+    {
+      "club_name": "Geek Fam ID",
+      "short_name": "GEEK",
+      "poin": 29,
+      "score": 0,
+      "score_komulatif": 0
+    },
+    {
+      "date": "2025-09-26",
+      "time": "19:00",
+      "result": {
+        "score_split": "1:0",
+        "score_komulatif": "2:0",
+        "score_fixed": "2:0"
+      },
+      "league": "MPL Indonesia Season 16",
+      "clubs": [
+        "AE",
+        "GEEK"
+      ]
+    }
+  ]
+}
